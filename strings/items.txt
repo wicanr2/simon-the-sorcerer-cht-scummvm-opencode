@@ -1,0 +1,378 @@
+"EW
+&*S
+&*W
+)S)
+2) )SG
+2,2
+2/2
+2GuP
+2MP
+3$<T
+3,3
+3ud
+:*S
+;END 0 0.
+</2
+@*2
+@.42.24-44
+@uc
+@ud
+@ue
+@uf
+@ug
+@uh
+@ui
+AddAdj
+AddNoise
+AddNoun
+AddPrep
+AddSPTRs
+AddVerb
+Apparently its some sort of magical metal polish.
+Axe head
+BeObject
+BePlayer
+BeRoom
+BeSuperRoom
+Beer barrel
+Beer voucher
+Big, green and fruity.
+Black cat
+Boeotian cherrywood
+BoxRoom
+Bucket of water
+Calypso's note
+Cave Entrance
+Chocolate truffle door
+ClearEditedTabl
+ClearOFlag
+ClearTable
+Climbing pin
+Cold remedy
+CreateGroup
+Cross Roads
+DelAdj
+DelExit
+DelNoise
+DelNoun
+DelPrep
+DelVerb
+DeleteGroup
+DeleteTable
+Dodgy Geezer
+Domestic cleaners
+DoorPair
+Dressing screen
+Dwarf Mine
+E*W
+EditMode
+EditObject
+EditTable
+Elastic band
+ExitPair
+Extremely large and daunting doors.
+F$#
+FindAction
+FindFlag
+FindItem
+FindString
+FindText
+Fire extinguisher
+Flaming brand
+Floor wax
+Forge door
+FreeMode
+Fruit machine
+Gold coins
+Gruesome statue
+H*S
+I'm sure we can come to some arrangement.
+I've changed my mind about magical stuff.
+I've finally got my spell book back.
+Icy ledge
+Instruments of Death
+Iron maiden
+Lily leaf
+ListBitFlag
+ListBitFlagTwo
+ListClass
+ListEditedTable
+ListExits
+ListFlag
+ListItems
+ListMenu
+ListOFlags
+ListObjects
+ListRooms
+ListTables
+ListTrack
+ListUnusedActio
+ListWord
+LoadGame
+LoadTable
+LockDoor
+Loose bandage
+MNP
+Magic amulet
+Magic wand
+Man-mangler
+Metal detector
+Milrith ore
+Miniature statue
+Moose head
+Mouse Hole
+Mystic tapestry
+NameClass
+NameOFlag
+NewExit
+NewTable
+NorthWest
+Nubile Valkyrie
+OSize
+OWeight
+Owl Tree
+Pink splodge
+Pots and pans
+PrinterOff
+PrinterOn
+Puddle's center
+Rat bone
+Rope & magnet
+TestMode
+TopFloor
+TrackFlag
+Tree stump
+Troll Bridge
+UnChain
+UnObject
+UnPlayer
+UnRoom
+UnShare
+UnShareGroup
+UnSuperRoom
+UnTrackFlag
+UnsetClass
+Wagon wheel
+Water-melon
+White spirit
+Whoever he was, he had an enormous nose.
+Wise owl
+WizKid
+WizKid wallet
+Wizard's stuff
+Yep.
+a*"
+above
+after
+amulet
+archeologist
+axe
+b(N
+bad
+band
+bard
+beard
+bedroom
+beekeepers
+beer
+beerroom
+before
+bone
+book
+branch
+brand
+broom
+bucket
+cMP
+candles
+candycott
+catapault
+cells
+chamber
+chemicals
+chest
+circle
+clapper
+consume
+container
+cough
+debugoff
+debugon
+detector
+dragon
+drop
+druidon
+dummy
+dungeon
+elastic
+end
+entrance
+exit
+extinguisher
+fasttext
+fire
+flaming
+floorwax
+forge
+fossil
+frogsbane
+frozen01
+frozen02
+garden
+gem
+giant
+gin
+glass
+goblins
+gofrog
+gogarden
+golab
+gold
+gold pieces.
+gollum
+goroom1
+goroom2
+hacksaw
+hammer
+hat
+head
+headhut
+hole
+hook
+human
+inn
+junction
+key
+lab
+ladder
+large
+leaf
+letsrock
+link
+list
+loadit
+loadset1
+loadset2
+loadset3
+loadset4
+loadset5
+loadset6
+lookat
+lub+2
+magic
+magnet
+mahogany
+map
+matches
+matchstick
+medicine
+melon
+message1
+message2
+message3
+message4
+message5
+message6
+message7
+metal
+milrith
+mints
+mouse
+move
+mub+2
+mushroom
+nail
+normal
+note
+nothing
+nub+2
+oafwood
+oil
+ontop
+ore
+owl
+paint
+paper
+path
+pebble
+pickup
+pieces
+pin
+pits1
+pits2
+pits4
+pits5
+planking
+plnaking
+potion
+pouch
+rat
+readspellbook
+remove
+reset
+ring
+rock
+rope
+sapling
+saveit
+scissors
+seed
+seeds
+shield
+shoppe
+shopping
+sign
+slowmo
+slowtext
+small
+smokebox
+sock
+sousaphone
+spear
+spell
+staff
+sting0
+sting1
+sting2
+sting3
+sting4
+sting5
+sting6
+sting7
+sting8
+stone
+strength
+string
+superget
+swamp01
+swamp02
+swamp03
+tadpole
+talkto
+test
+test1
+test2
+text1
+torture
+treasury
+tree
+trumpet
+u1u2
+vault
+voucher
+walkto
+wallet
+wand
+water
+wax
+wear
+wedge
+whistle
+witch
+with
+wizzcott
+wizzgard
+woodworm
+workface
+xroads
+~*3

@@ -1,0 +1,52 @@
+# Simon the Sorcerer 繁體中文譯表
+# 格式: 英文<TAB>繁體中文
+# 由 tools/build_translation.py 編成 Big5 的 simon_zh.tab
+
+# ── 動詞列 ──
+Walk to	走向
+Give	給
+Pick up	拿起
+Use	使用
+Open	開
+Talk to	交談
+Push	推
+Close	關
+Look at	看
+Pull	拉
+
+# ── 系統訊息 ──
+Use it to Save, Load or Quit.	用它來儲存、載入或離開。
+Use this to speed around the game.	用它來加速遊戲移動。
+You can up it or down it.	你可以上或下。
+Abracadabra!	阿布拉卡達布拉！
+Alakazam!	阿拉卡贊！
+Hocus Pocus!	霍克斯波克斯！
+Hello.	你好。
+No thanks.	不用了，謝謝。
+Yes please.	好的，麻煩你。
+Why not?	有何不可？
+
+# ── 常用對話 ──
+What do you want?	你想要什麼？
+Where's the door?	門在哪裡？
+Can I see something else?	我可以看別的東西嗎？
+Can you do me a Cool Red Witch?	可以幫我調一杯清涼紅女巫嗎？
+How about a Warlock Surprise?	來一杯術士驚喜如何？
+Er... Beer?	呃...啤酒？
+No more magical stuff.	不能再碰魔法了。
+I wanna be a wizard.	我想當巫師。
+Please accept my deepest apologies.	請接受我最深的歉意。
+I wonder where the rest of the rat is ?	我在想老鼠的其餘部分在哪裡？
+I can't imagine what use I'll have for it.	我想不出它有什麼用。
+I could make it worth your while.	我可以讓你不虛此行。
+I love Wagon Wheels.	我愛吃車輪餅。
+I wonder if I should ask for a refund.	我在想是不是該要求退款。
+I got them from the oaf in the forest.	我從森林裡的呆子那裡拿到的。
+I pounded it out of some seeds.	我用種子把它搗出來的。
+I can turn people into stone with this.	我可以用這個把人變成石頭。
+I hope it's not like the one up the stairs...	希望不要像樓上那個一樣...
+I've changed my mind about magical stuff.	我改變主意了，不再碰魔法。
+I've finally got my spell book back.	我終於拿回我的魔法書了。
+What do you know about Sordid?	你對索迪德了解多少？
+Sorry, I thought you were someone else.	抱歉，我以為你是別人。
+Something tells me they don't welcome visitors.	有種感覺告訴我他們不歡迎訪客。

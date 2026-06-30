@@ -1,0 +1,9 @@
+CloseDoor
+OpenDoor
+Use it to Save, Load or Quit.
+Use this to speed around the game.
+Walk to
+close
+give
+open
+use

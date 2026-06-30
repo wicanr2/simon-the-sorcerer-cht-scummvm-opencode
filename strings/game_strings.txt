@@ -1,0 +1,870 @@
+"EW
+$24-44)2
+$<T
+$<W
+&*S
+&*W
+)S)
+-;3
+-;4
+-;5
+-;6
+-;7
+-;8
+2) )SG
+2,2
+2/2
+2GuP
+2MP
+3$<T
+3,3
+3ud
+:*S
+;END 0 0.
+</2
+@*2
+@.42.24-44
+@uc
+@ud
+@ue
+@uf
+@ug
+@uh
+@ui
+A Tungsten-Carbide lightweight claw hammer.
+A beekeeper's hat and fashion accessory.
+A block of valuable wood.
+A book of souvenir matches.
+A box of safety matches.
+A bucket of floor wax.
+A carbon dioxide fire extinguisher.
+A fine example of a bucket of water.
+A fine example of it's kind.
+A fine example of its kind.
+A goblin key made from two teeth and a pencil.
+A heavy gold encrusted door.
+A hook attached to a length of rope.
+A lump of metal bearing rock.
+A makeshift catapult.
+A maple leaf.
+A metal bar from inside a bell.
+A metal slops bucket. There is a hole in the side of it.
+A piece of wood with a burnt end.
+A pile of small pebbles.
+A pin used as a foothold for climbing across a rockface.
+A powerful looking wizard's staff.
+A roll of Super XXXXX Strong mints.
+A single strand of white dog hair.
+A small forked sapling.
+A small pebble.
+A small squeaky thing that likes cheese.
+A smelly liquid in a jar.
+A special herb with strange properties.
+A special, super-hard, axe head.
+A specimen collecting jar for invertebrates.
+A statue of a really ugly barbarian.
+A stone table used for the sacrificing of shaved lions.
+A strong elastic band.
+A sturdy wooden door.
+A super strong hacksaw.
+A suspiciously smelling pouch.
+A triangular piece of wood.
+A voucher for a free glass of beer at the Drunken Druid.
+A wood nail.
+Abort
+Abracadabra!
+AddAdj
+AddNoise
+AddNoun
+AddPrep
+AddSPTRs
+AddVerb
+Alakazam!
+An extremely shiny shield.
+Anvil
+Apparently its some sort of magical metal polish.
+Attendant
+Axe head
+Bandages
+Barbarian
+Bard
+Barman
+Barrels
+Bars
+BeObject
+BePlayer
+BeRoom
+BeSuperRoom
+Beans
+Beard
+Bed
+Beehive
+Beer
+Beer barrel
+Beer voucher
+Behind Cottage
+Bell
+Big, green and fruity.
+Black cat
+Blacksmith
+Block
+Boat
+Boeotian cherrywood
+Boglin
+Book
+Books
+Bottle
+Bottles
+Boulder
+Box
+BoxRoom
+Boxes
+Branch
+Bridge
+Brochures
+Brochures for the Fiery Pits of Rondor.
+Broom
+Bucket
+Bucket of water
+Cake
+Cakes
+Calypso's note
+Can I see something else?
+Can you do me a Cool Red Witch?
+Candles
+Catapult
+Cauldron
+Cave
+Cave Entrance
+Cedar
+Center of the Forest
+Centre
+Chain
+Chemicals
+Chest
+Chocolate truffle door
+Clapper
+ClearEditedTabl
+ClearOFlag
+ClearTable
+Climbing pin
+Clock
+CloseDoor
+Cold remedy
+Compost
+Corn
+Cosmetics
+Cottage
+Crack
+Create
+CreateGroup
+Cross Roads
+Cupboard
+Debugger
+DelAdj
+DelExit
+DelNoise
+DelNoun
+DelPrep
+DelVerb
+Delete
+DeleteGroup
+DeleteTable
+Demons
+Dirt
+Dodgy Geezer
+Doggie
+Domestic cleaners
+Door
+DoorPair
+Doors
+Doorway
+Down
+Dragon
+Dragon's Cave
+Drawer
+Dressing screen
+Druid
+Dwarf
+Dwarf Mine
+E*W
+East
+Ebony
+EditMode
+EditObject
+EditTable
+Elastic band
+Enough beer for a really good night.
+Ent
+Er... Beer?
+Exit
+ExitPair
+Extremely large and daunting doors.
+F$#
+Feather
+FindAction
+FindFlag
+FindItem
+FindString
+FindText
+Fire extinguisher
+Fireplace
+Flaming brand
+Floor wax
+Floorboards
+Flour
+Forest
+Forge door
+Fossil
+FreeMode
+Fridge
+Frog
+Frogsbane
+Fruit machine
+Gem
+Gems
+Giant
+Goat
+Gold coins
+Golum
+Gorge
+Goto
+Gruesome statue
+Guard
+H*S
+Hacksaw
+Hair
+Hammer
+Handle
+Hat
+Hello.
+Hocus Pocus!
+Hole
+Hook
+How about a Warlock Surprise?
+I can turn people into stone with this.
+I can't imagine what use I'll have for it.
+I could make it worth your while.
+I got them from the oaf in the forest.
+I hope it's not like the one up the stairs...
+I love Wagon Wheels.
+I pounded it out of some seeds.
+I wanna be a wizard.
+I wonder if I should ask for a refund.
+I wonder where the rest of the rat is ?
+I'm sure we can come to some arrangement.
+I've changed my mind about magical stuff.
+I've finally got my spell book back.
+Icy ledge
+In front of Cottage
+Inside
+Inside Cottage
+Instruments of Death
+Iron maiden
+It doesn't work. I don't know why I bought it.
+It has a fossil in the middle of it.
+It has the words 'DRINK ME' on the bottle.
+It looks like a lump of kryptonite.
+It looks like the sort of thing a Witch might fly on.
+It looks really upset.
+It says 'Equal rights for Trolls' on it.
+It smells of hundred year old Gorgonzola.
+It tells you all about magic wands.
+It's Sordid's spellbook. It looks just like mine.
+It's a door set into an old tree.
+It's a feather.
+It's a magic mushroom with 'EAT ME' written on it.
+It's a rock.
+It's a shopping list addressed to the storekeeper in town.
+It's a tree branch.
+It's an empty, wooden bucket.
+It's covered in scribblings.
+It's got something stuck in the end of it.
+It's long and hard with a pointy end.
+It's made from real dwarf hair.
+It's not a Yale.
+It's set to milrith finding mode.
+It's the oldest thing in the entire game.
+Its lucky my hat is fireproofed.
+Key
+Ladder
+Ladders
+Lantern
+Lava
+Leaf
+Lever
+Lily leaf
+ListBitFlag
+ListBitFlagTwo
+ListClass
+ListEditedTable
+ListExits
+ListFlag
+ListItems
+ListMenu
+ListOFlags
+ListObjects
+ListRooms
+ListTables
+ListTrack
+ListUnusedActio
+ListWord
+LoadGame
+LoadTable
+Lock
+LockDoor
+Look
+Loose bandage
+MNP
+Magic amulet
+Magic wand
+Magnet
+Mahogany
+Man-mangler
+Manacles
+Map
+Matches
+Matchstick
+Metal detector
+Milrith ore
+Miniature statue
+Mints
+Mirror
+Mix me a Wet Wizard, barkeep.
+Moose head
+Mountain
+Mouse
+Mouse Hole
+Mushroom
+My Wizkid club wallet. It's full of useless junk.
+My mahogany has been munched by a horde of woodworm.
+Mystic tapestry
+Nail
+NameClass
+NameOFlag
+Near the tap
+Net
+NewExit
+NewTable
+No more magical stuff.
+No thanks.
+North
+NorthEast
+NorthWest
+Nubile Valkyrie
+OSize
+OWeight
+Oaf
+Oak
+Oil
+OpenDoor
+Out
+Outside
+Outside Tower
+Owl Tree
+Paper
+Pebble
+Pink splodge
+Pits
+Placard
+Place
+Plank
+Please accept my deepest apologies.
+Postcard
+Potion
+Pots and pans
+Pouch
+PrinterOff
+PrinterOn
+Puddle
+Puddle's center
+Quit
+Rake
+Rat bone
+Rename
+Repulser
+Respuler
+Ring
+Rock
+Rockface
+Rope
+Rope & magnet
+Rosewood
+S-!
+S-!L
+S-"
+S-"h
+S-#
+S-#n
+S-#~
+S-$
+S-%
+S-%<
+S-%L
+S-&
+S-&l
+S-'
+S-'Z
+S-'j
+S-'z
+S-(
+S-(|
+S-)
+S-)D
+S-*
+S-*<
+S-+
+S-+<
+S-+L
+S-,
+S-,h
+S--
+S--f
+S-.
+S-.n
+S-.~
+S-/
+S-/r
+S-0
+S-1
+S-1p
+S-2
+S-2,
+S-3
+S-38
+S-3H
+S-3X
+S-4
+S-4P
+S-4`
+S-4p
+S-5
+S-5@
+S-5P
+S-5`
+S-5p
+S-6
+S-60
+S-6@
+S-6P
+S-6`
+S-6p
+S-7
+S-7f
+S-8
+S-8p
+S-9
+S-:
+S-:&
+S-;
+S-;4
+S-;D
+S-;T
+S-;d
+S-;t
+S-<
+S-=
+S-=$
+S-=4
+S->
+S->J
+S-?
+S-?N
+S-@
+S-A
+S-Al
+S-A|
+S-B
+S-Bj
+S-C
+S-CT
+S-D
+S-DJ
+S-E
+S-F
+S-F4
+S-G
+S-G|
+S-H
+S-H&
+S-H6
+S-HF
+S-HV
+S-Hf
+S-Hv
+S-I
+S-Iv
+S-J
+S-J&
+S-J6
+S-JF
+S-JV
+S-K
+S-L
+S-M
+S-M&
+S-N
+S-O
+S-P
+S-P4
+SRExit
+SRExitPair
+Sacks
+Sapling
+Sausages!
+SaveEditedTable
+SaveGame
+SaveTable
+SaveUniverse
+Scissors
+Seeds
+Set
+SetBitFlagText
+SetBitFlagTwoTe
+SetClass
+SetFlag
+SetFlagText
+SetLock
+SetMenu
+SetName
+SetOFlag
+SetRTable
+SetSRTable
+SetUFlag
+SetVolume
+Share
+ShareGroup
+Sharp things
+Shield
+Shopkeeper
+Shopping list
+Shore
+ShowAllObjects
+ShowAllRooms
+ShowFlag
+ShowLevel
+ShowObject
+ShowRoom
+ShowUser
+Sign
+Skull
+Skullcrusher
+Skylight
+Sleeping Giant
+Small statue
+Smokebox
+Snowman
+Sock
+Something tells me they don't welcome visitors.
+Sordid
+Sorry, I thought you were someone else.
+Sousaphone
+South
+SouthEast
+SouthWest
+Souvenir
+Souvenir matches
+Spear
+Specimen jar
+Spell book
+Spinning wheel
+Spirit
+Staff
+StatMe
+Statue
+Status
+Steps
+Stew
+Stew pot
+Sticky, yellow wax from the beehive.
+Stone
+Stone table
+Stove
+Strength potion
+StripTPTRs
+Super Powered Elephant Cold Remedy.
+SuperDeleteGrou
+Suspicious herbs
+Sweeties
+Table
+Tadpole
+Tap
+Teak
+Teleporter
+TestMode
+The Great Ring. It has strange symbols on it.
+The complex arrangement of valves and metal tubes.
+The equivalent of a giant joint for bees.
+The magnet with the rope tied to it.
+There's 8 of them.
+There's a piece of paper under this rock.
+They look like hairdressing scissors.
+They're fine examples of their kind.
+Tissues
+Tomb
+TopFloor
+Towards tap
+Tower of Doom
+TrackFlag
+Trapdoor
+Tree
+Tree stump
+Troll
+Troll Bridge
+Trunk
+UnChain
+UnObject
+UnPlayer
+UnRoom
+UnShare
+UnShareGroup
+UnSuperRoom
+UnTrackFlag
+UnsetClass
+Use it to Save, Load or Quit.
+Use this to speed around the game.
+Village
+Vines
+Wagon wheel
+Walk to
+Water
+Water-melon
+Wax
+Wedge
+Well
+West
+What do you know about Sordid?
+What do you want?
+Where's the door?
+Whistle
+White
+White spirit
+Whoever he was, he had an enormous nose.
+Why not?
+Wise owl
+Witch's Cottage
+WizKid
+WizKid wallet
+Wizard
+Wizard's stuff
+Woodcutter
+Woodworm
+Yep.
+Yes please.
+You can up it or down it.
+a*"
+above
+after
+amulet
+archeologist
+axe
+b(N
+bad
+band
+bard
+beard
+bedroom
+beekeepers
+beer
+beerroom
+before
+bone
+book
+branch
+brand
+broom
+bucket
+cMP
+candles
+candycott
+catapault
+cells
+chamber
+chemicals
+chest
+circle
+clapper
+close
+consume
+container
+cough
+debugoff
+debugon
+detector
+dragon
+drop
+druidon
+dummy
+dungeon
+elastic
+end
+entrance
+exit
+extinguisher
+fasttext
+feather
+fire
+flaming
+floorwax
+forest10
+forest112
+forest17
+forest2
+forest22
+forest4
+forest87
+forest88
+forest91
+forest92
+forest95
+forest96
+forest97
+forest98
+forest99
+forge
+fossil
+frogsbane
+frozen01
+frozen02
+garden
+gem
+giant
+gin
+give
+glass
+goblins
+gofrog
+gogarden
+golab
+gold
+gold pieces.
+gollum
+goroom1
+goroom2
+hacksaw
+hammer
+hat
+head
+headhut
+hole
+hook
+human
+inn
+junction
+key
+lab
+ladder
+large
+leaf
+letsrock
+link
+list
+loadit
+lookat
+magic
+magnet
+mahogany
+map
+matches
+matchstick
+medicine
+melon
+message1
+message2
+message3
+message4
+message5
+message6
+message7
+metal
+milrith
+mine
+mints
+mushroom
+nail
+normal
+nothing
+oafwood
+oil
+ontop
+open
+ore
+owl
+paint
+paper
+path
+pebble
+pickup
+pieces
+pin
+pits1
+pits2
+pits4
+pits5
+planking
+plnaking
+potion
+pouch
+rat
+readspellbook
+remove
+reset
+ring
+rock
+rope
+sapling
+saveit
+scissors
+seed
+seeds
+shield
+shoppe
+shopping
+sign
+slowmo
+slowtext
+small
+smokebox
+sock
+sousaphone
+spear
+spell
+staff
+stone
+strength
+string
+superget
+swamp01
+swamp02
+swamp03
+tadpole
+talkto
+test
+test1
+test2
+text1
+torture
+tower
+treasury
+tree
+trumpet
+use
+vault
+village
+voucher
+walkto
+wallet
+wand
+water
+wax
+wear
+wedge
+whistle
+witch
+with
+wizzcott
+wizzgard
+woodworm
+workface
+xroads
+~*3

@@ -1,0 +1,16 @@
+# 原始遊戲檔案 (版權)
+original_game/
+
+# ScummVM 原始碼 (從 patch 重建)
+scummvm-src/
+
+# 編譯產物
+build/
+
+# CJK 字型產物 (從工具重建)
+fonts/*.dcjk
+
+# 暫存
+*.o
+*.pyc
+__pycache__/

@@ -1,0 +1,29 @@
+Behind Cottage
+Center of the Forest
+Dragon's Cave
+In front of Cottage
+Inside Cottage
+It's Sordid's spellbook. It looks just like mine.
+Near the tap
+Outside Tower
+Towards tap
+Tower of Doom
+Witch's Cottage
+forest10
+forest112
+forest17
+forest2
+forest22
+forest4
+forest87
+forest88
+forest91
+forest92
+forest95
+forest96
+forest97
+forest98
+forest99
+mine
+tower
+village

@@ -1,0 +1,328 @@
+diff --git a/engines/agos/agos.cpp b/engines/agos/agos.cpp
+index d837368b..3341f449 100644
+--- a/engines/agos/agos.cpp
++++ b/engines/agos/agos.cpp
+@@ -31,6 +31,7 @@
+ #include "agos/debugger.h"
+ #include "agos/intern.h"
+ #include "agos/agos.h"
++#include "agos/cjk_cht.h"
+ #include "agos/midi.h"
+ #include "agos/sound.h"
+ 
+@@ -117,7 +118,9 @@ AGOSEngine_Simon2::AGOSEngine_Simon2(OSystem *system, const AGOSGameDescription
+ }
+ 
+ AGOSEngine_Simon1::AGOSEngine_Simon1(OSystem *system, const AGOSGameDescription *gd)
+-	: AGOSEngine_Waxworks(system, gd) {
++	: AGOSEngine_Waxworks(system, gd),
++	  _cjkFontData(nullptr), _cjkFontW(0), _cjkFontH(0), _cjkFontBpr(0),
++	  _cjkCurChar(0) {
+ }
+ 
+ AGOSEngine_Waxworks::AGOSEngine_Waxworks(OSystem *system, const AGOSGameDescription *gd)
+@@ -585,6 +588,8 @@ AGOSEngine::AGOSEngine(OSystem *system, const AGOSGameDescription *gd)
+ 	_moveYMax = 0;
+ 
+ 	_forceAscii = false;
++	_chtTextOn = true;
++	_chtCJKMode = false;
+ 	_useSimon2LanguageOverlay = false;
+ 
+ 	_vc10BasePtrOld = nullptr;
+@@ -862,6 +867,10 @@ void AGOSEngine_Simon1::setupGame() {
+ 	_numZone = 164;
+ 
+ 	AGOSEngine::setupGame();
++
++	// Non-upstream: load CJK font and translation table if available
++	loadCJKFont();
++	loadCHTTable();
+ }
+ 
+ void AGOSEngine_Waxworks::setupGame() {
+@@ -1416,4 +1425,81 @@ Common::String AGOSEngine::translateLanguageOverlay(const Common::String &englis
+ 	return _simon2LanguageOverlay.getValOrDefault(english);
+ }
+ 
++// Non-upstream: Simon 1 Traditional Chinese (Big5) CJK font loading.
++void AGOSEngine_Simon1::loadCJKFont() {
++	// Try to auto-detect CJK mode by font file presence
++	Common::File f;
++	if (!f.open("simon_zh16.dcjk")) {
++		if (_language == Common::ZH_TWN) {
++			// User requested Chinese but no font file
++			warning("Simon CHT: simon_zh16.dcjk not found, CJK mode disabled");
++		}
++		return;
++	}
++
++	byte hdr[15];
++	if (f.read(hdr, 15) != 15) {
++		warning("Simon CHT: simon_zh16.dcjk header too short");
++		return;
++	}
++
++	if (hdr[0] != 'D' || hdr[1] != 'C' || hdr[2] != 'J' || hdr[3] != 'K') {
++		warning("Simon CHT: simon_zh16.dcjk invalid magic");
++		return;
++	}
++
++	// Auto-detect: if the font file exists, force ZH_TWN language
++	if (_language != Common::ZH_TWN)
++		_language = Common::ZH_TWN;
++
++	_cjkFontW = hdr[5];
++	_cjkFontH = hdr[6];
++	_cjkFontBpr = hdr[7];
++	uint32 numGlyphs = READ_LE_UINT32(hdr + 11);
++
++	uint32 dataSize = (uint32)_cjkFontBpr * _cjkFontH * numGlyphs;
++	_cjkFontData = new byte[dataSize];
++	if (f.read(_cjkFontData, dataSize) != dataSize) {
++		delete[] _cjkFontData;
++		_cjkFontData = nullptr;
++		warning("Simon CHT: simon_zh16.dcjk data read failed");
++		return;
++	}
++	f.close();
++
++	_chtCJKMode = true;
++	ConfMan.setBool("subtitles", true);
++	ConfMan.setBool("speech_mute", false);
++
++	debug("Simon CJK font loaded: %dx%d, %u glyphs", _cjkFontW, _cjkFontH, numGlyphs);
++}
++
++// Non-upstream: Simon 1 Traditional Chinese translation table loading.
++void AGOSEngine_Simon1::loadCHTTable() {
++	if (!_chtCJKMode)
++		return;
++
++	Common::File f;
++	if (!f.open("simon_zh.tab"))
++		return;
++
++	int32 size = f.size();
++	if (size <= 0 || size > 65536)
++		return;
++
++	byte *buf = new byte[size + 1];
++	if (f.read(buf, size) != size) {
++		delete[] buf;
++		return;
++	}
++	f.close();
++	buf[size] = 0;
++
++	int count = CHT::loadTable(buf, (uint32)size);
++	debug("Simon CHT table loaded: %d entries", count);
++
++	delete[] buf;
++	CHT::dumpInit();
++}
++
+ } // End of namespace AGOS
+diff --git a/engines/agos/agos.h b/engines/agos/agos.h
+index f0eb250c..e68f3a74 100644
+--- a/engines/agos/agos.h
++++ b/engines/agos/agos.h
+@@ -407,6 +407,10 @@ protected:
+ 	byte _boxStarHeight;
+ 	bool _forceAscii;
+ 
++// Non-upstream: CJK state (initialized by subclasses)
++	bool _chtTextOn;
++	bool _chtCJKMode;
++
+ 	SubroutineLine *_classLine;
+ 	int16 _classMask, _classMode1, _classMode2;
+ 	Item *_findNextPtr;
+@@ -2051,6 +2055,16 @@ protected:
+ 	void vcStopAnimation(uint16 zone, uint16 sprite) override;
+ 
+ 	Common::String genSaveName(int slot) const override;
++
++// Non-upstream: Simon 1 Traditional Chinese (Big5) overlay
++public:
++	byte *_cjkFontData;
++	uint8 _cjkFontW, _cjkFontH, _cjkFontBpr;
++	uint16 _cjkCurChar;
++
++	void loadCJKFont();
++	void loadCHTTable();
++	void windowDrawChar(WindowBlock *window, uint x, uint y, byte chr) override;
+ };
+ 
+ class AGOSEngine_Simon2 : public AGOSEngine_Simon1 {
+diff --git a/engines/agos/charset-fontdata.cpp b/engines/agos/charset-fontdata.cpp
+index 4a350757..9ca3a88e 100644
+--- a/engines/agos/charset-fontdata.cpp
++++ b/engines/agos/charset-fontdata.cpp
+@@ -24,6 +24,7 @@
+ #include "common/textconsole.h"
+ 
+ #include "agos/agos.h"
++#include "agos/cjk_cht.h"
+ #include "agos/intern.h"
+ 
+ #include "graphics/surface.h"
+@@ -3029,6 +3030,97 @@ void AGOSEngine::windowDrawChar(WindowBlock *window, uint x, uint y, byte chr) {
+ 	_videoLockOut &= ~0x8000;
+ }
+ 
++// Non-upstream: Simon 1 Traditional Chinese (Big5) CJK window text rendering.
++void AGOSEngine_Simon1::windowDrawChar(WindowBlock *window, uint x, uint y, byte chr) {
++	if (!_chtCJKMode || _forceAscii || !_cjkFontData) {
++		AGOSEngine::windowDrawChar(window, x, y, chr);
++		return;
++	}
++
++	_videoLockOut |= 0x8000;
++
++	// Assemble Big5 double-byte character
++	bool isDoubleByte = false;
++	byte lead = 0, trail = 0;
++
++	if (_cjkCurChar != 0) {
++		// We have a pending lead byte, this is the trail
++		lead = (byte)_cjkCurChar;
++		trail = chr;
++		isDoubleByte = true;
++		_cjkCurChar = 0;
++	} else if (CHT::isBig5Lead(chr)) {
++		// Start of a Big5 pair - store lead and wait
++		_cjkCurChar = chr;
++		_videoLockOut &= ~0x8000;
++		return;
++	}
++	// else: single-byte ASCII char, handled below
++
++	int glyphIdx = -1;
++	if (isDoubleByte) {
++		glyphIdx = CHT::big5LinearIndex(lead, trail);
++	} else {
++		// Single byte ASCII: use direct mapping (char 32 = index 0)
++		glyphIdx = -1; // Will fall through to ASCII fallback
++	}
++
++	uint fw = _cjkFontW;
++	uint fh = _cjkFontH;
++	uint fbpr = _cjkFontBpr;
++
++	Graphics::Surface *screen = getBackendSurface();
++	if (!screen) {
++		_videoLockOut &= ~0x8000;
++		return;
++	}
++
++	byte *dstBase = (byte *)screen->getPixels();
++	uint dstPitch = screen->pitch;
++
++	// Clip to screen bounds
++	int sx = (int)x;
++	int sy = (int)y;
++	if (sx < 0 || sy < 0 || sx + (int)fw > screen->w || sy + (int)fh > screen->h) {
++		_videoLockOut &= ~0x8000;
++		return;
++	}
++
++	dstBase += sy * dstPitch + sx;
++	byte color = window->textColor;
++
++	if (glyphIdx >= 0 && _cjkFontData) {
++		// Render from CJK font bitmap (1bpp, MSB-first per row)
++		const byte *glyph = _cjkFontData + (uint32)glyphIdx * fbpr * fh;
++		for (uint row = 0; row < fh; row++) {
++			byte *dst = dstBase + row * dstPitch;
++			const byte *src = glyph + row * fbpr;
++			for (uint ci = 0; ci < fw; ci++) {
++				if (src[ci >> 3] & (0x80 >> (ci & 7)))
++					dst[ci] = color;
++			}
++		}
++	} else if (!isDoubleByte && chr >= 32 && chr < 128) {
++		// Fallback: render ASCII char with base class style (8x6)
++		// Centered vertically in the CJK cell
++		uint offY = (fh > 8) ? (fh - 8) / 2 : 0;
++		const byte *asciiSrc = english_simonFont + (chr - 32) * 8;
++		for (uint row = 0; row < 8; row++) {
++			byte *dst = dstBase + (offY + row) * dstPitch;
++			byte b = asciiSrc[row];
++			for (uint ci = 0; ci < 6; ci++) {
++				if (b & (0x80 >> ci))
++					dst[ci] = color;
++			}
++		}
++	}
++
++	Common::Rect dirtyRect(sx, sy, sx + (int)fw, sy + (int)fh);
++	updateBackendSurface(&dirtyRect);
++
++	_videoLockOut &= ~0x8000;
++}
++
+ static inline byte pnPreserveBit7ShiftLeft1(byte x) {
+ 	byte shifted = (byte)(x << 1);
+ 	if (x & 0x80)
+diff --git a/engines/agos/charset.cpp b/engines/agos/charset.cpp
+index de1ccee1..1f12f27b 100644
+--- a/engines/agos/charset.cpp
++++ b/engines/agos/charset.cpp
+@@ -308,7 +308,10 @@ void AGOSEngine::windowPutChar(WindowBlock *window, byte c, byte b) {
+ 			return;
+ 		}
+ 
+-		if (_language == Common::JA_JPN && !_forceAscii)
++		if (_language == Common::ZH_TWN && !_forceAscii) {
++			// CJK full-width: 12px (2 columns of 6px)
++			textColumnWidth = width = 12;
++		} else if (_language == Common::JA_JPN && !_forceAscii)
+ 			textColumnWidth = width = 4;
+ 		else if (c - 32 > 98) // Ignore invalid characters
+ 			return;
+@@ -334,7 +337,7 @@ void AGOSEngine::windowPutChar(WindowBlock *window, byte c, byte b) {
+ 			windowDrawChar(window, window->x * 8 + window->textColumn * textColumnWidth, window->textRow * 8 + window->y, c);
+ 			window->textLength++;
+ 			window->textColumnOffset += width;
+-			if (getGameType() == GType_SIMON1 || getGameType() == GType_SIMON2) {
++			if (_language != Common::ZH_TWN && (getGameType() == GType_SIMON1 || getGameType() == GType_SIMON2)) {
+ 				if (c == 'i' || c == 'l')
+ 					window->textColumnOffset -= 2;
+ 			}
+diff --git a/engines/agos/module.mk b/engines/agos/module.mk
+index 163898e4..3a1db616 100644
+--- a/engines/agos/module.mk
++++ b/engines/agos/module.mk
+@@ -12,6 +12,7 @@ MODULE_OBJS := \
+ 	agos.o \
+ 	charset.o \
+ 	charset-fontdata.o \
++	cjk_cht.o \
+ 	contain.o \
+ 	cursor.o \
+ 	debug.o \
+diff --git a/engines/agos/string.cpp b/engines/agos/string.cpp
+index 02d8c379..cf877031 100644
+--- a/engines/agos/string.cpp
++++ b/engines/agos/string.cpp
+@@ -27,6 +27,7 @@
+ #include "gui/message.h"
+ 
+ #include "agos/agos.h"
++#include "agos/cjk_cht.h"
+ #include "agos/intern.h"
+ 
+ namespace AGOS {
+@@ -141,6 +142,11 @@ const byte *AGOSEngine::getStringPtrByID(uint16 stringId, bool upperCase) {
+ 			Common::strlcpy((char *)dst, translated.c_str(), 180);
+ 	}
+ 
++	// Non-upstream: Simon 1 Traditional Chinese translation injection
++	if (getGameType() == GType_SIMON1 && _language == Common::ZH_TWN && _chtTextOn) {
++		CHT::translateInPlace((char *)dst, 180);
++	}
++
+ 	// WORKAROUND bug #2780: The French version of Simon 1 and the
+ 	// Polish version of Simon 2 used excess spaces, at the end of many
+ 	// messages, so we strip off those excess spaces.

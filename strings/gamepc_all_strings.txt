@@ -1,0 +1,1015 @@
+     14 Witch's Cottage
+     24 Corn
+     29 Doorway
+     31 Lock
+     36 Pink splodge
+     43 Key
+     47 I wonder where the rest of the rat is ?
+     70 Manacles
+     79 Stove
+     7f Stone table
+     8b Gorge
+     91 There's 8 of them.
+     a4 Bard
+     a9 Cave
+     ae Golum
+     b4 Frog
+     b9 Beer barrel
+     c5 Forge door
+     d0 Cedar
+     d6 Alakazam!
+     e0 Big, green and fruity.
+     f7 Beard
+     fd Feather
+    105 Catapult
+    10e Please accept my deepest apologies.
+    132 Leaf
+    137  gold pieces.
+    145 Sock
+    14a Cosmetics
+    154 Er... Beer?
+    160 Oaf
+    164 The magnet with the rope tied to it.
+    189 There's a piece of paper under this rock.
+    1b3 A maple leaf.
+    1c1 A carbon dioxide fire extinguisher.
+    1e5 It has a fossil in the middle of it.
+    20a Owl Tree
+    213 Nail
+    218 A wood nail.
+    225 Ring
+    22a Flaming brand
+    238 Postcard
+    241 In front of Cottage
+    255 Woodcutter
+    260 Bell
+    265 I've finally got my spell book back.
+    28a It's got something stuck in the end of it.
+    2b5 It has the words 'DRINK ME' on the bottle.
+    2e0 Mouse
+    2e6 Paper
+    2ec Cake
+    2f1 Ladders
+    2f9 Boulder
+    301 Clock
+    307 Wizard
+    30e Oak
+    312 It says 'Equal rights for Trolls' on it.
+    33b Hacksaw
+    343 Souvenir matches
+    354 Dressing screen
+    364 It's a door set into an old tree.
+    386 Seeds
+    38c Book
+    391 Skullcrusher
+    39e Blacksmith
+    3a9 Down
+    3ae Mouse Hole
+    3b9 Axe head
+    3c2 Cold remedy
+    3ce It's covered in scribblings.
+    3eb A roll of Super XXXXX Strong mints.
+    40f Towards tap
+    41b Sharp things
+    428 Plank
+    42e Broom
+    434 Pouch
+    43a White spirit
+    447 Pebble
+    44e Bars
+    453 Man-mangler
+    45f Table
+    465 Fridge
+    46c A sturdy wooden door.
+    482 They're fine examples of their kind.
+    4a7 A lump of metal bearing rock.
+    4c5 The complex arrangement of valves and metal tubes.
+    4f8 Ladder
+    4ff Miniature statue
+    510 Skull
+    516 Tree stump
+    521 Sign
+    526 Well
+    52b It's Sordid's spellbook. It looks just like mine.
+    55d A book of souvenir matches.
+    579 Domestic cleaners
+    58b Magic wand
+    596 I can turn people into stone with this.
+    5be A suspiciously smelling pouch.
+    5dd A small forked sapling.
+    5f5 Beehive
+    5fd Goat
+    602 Hole
+    607 It's a rock.
+    614 Block
+    61a Drawer
+    621 Hocus Pocus!
+    62e Fruit machine
+    63c A pin used as a foothold for climbing across a rockface.
+    675 Fire extinguisher
+    687 Chest
+    68d Bucket
+    694 Wise owl
+    69d Wax
+    6a1 Cakes
+    6a7 Crack
+    6ad Stew pot
+    6b6 Bottle
+    6bd I've changed my mind about magical stuff.
+    6e7 Dwarf
+    6ed Snowman
+    6f5 A single strand of white dog hair.
+    718 Metal detector
+    727 Attendant
+    731 Lever
+    737 Giant
+    73d Yes please.
+    749 I wanna be a wizard.
+    75e Mix me a Wet Wizard, barkeep.
+    77c Druid
+    782 Guard
+    788 A hook attached to a length of rope.
+    7ad Branch
+    7b4 Use this to speed around the game.
+    7d7 Water
+    7dd Tree
+    7e2 Magnet
+    7e9 Sousaphone
+    7f4 Exit
+    7f9 Wagon wheel
+    805 How about a Warlock Surprise?
+    823 Mushroom
+    82c Whistle
+    834 Woodworm
+    83d Vines
+    843 Dwarf Mine
+    84e Hair
+    853 Walk to
+    85b A bucket of floor wax.
+    872 Bed
+    876 Sorry, I thought you were someone else.
+    89e Box
+    8a2 Statue
+    8a9 Shopping list
+    8b7 Why not?
+    8c0 Lily leaf
+    8ca Frogsbane
+    8d4 My mahogany has been munched by a horde of woodworm.
+    909 Apparently its some sort of magical metal polish.
+    93b Teleporter
+    946 I could make it worth your while.
+    968 Teak
+    96d Spinning wheel
+    97c Tap
+    980 They look like hairdressing scissors.
+    9a6 You can up it or down it.
+    9c0 A small squeaky thing that likes cheese.
+    9e9 Brochures
+    9f3 Tower of Doom
+    a01 Hello.
+    a08 No thanks.
+    a13 Hat
+    a17 An extremely shiny shield.
+    a32 Repulser
+    a3b A smelly liquid in a jar.
+    a55 A strong elastic band.
+    a6c Sweeties
+    a75 Bottles
+    a7d Inside Cottage
+    a8c A stone table used for the sacrificing of shaved lions.
+    ac4 It looks like a lump of kryptonite.
+    ae8 It's long and hard with a pointy end.
+    b0e I can't imagine what use I'll have for it.
+    b39 Rake
+    b3e Gruesome statue
+    b4e A Tungsten-Carbide lightweight claw hammer.
+    b7a Cross Roads
+    b86 Fireplace
+    b90 Doors
+    b96 Oil
+    b9a Floorboards
+    ba6 Instruments of Death
+    bbb Compost
+    bc3 Beans
+    bc9 Can you do me a Cool Red Witch?
+    be9 Cave Entrance
+    bf7 Black cat
+    c01 A piece of wood with a burnt end.
+    c23 Strength potion
+    c33 The equivalent of a giant joint for bees.
+    c5d A box of safety matches.
+    c76 Tissues
+    c7e Mirror
+    c85 No more magical stuff.
+    c9c Bucket of water
+    cac Extremely large and daunting doors.
+    cd0 Cauldron
+    cd9 It's an empty, wooden bucket.
+    cf7 Rat bone
+    d00 Something tells me they don't welcome visitors.
+    d30 Can I see something else?
+    d4a Outside
+    d54 Calypso's note
+    d63 A makeshift catapult.
+    d79 Sleeping Giant
+    d88 Lava
+    d8d A metal slops bucket. There is a hole in the side of it.
+    dc6 Where's the door?
+    dd8 Puddle
+    ddf Boeotian cherrywood
+    df3 Stone
+    df9 Trunk
+    dff I got them from the oaf in the forest.
+    e26 Gold coins
+    e31 Sticky, yellow wax from the beehive.
+    e56 Barbarian
+    e60 Icy ledge
+    e6a Smokebox
+    e73 A metal bar from inside a bell.
+    e93 Skylight
+    e9c Climbing pin
+    ea9 I pounded it out of some seeds.
+    ec9 Wedge
+    ecf Sacks
+    ed5 What do you want?
+    ee7 A heavy gold encrusted door.
+    f04 A voucher for a free glass of beer at the Drunken Druid.
+    f3d A small pebble.
+    f4d Books
+    f53 I love Wagon Wheels.
+    f68 Net
+    f6c Barman
+    f73 It's a tree branch.
+    f87 A triangular piece of wood.
+    fa3 Map
+    fa7 Village
+    faf Moose head
+    fba Pits
+    fbf Tadpole
+    fc7 Staff
+    fcd Floor wax
+    fd7 Pots and pans
+    fe5 Shield
+    fec It tells you all about magic wands.
+   1010 Elastic band
+   101d Small statue
+   102a Trapdoor
+   1033 Anvil
+   1039 Suspicious herbs
+   104a Water-melon
+   1056 Magic amulet
+   1063 Super Powered Elephant Cold Remedy.
+   1087 Placard
+   108f I hope it's not like the one up the stairs...
+   10bd Iron maiden
+   10c9 Chocolate truffle door
+   10e0 Abracadabra!
+   10ed It's a magic mushroom with 'EAT ME' written on it.
+   1120 A specimen collecting jar for invertebrates.
+   114d Hammer
+   1154 Matchstick
+   115f Mahogany
+   1168 Rock
+   116d Clapper
+   1175 Barrels
+   117d Troll
+   1183 It's not a Yale.
+   1194 My Wizkid club wallet. It's full of useless junk.
+   11c6 A special, super-hard, axe head.
+   11e7 Behind Cottage
+   11f6 Loose bandage
+   1204 Shore
+   120a A powerful looking wizard's staff.
+   122d A fine example of a bucket of water.
+   1252 A pile of small pebbles.
+   126b Near the tap
+   1278 Handle
+   127f Lantern
+   1287 I wonder if I should ask for a refund.
+   12ae A fine example of its kind.
+   12ca Rope & magnet
+   12d8 Sapling
+   12e0 Troll Bridge
+   12ed Stew
+   12f2 Door
+   12f7 Puddle's center
+   1309 Specimen jar
+   1316 Gem
+   131a Outside Tower
+   1328 Gems
+   132d Mystic tapestry
+   133d Boat
+   1342 Sordid
+   134b It looks like the sort of thing a Witch might fly on.
+   1381 A special herb with strange properties.
+   13a9 It's made from real dwarf hair.
+   13c9 It's a feather.
+   13d9 Spear
+   13df Dragon's Cave
+   13ed Dirt
+   13f4 A fine example of it's kind.
+   1411 A goblin key made from two teeth and a pencil.
+   1440 Dodgy Geezer
+   144f Spell book
+   145a Scissors
+   1463 Beer voucher
+   1470 The Great Ring. It has strange symbols on it.
+   149e Candles
+   14a6 Its lucky my hat is fireproofed.
+   14c7 Demons
+   14ce Sausages!
+   14da Whoever he was, he had an enormous nose.
+   1503 Brochures for the Fiery Pits of Rondor.
+   152b A statue of a really ugly barbarian.
+   1552 What do you know about Sordid?
+   1571 Enough beer for a really good night.
+   1596 A beekeeper's hat and fashion accessory.
+   15bf Use it to Save, Load or Quit.
+   15dd Yep.
+   15e2 Hook
+   15e7 It's a shopping list addressed to the storekeeper in town.
+   1622 Shopkeeper
+   162d Doggie
+   1634 Rosewood
+   163d Ebony
+   1643 Matches
+   164b Boxes
+   1651 I'm sure we can come to some arrangement.
+   167b It doesn't work. I don't know why I bought it.
+   16aa Milrith ore
+   16b6 Rope
+   16bb Mints
+   16c1 Center of the Forest
+   16d6 Dragon
+   16dd Cupboard
+   16e6 A super strong hacksaw.
+   16fe Nubile Valkyrie
+   170e Tomb
+   1713 Fossil
+   171a It's the oldest thing in the entire game.
+   1744 It smells of hundred year old Gorgonzola.
+   176e Chemicals
+   1778 Flour
+   177e Wizard's stuff
+   178d Beer
+   1792 WizKid wallet
+   17a0 Potion
+   17a7 Bandages
+   17b0 It looks really upset.
+   17c7 It's set to milrith finding mode.
+   17e9 A block of valuable wood.
+   1819 S- 
+   1847 S-!L
+   1875 S-!
+   18a3 S-"h
+   18d1 S-"
+   18ff S-#n
+   1921 S-#~
+   1943 S-#
+   1971 S-$
+   199f S-$
+   19c1 S-$
+   19ef S-%<
+   1a11 S-%L
+   1a3f S-%
+   1a6d S-&l
+   1a95 S-&
+   1ab7 S-&
+   1ae5 S-'Z
+   1b07 S-'j
+   1b29 S-'z
+   1b4b S-'
+   1b79 S-(
+   1ba7 S-(|
+   1bd5 S-)
+   1bf7 S-)
+   1c25 S-)
+   1c47 S-)
+   1c75 S-*<
+   1ca3 S-*
+   1cd1 S-+<
+   1cf3 S-+L
+   1d21 S-+
+   1d4f S-,h
+   1d7d S-,
+   1dab S--f
+   1dd9 S--
+   1dfb S--
+   1e29 S-.n
+   1e4b S-.~
+   1e79 S-.
+   1ea7 S-/r
+   1ed5 S-/
+   1f03 S-0
+   1f31 S-0
+   1f5f S-1p
+   1f8d S-1
+   1faf S-1
+   1fd1 S-2
+   1ff3 S-2
+   2015 S-2,
+   2043 S-2
+   2071 S-38
+   2093 S-3H
+   20b5 S-3X
+   20e3 S-3
+   2111 S-4P
+   2133 S-4`
+   2155 S-4p
+   2177 S-4
+   2199 S-4
+   21bb S-4
+   21dd S-4
+   21ff S-4
+   222d S-5@
+   224f S-5P
+   2271 S-5`
+   2293 S-5p
+   22b5 S-5
+   22d7 S-5
+   22f9 S-5
+   231b S-5
+   233d S-5
+   235f S-5
+   2381 S-5
+   23a3 S-5
+   23c5 S-6
+   23e7 S-6
+   2409 S-6 
+   242b S-60
+   244d S-6@
+   246f S-6P
+   2491 S-6`
+   24b3 S-6p
+   24d5 S-6
+   24f7 S-6
+   2519 S-6
+   253b S-6
+   255d S-6
+   257f S-6
+   25a1 S-6
+   25c3 S-6
+   25f1 S-7f
+   261f S-7
+   264d S-8p
+   266f S-8
+   269d S-9
+   26bf S-9
+   26ed S-9
+   271b S-:
+   273d S-:&
+   276b S-:
+   2799 S-;4
+   27bb S-;D
+   27dd S-;T
+   27ff S-;d
+   2821 S-;t
+   284f S-<
+   287d S-<
+   289f S-<
+   28cd S-=$
+   28ef S-=4
+   291d S-=
+   293f S-=
+   296d S->J
+   299b S->
+   29c9 S-?N
+   29f7 S-!
+   2a25 S-&
+   2a47 S-&
+   2a69 S-)D
+   2a97 S-,
+   2ac5 S-;
+   2af3 S-?
+   2b21 S-$
+   2b4f S-?
+   2b7d S-@
+   2bab S-@
+   2bd9 S-Al
+   2bfb S-A|
+   2c1d S-A
+   2c4b S-A
+   2c6d S-A
+   2c9b S-Bj
+   2cc9 S-B
+   2cf7 S-CT
+   2d25 S-C
+   2d53 S-DJ
+   2d81 S-D
+   2da3 S-D
+   2dc5 S-D
+   2de7 S-D
+   2e09 S-E
+   2e2b S-E
+   2e59 S-E
+   2e87 S-F4
+   2eb5 S-F
+   2ee3 S-G
+   2f45 S-G|
+   2f73 S-G
+   2f95 S-H
+   2fb7 S-H
+   2fd9 S-H&
+   3015 S-H6
+   3037 S-HF
+   3059 S-HV
+   307b S-Hf
+   309d S-Hv
+   30bf S-H
+   30ed S-H
+   3135 S-Iv
+   3157 S-I
+   3207 S-J
+   3229 S-J&
+   324b S-J6
+   326d S-JF
+   328f S-JV
+   32bd S-J
+   32df S-J
+   3301 S-J
+   3323 S-K
+   335f S-K
+   338d S-K
+   33bb S-L
+   33e9 S-L
+   3417 S-M&
+   3445 S-M
+   3473 S-N
+   34a1 S-N
+   34cf S-O
+   34fd S-O
+   352b S-P4
+   3559 S-P
+   367b mub+2
+   3690 nub+2
+   376f )S)
+   37fc F$#
+   38af 2,2
+   38b3 </2
+   38b8 +2(>bub
+   38d4 b(N
+   38fd 2,2
+   3901 </2
+   3906 +2(>bub
+   3924 2,2
+   3928 </2
+   392d +2(>bub
+   394b 2,2
+   394f </2
+   3954 +2(>bub
+   3972 2,2
+   3976 </2
+   397b +2(>bub
+   3b97 ~*3
+   3bf8 &*S
+   3e21 &*W
+   3e92 &*W
+   3f2a &*S
+   3fdf $<T
+   4043 $<T
+   40b0 3$<T
+   40b5 $<W
+   40f0 $T<$2
+   413d u1u2
+   418c &*W
+   41fb cMP
+   4214 cMP
+   42e1 MNP
+   4300 MNP
+   431f MNP
+   433e MNP
+   4380 &*W
+   4397 2MP
+   450d E*W
+   4558 lub+2
+   4647 $<T
+   46af $<T
+   4717 $<T
+   477f $<T
+   47dd $<T
+   4851 $<T
+   4870 :*S
+   488e $<W
+   48db $T<$2
+   4913 "EW
+   4930 $T<$2
+   4958 $T<
+   49bf $<T
+   4a27 $<T
+   4a90 $<T
+   4ab4 u1u2
+   4b2d #)SG
+   4c82 a*"
+   4cc8 2GuP
+   4ccd 2) )SG
+   4e10 &*W
+   4ee3 2/2
+   4eef @*2
+   4f12 $24-44)2
+   4f20 @.42.24-44
+   4f2f 3,3
+   4f44 3ud
+   4fa5 @uc
+   4fb4 -;3
+   4fc6 @ud
+   4fd1 -;4
+   4fe3 @ue
+   4fee -;5
+   5000 @uf
+   500b -;6
+   501d @ug
+   5028 -;7
+   503a @uh
+   5045 -;8
+   5057 @ui
+   523d H*S
+   531c StripTPTRs
+   5330 AddSPTRs
+   5344 sting0
+   5358 sting8
+   536c sting7
+   5380 sting6
+   5394 sting5
+   53a8 sting4
+   53bc sting3
+   53d0 sting2
+   53e4 sting1
+   53f8 loadset6
+   540c loadset5
+   5420 loadset4
+   5434 loadset3
+   5448 loadset2
+   545c loadset1
+   5470 pebble
+   5484 sapling
+   5498 pits1
+   54ac pits2
+   54c0 floorwax
+   54d4 Souvenir
+   54e8 map
+   54fc Postcard
+   5510 rope
+   5524 ListUnusedActio
+   5538 SaveEditedTable
+   554c ListEditedTable
+   5560 ClearEditedTabl
+   5574 Mountain
+   5588 Steps
+   559c hacksaw
+   55b0 normal
+   55c4 slowmo
+   55d8 chemicals
+   55ec mouse
+   5600 ring
+   5614 Repulser
+   5628 wedge
+   563c human
+   5650 chest
+   5664 tower
+   5678 tower
+   568c frozen02
+   56a0 frozen01
+   56b4 swamp03
+   56c8 after
+   56dc goblins
+   56f0 village
+   5704 forest87
+   5718 forest10
+   572c forest4
+   5740 forest2
+   5754 bad
+   5768 witch
+   577c forest96
+   5790 forest91
+   57a4 forest97
+   57b8 owl
+   57cc forest95
+   57e0 forest22
+   57f4 forest17
+   5808 forest92
+   581c forest112
+   5830 forest98
+   5844 forest99
+   5858 xroads
+   586c forest88
+   5880 swamp02
+   5894 swamp01
+   58a8 beekeepers
+   58bc hat
+   58d0 smokebox
+   58e4 rope
+   58f8 medicine
+   590c cough
+   5920 Woodworm
+   5934 mahogany
+   5948 goroom2
+   595c goroom1
+   5970 tree
+   5984 woodworm
+   5998 archeologist
+   59ac hole
+   59c0 axe
+   59d4 head
+   59e8 milrith
+   59fc ore
+   5a10 metal
+   5a24 detector
+   5a38 list
+   5a4c shopping
+   5a60 debugoff
+   5a74 debugon
+   5a88 amulet
+   5a9c strength
+   5ab0 potion
+   5ac4 branch
+   5ad8 whistle
+   5aec gold
+   5b00 pieces
+   5b14 staff
+   5b28 rock
+   5b3c lab
+   5b50 stone
+   5b64 seeds
+   5b78 oil
+   5b8c string
+   5ba0 matchstick
+   5bb4 gogarden
+   5bc8 large
+   5bdc small
+   5bf0 garden
+   5c04 treasury
+   5c18 key
+   5c2c message7
+   5c40 message6
+   5c54 beard
+   5c68 beerroom
+   5c7c treasury
+   5c90 workface
+   5ca4 entrance
+   5cb8 mine
+   5ccc junction
+   5ce0 headhut
+   5cf4 candycott
+   5d08 wizzcott
+   5d1c wizzgard
+   5d30 wear
+   5d44 remove
+   5d58 consume
+   5d6c move
+   5d80 nail
+   5d94 hammer
+   5da8 exit
+   5dbc glass
+   5dd0 container
+   5de4 forge
+   5df8 inn
+   5e0c shoppe
+   5e20 Skull
+   5e34 Boglin
+   5e48 Outside
+   5e5c text1
+   5e70 test1
+   5e84 test
+   5e98 reset
+   5eac dummy
+   5ec0 paint
+   5ed4 trumpet
+   5ee8 gin
+   5efc beer
+   5f10 leaf
+   5f24 broom
+   5f38 mushroom
+   5f4c bucket
+   5f60 magnet
+   5f74 scissors
+   5f88 spell
+   5f9c book
+   5fb0 pin
+   5fc4 seed
+   5fd8 superget
+   5fec melon
+   6000 Abort
+   6014 AddVerb
+   6028 AddNoun
+   603c AddAdj
+   6050 AddPrep
+   6064 AddNoise
+   608c ListItems
+   60a0 SetName
+   60b4 Set
+   60c8 Create
+   60dc Delete
+   60f0 BeRoom
+   6104 BeObject
+   6118 BePlayer
+   612c UnRoom
+   6140 UnObject
+   6154 UnPlayer
+   6168 SaveUniverse
+   617c StatMe
+   6190 ShowRoom
+   61a4 SetRTable
+   61b8 SetSRTable
+   61cc Look
+   61e0 Goto
+   61f4 ListObjects
+   6208 ListRooms
+   621c ShowObject
+   6230 Place
+   6244 ListWord
+   6258 DelVerb
+   626c DelNoun
+   6280 DelAdj
+   6294 DelPrep
+   62a8 DelNoise
+   62bc NewExit
+   62d0 DelExit
+   62e4 OSize
+   62f8 OWeight
+   630c ListTables
+   6320 DeleteTable
+   6334 LoadTable
+   6348 EditTable
+   635c NewTable
+   6370 Quit
+   6384 Chain
+   6398 UnChain
+   63ac Rename
+   63c0 SaveTable
+   63d4 SetVolume
+   63e8 SetUFlag
+   63fc ShowUser
+   6410 Share
+   6424 UnShare
+   6438 Status
+   644c SetFlagText
+   6460 SetBitFlagText
+   6474 ListFlag
+   6488 DoorPair
+   649c ShowFlag
+   64b0 SetFlag
+   64c4 ListBitFlag
+   64d8 ShowAllRooms
+   64ec ShowAllObjects
+   6500 TestMode
+   6514 EditMode
+   6528 SaveGame
+   653c LoadGame
+   6550 FreeMode
+   6564 EditObject
+   6578 North
+   658c East
+   65a0 South
+   65b4 West
+   65dc Down
+   65f0 NorthEast
+   6604 NorthWest
+   6618 SouthEast
+   662c SouthWest
+   6654 Out
+   6668 ListClass
+   667c NameClass
+   6690 SetClass
+   66a4 UnsetClass
+   66b8 TrackFlag
+   66cc UnTrackFlag
+   66e0 ListTrack
+   66f4 Debugger
+   6708 FindItem
+   671c FindFlag
+   6730 CreateGroup
+   6744 DeleteGroup
+   6758 ShareGroup
+   676c UnShareGroup
+   6780 SuperDeleteGrou
+   6794 ListExits
+   67a8 ExitPair
+   67bc ClearTable
+   67d0 SetLock
+   67e4 FindAction
+   67f8 OpenDoor
+   680c CloseDoor
+   6820 LockDoor
+   6834 ListOFlags
+   6848 NameOFlag
+   685c SetOFlag
+   6870 ClearOFlag
+   6884 SetMenu
+   6898 ListMenu
+   68ac PrinterOn
+   68c0 PrinterOff
+   68d4 BeSuperRoom
+   68e8 UnSuperRoom
+   68fc ShowLevel
+   6910 SRExitPair
+   6924 SRExit
+   6938 SetBitFlagTwoTe
+   694c ListBitFlagTwo
+   6960 FindText
+   6974 FindString
+   69b0 with
+   69d8 Bridge
+   69ec Troll
+   6a00 end
+   6a14 walkto
+   6a28 pickup
+   6a3c drop
+   6a50 use
+   6a64 lookat
+   6a78 open
+   6a8c close
+   6aa0 talkto
+   6ab4 give
+   6ac8 Forest
+   6adc Centre
+   6af0 Cottage
+   6b04 frogsbane
+   6b18 Inside
+   6b2c test2
+   6b40 nothing
+   6b54 message1
+   6b68 message2
+   6b7c message3
+   6b90 message4
+   6ba4 message5
+   6bb8 fasttext
+   6bcc slowtext
+   6be0 plnaking
+   6bf4 planking
+   6c08 feather
+   6c1c hook
+   6c30 voucher
+   6c44 beer
+   6c58 gem
+   6c6c tadpole
+   6c80 gofrog
+   6c94 golab
+   6ca8 readspellbook
+   6cbc letsrock
+   6cd0 wallet
+   6ce4 WizKid
+   6cf8 wax
+   6d0c saveit
+   6d20 loadit
+   6d34 fossil
+   6d48 bard
+   6d5c sousaphone
+   6d70 dragon
+   6d84 circle
+   6d98 path
+   6dac stone
+   6dc0 link
+   6dd4 fire
+   6de8 extinguisher
+   6dfc ontop
+   6e10 sign
+   6e24 oafwood
+   6e38 water
+   6e4c matches
+   6e60 vault
+   6e74 Woodcutter
+   6e88 giant
+   6e9c druidon
+   6eb0 shield
+   6ec4 spear
+   6ed8 bedroom
+   6eec dungeon
+   6f00 Respuler
+   6f14 Outside
+   6f28 Inside
+   6f3c TopFloor
+   6f50 Tomb
+   6f64 Repulser
+   6f78 clapper
+   6f8c ladder
+   6fa0 wand
+   6fb4 magic
+   6fc8 sock
+   6fdc gollum
+   6ff0 above
+   7004 candles
+   7018 pouch
+   702c BoxRoom
+   7040 paper
+   7054 bone
+   7068 rat
+   707c cells
+   7090 torture
+   70a4 chamber
+   70b8 flaming
+   70cc brand
+   70e0 mints
+   70f4 Rockface
+   7108 Ent
+   711c Tree
+   7130 before
+   7144 Spirit
+   7158 White
+   716c note
+   7180 pits5
+   7194 pits4
+   71a8 band
+   71bc elastic
+   71d0 Brochures
+   71e4 catapault
+   71f8 ;END 0 0.
