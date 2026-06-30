@@ -1,0 +1,613 @@
+$24-44)2
+)S)
+-;3
+-;4
+-;5
+-;6
+-;7
+-;8
+2) )SG
+2,2
+2/2
+2GuP
+2MP
+3$<T
+3,3
+3ud
+:*S
+;END 0 0.
+@.42.24-44
+A maple leaf.
+A small pebble.
+A wood nail.
+Abort
+AddAdj
+AddNoun
+AddPrep
+AddSPTRs
+AddVerb
+Anvil
+Attendant
+Axe head
+Bandages
+Barbarian
+Bard
+Barman
+Barrels
+Bars
+Beans
+Beard
+Bed
+Beehive
+Beer
+Beer barrel
+Beer voucher
+Bell
+Big, green and fruity.
+Black cat
+Blacksmith
+Block
+Boat
+Boeotian cherrywood
+Boglin
+Book
+Books
+Bottle
+Bottles
+Boulder
+Box
+Boxes
+Branch
+Broom
+Bucket
+Bucket of water
+Cake
+Cakes
+Calypso's note
+Candles
+Catapult
+Cauldron
+Cedar
+Centre
+Chain
+Chemicals
+Chest
+Chocolate truffle door
+Clapper
+ClearEditedTabl
+ClearOFlag
+Climbing pin
+Clock
+CloseDoor
+Cold remedy
+Compost
+Corn
+Cosmetics
+Crack
+Create
+Cupboard
+Debugger
+DelAdj
+DelNoun
+DelPrep
+DelVerb
+Delete
+Demons
+Dirt
+Dodgy Geezer
+Doggie
+Domestic cleaners
+Door
+DoorPair
+Doors
+Doorway
+Down
+Drawer
+Dressing screen
+Druid
+Dwarf
+E*W
+East
+Ebony
+Elastic band
+Ent
+Exit
+ExitPair
+Extremely large and daunting doors.
+F$#
+Feather
+FindString
+Fire extinguisher
+Fireplace
+Flaming brand
+Floor wax
+Floorboards
+Flour
+Forge door
+Fossil
+Fridge
+Frog
+Frogsbane
+Fruit machine
+Gem
+Gems
+Giant
+Goat
+Gold coins
+Golum
+Gorge
+Goto
+Gruesome statue
+Guard
+H*S
+Hacksaw
+Hair
+Hammer
+Handle
+Hat
+Hole
+Hook
+Icy ledge
+Instruments of Death
+Iron maiden
+Key
+Ladder
+Ladders
+Lantern
+Lava
+Leaf
+Lever
+Lily leaf
+ListBitFlag
+ListBitFlagTwo
+ListEditedTable
+ListExits
+ListItems
+ListOFlags
+ListObjects
+ListRooms
+ListTables
+ListUnusedActio
+LoadGame
+Lock
+LockDoor
+Look
+Loose bandage
+MNP
+Magic amulet
+Magic wand
+Magnet
+Mahogany
+Man-mangler
+Manacles
+Map
+Matches
+Matchstick
+Metal detector
+Milrith ore
+Miniature statue
+Mints
+Mirror
+Moose head
+Mouse
+Mouse Hole
+Mushroom
+Mystic tapestry
+Nail
+NameOFlag
+Net
+North
+NorthEast
+NorthWest
+Nubile Valkyrie
+OSize
+OWeight
+Oaf
+Oak
+Oil
+OpenDoor
+Out
+Owl Tree
+Paper
+Pebble
+Pink splodge
+Pits
+Placard
+Place
+Plank
+Postcard
+Potion
+Pots and pans
+Pouch
+PrinterOff
+PrinterOn
+Puddle
+Puddle's center
+Quit
+Rake
+Rat bone
+Rename
+Repulser
+Respuler
+Ring
+Rock
+Rockface
+Rope
+Rope & magnet
+Rosewood
+S-"
+S-"h
+S-#
+S-#n
+S-#~
+S-$
+S-%
+S-%<
+S-%L
+S-&
+S-&l
+S-'
+S-'Z
+S-'j
+S-'z
+S-(
+S-(|
+S-)
+S-)D
+S-*
+S-*<
+S-+
+S-+<
+S-+L
+S-,
+S-,h
+S--
+S--f
+S-.
+S-.n
+S-.~
+S-/
+S-/r
+S-0
+S-1
+S-1p
+S-2
+S-2,
+S-3
+S-38
+S-3H
+S-3X
+S-4
+S-4P
+S-4`
+S-4p
+S-5
+S-5@
+S-5P
+S-5`
+S-5p
+S-6
+S-60
+S-6@
+S-6P
+S-6`
+S-6p
+S-7
+S-7f
+S-8
+S-8p
+S-9
+S-:
+S-:&
+S-;
+S-;4
+S-;D
+S-;T
+S-;d
+S-;t
+S-<
+S-=
+S-=$
+S-=4
+S->
+S->J
+S-@
+S-A
+S-Al
+S-A|
+S-B
+S-Bj
+S-C
+S-CT
+S-D
+S-DJ
+S-E
+S-F
+S-F4
+S-G
+S-G|
+S-H
+S-H&
+S-H6
+S-HF
+S-HV
+S-Hf
+S-Hv
+S-I
+S-Iv
+S-J
+S-J&
+S-J6
+S-JF
+S-JV
+S-K
+S-L
+S-M
+S-M&
+S-N
+S-O
+S-P
+S-P4
+SRExit
+SRExitPair
+Sacks
+Sapling
+SaveEditedTable
+SaveGame
+SaveUniverse
+Scissors
+Seeds
+Set
+SetBitFlagText
+SetBitFlagTwoTe
+SetLock
+SetOFlag
+SetRTable
+SetSRTable
+SetUFlag
+SetVolume
+Share
+Sharp things
+Shield
+Shopkeeper
+Shopping list
+ShowAllObjects
+ShowAllRooms
+ShowLevel
+ShowUser
+Sign
+Skull
+Skullcrusher
+Skylight
+Sleeping Giant
+Small statue
+Smokebox
+Snowman
+Sock
+Sordid
+Sorry, I thought you were someone else.
+Sousaphone
+South
+SouthEast
+SouthWest
+Souvenir
+Souvenir matches
+Spear
+Specimen jar
+Spell book
+Spinning wheel
+Spirit
+Staff
+StatMe
+Statue
+Status
+Steps
+Stew
+Stew pot
+Stone
+Stone table
+Stove
+Strength potion
+StripTPTRs
+Super Powered Elephant Cold Remedy.
+Suspicious herbs
+Sweeties
+Table
+Tadpole
+Tap
+Teak
+Teleporter
+Tissues
+Tomb
+TopFloor
+Trapdoor
+Tree
+Tree stump
+Troll
+Trunk
+UnChain
+UnShareGroup
+Use it to Save, Load or Quit.
+Vines
+Wagon wheel
+Water
+Water-melon
+Wax
+Wedge
+Well
+West
+Whistle
+White
+White spirit
+Whoever he was, he had an enormous nose.
+Wise owl
+WizKid
+WizKid wallet
+Wizard
+Wizard's stuff
+Woodcutter
+Woodworm
+Yep.
+a*"
+amulet
+archeologist
+axe
+b(N
+band
+bard
+beard
+bedroom
+beekeepers
+beer
+beerroom
+bone
+book
+branch
+brand
+broom
+bucket
+cMP
+candles
+candycott
+catapault
+cells
+chamber
+chemicals
+chest
+circle
+clapper
+consume
+container
+cough
+debugoff
+debugon
+detector
+drop
+druidon
+dungeon
+elastic
+exit
+extinguisher
+fasttext
+feather
+fire
+flaming
+floorwax
+forge
+fossil
+frogsbane
+garden
+gem
+giant
+gin
+glass
+goblins
+gofrog
+gogarden
+golab
+gold
+gold pieces.
+gollum
+hacksaw
+hammer
+hat
+head
+headhut
+hole
+hook
+human
+inn
+junction
+key
+lab
+ladder
+leaf
+letsrock
+link
+list
+loadit
+lookat
+magic
+magnet
+mahogany
+map
+matches
+matchstick
+medicine
+melon
+metal
+milrith
+mints
+mouse
+move
+mub+2
+mushroom
+nail
+note
+nub+2
+oafwood
+oil
+ontop
+ore
+owl
+paint
+paper
+path
+pebble
+pickup
+pieces
+pin
+planking
+plnaking
+potion
+pouch
+rat
+readspellbook
+remove
+ring
+rock
+rope
+sapling
+saveit
+scissors
+seed
+seeds
+shield
+shoppe
+shopping
+sign
+slowmo
+slowtext
+smokebox
+sock
+sousaphone
+spear
+spell
+staff
+stone
+strength
+string
+superget
+tadpole
+talkto
+torture
+treasury
+tree
+trumpet
+u1u2
+vault
+voucher
+walkto
+wallet
+wand
+water
+wax
+wear
+wedge
+whistle
+witch
+wizzcott
+wizzgard
+woodworm
+workface
+xroads

@@ -1,0 +1,405 @@
+)S)
+-;3
+-;4
+-;5
+-;6
+-;7
+-;8
+;END 0 0.
+A maple leaf.
+A small pebble.
+A wood nail.
+Abort
+Anvil
+Attendant
+Axe head
+Bandages
+Barbarian
+Bard
+Barman
+Barrels
+Bars
+Beans
+Beard
+Bed
+Beehive
+Beer
+Beer barrel
+Beer voucher
+Bell
+Big, green and fruity.
+Black cat
+Blacksmith
+Block
+Boat
+Boeotian cherrywood
+Boglin
+Book
+Books
+Bottle
+Bottles
+Boulder
+Box
+Boxes
+Branch
+Broom
+Bucket
+Bucket of water
+Cake
+Cakes
+Calypso's note
+Candles
+Catapult
+Cauldron
+Cedar
+Centre
+Chain
+Chemicals
+Chest
+Chocolate truffle door
+Clapper
+Climbing pin
+Clock
+Cold remedy
+Compost
+Corn
+Cosmetics
+Crack
+Create
+Cupboard
+Debugger
+Delete
+Demons
+Dirt
+Dodgy Geezer
+Doggie
+Domestic cleaners
+Door
+Doors
+Doorway
+Down
+Drawer
+Dressing screen
+Druid
+Dwarf
+East
+Ebony
+Elastic band
+Ent
+Exit
+Extremely large and daunting doors.
+Feather
+Fire extinguisher
+Fireplace
+Flaming brand
+Floor wax
+Floorboards
+Flour
+Forge door
+Fossil
+Fridge
+Frog
+Frogsbane
+Fruit machine
+Gem
+Gems
+Giant
+Goat
+Gold coins
+Golum
+Gorge
+Goto
+Gruesome statue
+Guard
+Hacksaw
+Hair
+Hammer
+Handle
+Hat
+Hole
+Hook
+Icy ledge
+Instruments of Death
+Iron maiden
+Key
+Ladder
+Ladders
+Lantern
+Lava
+Leaf
+Lever
+Lily leaf
+Lock
+Look
+Loose bandage
+MNP
+Magic amulet
+Magic wand
+Magnet
+Mahogany
+Man-mangler
+Manacles
+Map
+Matches
+Matchstick
+Metal detector
+Milrith ore
+Miniature statue
+Mints
+Mirror
+Moose head
+Mouse
+Mouse Hole
+Mushroom
+Mystic tapestry
+Nail
+Net
+North
+Nubile Valkyrie
+OSize
+OWeight
+Oaf
+Oak
+Oil
+Out
+Owl Tree
+Paper
+Pebble
+Pink splodge
+Pits
+Placard
+Place
+Plank
+Postcard
+Potion
+Pots and pans
+Pouch
+Puddle
+Puddle's center
+Quit
+Rake
+Rat bone
+Rename
+Repulser
+Respuler
+Ring
+Rock
+Rockface
+Rope
+Rosewood
+SRExit
+SRExitPair
+Sacks
+Sapling
+Scissors
+Seeds
+Set
+Share
+Sharp things
+Shield
+Shopkeeper
+Shopping list
+Sign
+Skull
+Skullcrusher
+Skylight
+Sleeping Giant
+Small statue
+Smokebox
+Snowman
+Sock
+Sordid
+Sorry, I thought you were someone else.
+Sousaphone
+South
+Souvenir
+Souvenir matches
+Spear
+Specimen jar
+Spell book
+Spinning wheel
+Spirit
+Staff
+Statue
+Status
+Steps
+Stew
+Stew pot
+Stone
+Stone table
+Stove
+Strength potion
+Super Powered Elephant Cold Remedy.
+Suspicious herbs
+Sweeties
+Table
+Tadpole
+Tap
+Teak
+Teleporter
+Tissues
+Tomb
+Trapdoor
+Tree
+Tree stump
+Troll
+Trunk
+Use it to Save, Load or Quit.
+Vines
+Wagon wheel
+Water
+Water-melon
+Wax
+Wedge
+Well
+West
+Whistle
+White
+White spirit
+Whoever he was, he had an enormous nose.
+Wise owl
+Wizard
+Wizard's stuff
+Woodcutter
+Woodworm
+Yep.
+amulet
+archeologist
+b(N
+band
+bard
+beard
+bedroom
+beekeepers
+beer
+beerroom
+bone
+book
+branch
+brand
+broom
+bucket
+candles
+candycott
+catapault
+cells
+chamber
+chemicals
+chest
+circle
+clapper
+consume
+container
+cough
+debugoff
+debugon
+detector
+drop
+druidon
+dungeon
+elastic
+exit
+extinguisher
+fasttext
+feather
+fire
+flaming
+floorwax
+forge
+fossil
+frogsbane
+garden
+giant
+glass
+goblins
+gofrog
+gogarden
+golab
+gold
+gold pieces.
+gollum
+hacksaw
+hammer
+head
+headhut
+hole
+hook
+human
+junction
+ladder
+leaf
+letsrock
+link
+list
+magic
+magnet
+mahogany
+matches
+matchstick
+medicine
+melon
+metal
+milrith
+mints
+nail
+note
+oafwood
+ontop
+paint
+paper
+path
+pebble
+pickup
+pieces
+planking
+plnaking
+potion
+pouch
+readspellbook
+remove
+ring
+rock
+rope
+sapling
+saveit
+scissors
+seed
+seeds
+shield
+shoppe
+shopping
+sign
+slowmo
+slowtext
+smokebox
+sock
+sousaphone
+spear
+spell
+staff
+stone
+strength
+string
+superget
+tadpole
+talkto
+torture
+treasury
+tree
+trumpet
+u1u2
+vault
+voucher
+walkto
+wallet
+wand
+water
+wear
+wedge
+whistle
+witch
+wizzcott
+wizzgard
+woodworm
+workface
+xroads

@@ -3,75 +3,75 @@
 # 由 tools/build_translation.py 編成 Big5 的 simon_zh.tab
 
 # ── 動詞列 ──
-Walk to	走向
-Give	給
+Walk to	走到
+Give	給予
 Pick up	拿起
 Use	使用
-Open	開
+Open	打開
 Talk to	交談
-Push	推
-Close	關
-Look at	看
-Pull	拉
+Push	推動
+Close	關閉
+Look at	查看
+Pull	拉動
 
 # ── 系統訊息 ──
-Use it to Save, Load or Quit.	用它來儲存、載入或離開。
-Use this to speed around the game.	用它來加速遊戲移動。
-You can up it or down it.	你可以上或下。
+Use it to Save, Load or Quit.	用來存檔、讀檔或離開。
+Use this to speed around the game.	用來在遊戲中快速移動。
+You can up it or down it.	可以調高或調低。
 Abracadabra!	阿布拉卡達布拉！
 Alakazam!	阿拉卡贊！
 Hocus Pocus!	霍克斯波克斯！
 Hello.	你好。
-No thanks.	不用了，謝謝。
+No thanks.	不了，謝謝。
 Yes please.	好的，麻煩你。
 Why not?	有何不可？
-I wanna be a wizard.	我想當巫師。
-No more magical stuff.	不能再碰魔法了。
-Mix me a Wet Wizard, barkeep.	老闆，來一杯濕巫師。
-How about a Warlock Surprise?	來一杯術士驚喜如何？
-Er... Beer?	呃...啤酒？
-Can you do me a Cool Red Witch?	可以幫我調一杯清涼紅女巫嗎？
-I've changed my mind about magical stuff.	我改變主意了，不再碰魔法。
+I wanna be a wizard.	我想成為巫師。
+No more magical stuff.	不要再來魔法玩意了。
+Mix me a Wet Wizard, barkeep.	酒保，幫我調一杯溼巫師。
+How about a Warlock Surprise?	來杯術士驚喜怎麼樣？
+Er... Beer?	呃……啤酒？
+Can you do me a Cool Red Witch?	幫我來一杯酷紅女巫？
+I've changed my mind about magical stuff.	我對魔法玩意改變主意了。
 I've finally got my spell book back.	我終於拿回我的魔法書了。
 
 # ── 常用對話 ──
 What do you want?	你想要什麼？
 Where's the door?	門在哪裡？
-Can I see something else?	我可以看別的東西嗎？
+Can I see something else?	可以讓我看點別的東西嗎？
 Please accept my deepest apologies.	請接受我最深的歉意。
-I wonder where the rest of the rat is ?	我在想老鼠的其餘部分在哪裡？
-I can't imagine what use I'll have for it.	我想不出它有什麼用。
-I could make it worth your while.	我可以讓你不虛此行。
-I love Wagon Wheels.	我愛吃車輪餅。
-I wonder if I should ask for a refund.	我在想是不是該要求退款。
-I got them from the oaf in the forest.	我從森林裡的呆子那裡拿到的。
-I pounded it out of some seeds.	我用種子把它搗出來的。
+I wonder where the rest of the rat is ?	我在想老鼠的其它部分去哪了？
+I can't imagine what use I'll have for it.	我想不出這東西能有什麼用處。
+I could make it worth your while.	我不會讓你吃虧的。
+I love Wagon Wheels.	我愛吃車輪巧克力餅。
+I wonder if I should ask for a refund.	我在想是不是該要求退費。
+I got them from the oaf in the forest.	我從森林裡那個呆子那裡拿到的。
+I pounded it out of some seeds.	我從一些種子裡搗出來的。
 I can turn people into stone with this.	我可以用這個把人變成石頭。
-I hope it's not like the one up the stairs...	希望不要像樓上那個一樣...
-What do you know about Sordid?	你對索迪德了解多少？
+I hope it's not like the one up the stairs...	希望不要跟樓上那個一樣……
+What do you know about Sordid?	你對索迪德知道多少？
 Sorry, I thought you were someone else.	抱歉，我以為你是別人。
-Something tells me they don't welcome visitors.	有種感覺告訴我他們不歡迎訪客。
+Something tells me they don't welcome visitors.	感覺上他們不歡迎訪客。
 Yes please.	好的。
-I'm sure we can come to some arrangement.	我相信我們可以達成協議。
+I'm sure we can come to some arrangement.	我相信我們可以達成某種協議。
 
 # ── 地點名稱 ──
 Witch's Cottage	女巫小屋
-In front of Cottage	小屋前
-Inside Cottage	小屋內
-Behind Cottage	小屋後
+In front of Cottage	小屋前面
+Inside Cottage	小屋內部
+Behind Cottage	小屋後面
 Cross Roads	十字路口
 Center of the Forest	森林中心
-Cave Entrance	洞口
-Dragon's Cave	龍穴
+Cave Entrance	洞穴入口
+Dragon's Cave	龍之洞穴
 Tower of Doom	末日之塔
 Outside Tower	塔外
-Near the tap	水龍頭旁
+Near the tap	水龍頭附近
 Towards tap	往水龍頭
 Dwarf Mine	矮人礦坑
-Troll Bridge	食人妖橋
+Troll Bridge	巨怪之橋
 Shore	岸邊
 Village	村莊
-Mouse Hole	鼠洞
+Mouse Hole	老鼠洞
 Owl Tree	貓頭鷹樹
 Cave	洞穴
 Gorge	峽谷
@@ -85,13 +85,13 @@ Beard	鬍子
 Feather	羽毛
 Catapult	彈弓
 Ring	戒指
-Leaf	樹葉
+Leaf	葉子
 Sock	襪子
 Nail	釘子
 Wedge	楔子
 Broom	掃帚
-Pouch	袋子
-Pebble	小石頭
+Pouch	小袋
+Pebble	鵝卵石
 Seeds	種子
 Bottle	瓶子
 Cake	蛋糕
@@ -106,7 +106,7 @@ Druid	德魯伊
 Bard	吟遊詩人
 Barbarian	野蠻人
 Oaf	呆子
-Troll	食人妖
+Troll	巨怪
 Golum	咕魯
 Mouse	老鼠
 Frog	青蛙
@@ -121,12 +121,12 @@ Hat	帽子
 Rope	繩子
 Hook	鉤子
 Magnet	磁鐵
-Lever	拉桿
-Hammer	鐵鎚
+Lever	槓桿
+Hammer	錘子
 Hacksaw	鋼鋸
-Axe head	斧頭
+Axe head	斧頭頭
 Clapper	鐘舌
-Bucket	水桶
+Bucket	桶子
 Chest	箱子
 Drawer	抽屜
 Box	盒子
@@ -136,20 +136,20 @@ Door	門
 Doors	門
 Key	鑰匙
 Lock	鎖
-Bars	鐵欄杆
-Trapdoor	陷阱門
+Bars	柵欄
+Trapdoor	活板門
 Skylight	天窗
 Anvil	鐵砧
 Fridge	冰箱
 Cauldron	大鍋
 Fireplace	壁爐
-Stove	火爐
+Stove	爐子
 Barrel	酒桶
 Beer barrel	啤酒桶
 Corn	玉米
 Beans	豆子
 Mushroom	蘑菇
-Frogsbane	毒蛙草
+Frogsbane	滅蛙草
 Sweeties	糖果
 Flour	麵粉
 Water	水
@@ -164,18 +164,18 @@ Potion	藥水
 Strength potion	力量藥水
 Cold remedy	感冒藥
 Chemicals	化學藥品
-White spirit	白酒精
+White spirit	白精油
 Cosmetics	化妝品
-Tissues	面紙
+Tissues	衛生紙
 Bandages	繃帶
-Loose bandage	鬆開的繃帶
+Loose bandage	鬆脫的繃帶
 Candles	蠟燭
 Sausages	香腸
 Staff	法杖
-Magic wand	魔法杖
+Magic wand	魔法棒
 Magic amulet	魔法護身符
 Spell book	魔法書
-WizKid wallet	小巫師錢包
+WizKid wallet	巫師小子錢包
 Map	地圖
 Postcard	明信片
 Shopping list	購物清單
@@ -185,7 +185,7 @@ Sign	標誌
 Book	書
 Mirror	鏡子
 Gem	寶石
-Gems	寶石
+Gems	寶石們
 Fossil	化石
 Skull	頭骨
 Bone	骨頭
@@ -196,72 +196,180 @@ Gold pieces	金幣
 # ── 物品描述 ──
 A maple leaf.	一片楓葉。
 A carbon dioxide fire extinguisher.	一支二氧化碳滅火器。
-A fine example of its kind.	同類中的優秀樣本。
-A fine example of a bucket of water.	一桶水的優秀樣本。
+A fine example of its kind.	同類中的典範。
+A fine example of a bucket of water.	一桶水的典範。
 A wood nail.	一根木釘。
-A small pebble.	一顆小石頭。
-A pile of small pebbles.	一堆小石頭。
-A metal slops bucket. There is a hole in the side of it.	一個金屬污水桶。側面有個洞。
-A heavy gold encrusted door.	一扇厚重的鍍金門。
-A sturdy wooden door.	一扇堅固的木門。
-A hook attached to a length of rope.	掛在繩子上的鉤子。
-A lump of metal bearing rock.	一塊含金屬礦石。
-A makeshift catapult.	一個臨時拼湊的彈弓。
-A metal bar from inside a bell.	一根鐘內的鐵棒。
-A piece of wood with a burnt end.	一塊末端燒焦的木頭。
-A powerful looking wizard's staff.	一根看起來很強大的巫師法杖。
-A roll of Super XXXXX Strong mints.	一捲超級 XXXXX 強效薄荷糖。
+A small pebble.	一顆小鵝卵石。
+A pile of small pebbles.	一堆小鵝卵石。
+A metal slops bucket. There is a hole in the side of it.	一個金屬餿水桶。側面有個洞。
+A heavy gold encrusted door.	一扇鍍金沉重的門。
+A sturdy wooden door.	一扇結實的木門。
+A hook attached to a length of rope.	一根綁著繩子的鉤子。
+A lump of metal bearing rock.	一塊含金屬的岩石。
+A makeshift catapult.	一個臨時湊合的彈弓。
+A metal bar from inside a bell.	一根從鐘裡取出的金屬棒。
+A piece of wood with a burnt end.	一塊尾端燒焦的木頭。
+A powerful looking wizard's staff.	一根看起來威力強大的巫師法杖。
+A roll of Super XXXXX Strong mints.	一捲超強超強超強超強超強薄荷糖。
 A single strand of white dog hair.	一根白色的狗毛。
-A small forked sapling.	一棵小叉枝樹苗。
-A smelly liquid in a jar.	罐子裡的臭味液體。
-A special, super-hard, axe head.	一個特別、超硬的斧頭。
-A specimen collecting jar for invertebrates.	一個收集無脊椎動物的標本罐。
-A statue of a really ugly barbarian.	一個非常醜的野蠻人雕像。
+A small forked sapling.	一根分叉的小樹苗。
+A smelly liquid in a jar.	一罐臭臭的液體。
+A special, super-hard, axe head.	一個特別堅硬的斧頭頭。
+A specimen collecting jar for invertebrates.	一個無脊椎動物採集罐。
+A statue of a really ugly barbarian.	一座醜到不行的野蠻人雕像。
 A stone table used for the sacrificing of shaved lions.	一張用來獻祭剃毛獅子的石桌。
-A strong elastic band.	一條強力彈性橡皮筋。
+A strong elastic band.	一條強力橡皮筋。
 A super strong hacksaw.	一把超強鋼鋸。
-A suspiciously smelling pouch.	一個味道可疑的袋子。
-A triangular piece of wood.	一塊三角形的木頭。
-A voucher for a free glass of beer at the Drunken Druid.	一張醉德魯伊酒吧免費啤酒券。
+A suspiciously smelling pouch.	一個味道可疑的小袋。
+A triangular piece of wood.	一塊三角木片。
+A voucher for a free glass of beer at the Drunken Druid.	一張可在醉德魯伊酒館兌換免費啤酒的禮券。
 An extremely shiny shield.	一面極度閃亮的盾牌。
-A Tungsten-Carbide lightweight claw hammer.	一把碳化鎢輕量羊角鎚。
-A beekeeper's hat and fashion accessory.	一頂養蜂人帽子兼時尚配件。
-A block of valuable wood.	一塊有價值的木材。
+A Tungsten-Carbide lightweight claw hammer.	一把輕量碳化鎢羊角錘。
+A beekeeper's hat and fashion accessory.	一頂兼具時尚配件功能的養蜂帽。
+A block of valuable wood.	一塊價值不斐的木頭。
 A book of souvenir matches.	一本紀念火柴冊。
 A box of safety matches.	一盒安全火柴。
 A bucket of floor wax.	一桶地板蠟。
-It doesn't work. I don't know why I bought it.	它不能用。我不知道為什麼要買它。
+It doesn't work. I don't know why I bought it.	這沒用。我不知道當初為什麼買它。
 It has a fossil in the middle of it.	中間有一塊化石。
 It has the words 'DRINK ME' on the bottle.	瓶子上寫著「喝我」。
-It looks like a lump of kryptonite.	看起來像一塊氪石。
-It looks really upset.	它看起來非常沮喪。
-It says 'Equal rights for Trolls' on it.	上面寫著「食人妖平權」。
-It smells of hundred year old Gorgonzola.	聞起來像百年戈岡佐拉起司。
-It tells you all about magic wands.	上面記載了關於魔法杖的一切。
-It's a door set into an old tree.	那是嵌在老樹上的門。
-It's a magic mushroom with 'EAT ME' written on it.	那是一朵寫著「吃我」的魔法蘑菇。
-It's a rock.	那是一塊石頭。
-It's a shopping list addressed to the storekeeper in town.	那是一張寫給鎮上店主的購物清單。
-It's a tree branch.	那是一根樹枝。
-It's an empty, wooden bucket.	那是一個空的木桶。
-It's covered in scribblings.	上面亂七八糟地寫滿了字。
-It's got something stuck in the end of it.	末端卡了東西。
-It's long and hard with a pointy end.	又長又硬，末端尖尖的。
-It's made from real dwarf hair.	用真矮人毛髮製成。
-It's not a Yale.	這不是 Yale 鎖。
-It's set to milrith finding mode.	設定為米爾瑞斯尋找模式。
-It's the oldest thing in the entire game.	是整個遊戲中最古老的東西。
-The Great Ring. It has strange symbols on it.	至尊魔戒。上面有奇怪的符號。
-The complex arrangement of valves and metal tubes.	複雜的閥門和金屬管組合。
-The equivalent of a giant joint for bees.	對蜜蜂來說等於一根巨大大麻。
+It looks like a lump of kryptonite.	看起來像是一塊氪石。
+It looks really upset.	看起來非常沮喪。
+It says 'Equal rights for Trolls' on it.	上面寫著「巨怪平權」。
+It smells of hundred year old Gorgonzola.	聞起來像百年陳釀的戈貢佐拉起司。
+It tells you all about magic wands.	裡面都在講魔法棒的事。
+It's a door set into an old tree.	這是一扇嵌在老樹裡的門。
+It's a magic mushroom with 'EAT ME' written on it.	這是一朵寫著「吃我」的魔法蘑菇。
+It's a rock.	這是一塊石頭。
+It's a shopping list addressed to the storekeeper in town.	這是一張寫給鎮上店主的購物清單。
+It's a tree branch.	這是一根樹枝。
+It's an empty, wooden bucket.	這是一個空的木桶。
+It's covered in scribblings.	上面塗滿了潦草的字跡。
+It's got something stuck in the end of it.	尾端卡了什麼東西。
+It's long and hard with a pointy end.	又長又硬，尾端尖尖的。
+It's made from real dwarf hair.	是用真正的矮人毛製成的。
+It's not a Yale.	這不是耶魯鎖。
+It's set to milrith finding mode.	設定在尋找米爾里斯礦的模式。
+It's the oldest thing in the entire game.	這是整個遊戲中最古老的東西。
+The Great Ring. It has strange symbols on it.	至尊之戒。上面有奇怪的符號。
+The complex arrangement of valves and metal tubes.	複雜排列的閥門和金屬管。
+The equivalent of a giant joint for bees.	對蜜蜂來說等於一根巨大的大麻菸。
 The magnet with the rope tied to it.	綁著繩子的磁鐵。
-There's 8 of them.	總共有八個。
-There's a piece of paper under this rock.	石頭下有一張紙。
+There's 8 of them.	有八個。
+There's a piece of paper under this rock.	這塊石頭下面有一張紙。
 They look like hairdressing scissors.	看起來像理髮剪刀。
-They're fine examples of their kind.	它們是同類中的優秀樣本。
-Big, green and fruity.	又大又綠又多汁。
-Enough beer for a really good night.	足夠度過一個美好夜晚的啤酒。
-Brochures for the Fiery Pits of Rondor.	朗多烈焰深淵的旅遊手冊。
-My Wizkid club wallet. It's full of useless junk.	我的小巫師俱樂部錢包。裝滿了沒用的垃圾。
-My mahogany has been munched by a horde of woodworm.	我的桃花心木被一大群蛀蟲啃了。
-Its lucky my hat is fireproofed.	還好我的帽子防火。
+They're fine examples of their kind.	是它們同類中的佼佼者。
+Big, green and fruity.	又大、又綠、又多汁。
+Enough beer for a really good night.	足夠讓今晚喝得盡興的啤酒。
+Brochures for the Fiery Pits of Rondor.	朗多火坑的宣傳手冊。
+My Wizkid club wallet. It's full of useless junk.	我的巫師小子俱樂部錢包。裡面裝滿了沒用的垃圾。
+My mahogany has been munched by a horde of woodworm.	我的桃花心木被一群蛀蟲啃了。
+Its lucky my hat is fireproofed.	還好我的帽子有防火處理。
+
+# ── 新增翻譯 ──
+A fine example of it's kind.	同類中的典範。
+A goblin key made from two teeth and a pencil.	一把用兩顆牙齒和一支鉛筆做的哥布林鑰匙。
+A pin used as a foothold for climbing across a rockface.	一根用來攀爬岩壁當腳踏的岩釘。
+A small squeaky thing that likes cheese.	一個吱吱叫又愛吃起司的小東西。
+A special herb with strange properties.	一種有奇特功效的藥草。
+Apparently its some sort of magical metal polish.	顯然是某種魔法金屬拋光劑。
+Attendant	服務員
+Barman	酒保
+Barrels	桶子們
+Beer voucher	啤酒禮券
+Blacksmith	鐵匠
+Boat	船
+Boeotian cherrywood	比奧提亞櫻桃木
+Books	書本們
+Bottles	瓶子們
+Boxes	盒子們
+Bridge	橋
+Cakes	蛋糕們
+Calypso's note	卡呂普索的紙條
+Cedar	雪松木
+Chain	鎖鏈
+Chocolate truffle door	巧克力松露門
+Climbing pin	攀岩釘
+Compost	堆肥
+Crack	裂縫
+Cupboard	櫥櫃
+Dodgy Geezer	可疑老頭
+Domestic cleaners	家用清潔劑
+Doorway	門口
+Down	下方
+Dressing screen	屏風
+Ebony	黑檀木
+Fire extinguisher	滅火器
+Flaming brand	火焰烙印
+Floorboards	地板
+Forge door	鍛造廠門
+Fruit machine	吃角子老虎機
+Gruesome statue	恐怖雕像
+Hair	毛髮
+Handle	把手
+Hole	洞
+Icy ledge	冰崖
+Inside	裡面
+Instruments of Death	死亡刑具
+Iron maiden	鐵處女
+It looks like the sort of thing a Witch might fly on.	看起來像是女巫會騎著飛的那種東西。
+It's Sordid's spellbook. It looks just like mine.	這是索迪德的魔法書。看起來跟我的長得一樣。
+It's a feather.	這是一根羽毛。
+Ladders	梯子們
+Lantern	燈籠
+Lava	岩漿
+Lily leaf	睡蓮葉
+Mahogany	桃花心木
+Man-mangler	人肉攪碎器
+Manacles	手銬
+Matches	火柴
+Matchstick	火柴棒
+Metal detector	金屬探測器
+Milrith ore	米爾里斯礦石
+Miniature statue	迷你雕像
+Mints	薄荷糖
+Mystic tapestry	神秘掛毯
+Net	網子
+Nubile Valkyrie	妙齡女武神
+Oak	橡木
+Outside	外面
+Pink splodge	粉紅色斑點
+Pits	坑洞
+Puddle	水坑
+Puddle's center	水坑中心
+Repulser	排斥器
+Rockface	岩壁
+Rosewood	玫瑰木
+Sausages!	香腸！
+Sharp things	尖銳物品
+Shield	盾牌
+Shopkeeper	店主
+Skullcrusher	碎顱器
+Sleeping Giant	沉睡巨人
+Small statue	小雕像
+Smokebox	煙箱
+Snowman	雪人
+Sousaphone	低音號
+Souvenir matches	紀念火柴
+Spear	矛
+Spinning wheel	紡車
+Statue	雕像
+Sticky, yellow wax from the beehive.	從蜂窩取出的黏黏黃蠟。
+Stone table	石桌
+Super Powered Elephant Cold Remedy.	超強大象感冒藥。
+Suspicious herbs	可疑藥草
+Tadpole	蝌蚪
+Teak	柚木
+Teleporter	傳送器
+Tomb	墳墓
+Tree stump	樹樁
+Trunk	樹幹
+Up	上方
+Vines	藤蔓
+Wagon wheel	車輪巧克力餅
+Water-melon	西瓜
+Well	水井
+Whoever he was, he had an enormous nose.	不管他是誰，他有個巨大的鼻子。
+Wise owl	智者貓頭鷹
+Woodcutter	樵夫
+Woodworm	蛀蟲
