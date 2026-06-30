@@ -1,10 +1,23 @@
 # 魔法師西蒙 (Simon the Sorcerer) 繁體中文化
 
 [![ScummVM](https://img.shields.io/badge/ScummVM-AGOS-blue)](https://scummvm.org)
-[![Status](https://img.shields.io/badge/status-引擎%20patch%20完成-brightgreen)](#進度)
+[![Status](https://img.shields.io/badge/status-CJK%20渲染%20完成-brightgreen)](#進度)
 [![License](https://img.shields.io/badge/license-GPLv3-green)](LICENSE)
 
 使用 ScummVM AGOS 引擎 patch 方式，將 1993 年經典點擊冒險遊戲《魔法師西蒙》(Simon the Sorcerer) 進行繁體中文在地化。
+
+## 進度快照 (2026-06-30)
+
+| 項目 | 狀態 |
+|------|------|
+| AGOS 引擎 CJK patch (430 行, 8 檔) | ✅ 編譯通過 |
+| CJK 字型 (12×12, 19782 字) | ✅ 載入驗證 |
+| 翻譯表 (252 條) | ✅ 載入驗證 |
+| 視窗文字 CJK 渲染 | ✅ |
+| 字幕 CJK 渲染 | ✅ |
+| Headless 測試 | ✅ 截圖成功 |
+
+![Headless 測試截圖](screenshots/simon_headless_test.png)
 
 ---
 
