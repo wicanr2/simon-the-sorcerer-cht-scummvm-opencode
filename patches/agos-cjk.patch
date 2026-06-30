@@ -129,7 +129,7 @@ index d837368b..6354fb4d 100644
 +
  } // End of namespace AGOS
 diff --git a/engines/agos/agos.h b/engines/agos/agos.h
-index f0eb250c..e68f3a74 100644
+index f0eb250c..69be6b65 100644
 --- a/engines/agos/agos.h
 +++ b/engines/agos/agos.h
 @@ -407,6 +407,10 @@ protected:
@@ -143,7 +143,7 @@ index f0eb250c..e68f3a74 100644
  	SubroutineLine *_classLine;
  	int16 _classMask, _classMode1, _classMode2;
  	Item *_findNextPtr;
-@@ -2051,6 +2055,16 @@ protected:
+@@ -2051,6 +2055,17 @@ protected:
  	void vcStopAnimation(uint16 zone, uint16 sprite) override;
  
  	Common::String genSaveName(int slot) const override;
@@ -156,12 +156,13 @@ index f0eb250c..e68f3a74 100644
 +
 +	void loadCJKFont();
 +	void loadCHTTable();
++	void renderStringCJK(uint vgaSpriteId, uint color, uint width, uint height, const char *txt);
 +	void windowDrawChar(WindowBlock *window, uint x, uint y, byte chr) override;
  };
  
  class AGOSEngine_Simon2 : public AGOSEngine_Simon1 {
 diff --git a/engines/agos/charset-fontdata.cpp b/engines/agos/charset-fontdata.cpp
-index 4a350757..9ca3a88e 100644
+index 4a350757..a8f77205 100644
 --- a/engines/agos/charset-fontdata.cpp
 +++ b/engines/agos/charset-fontdata.cpp
 @@ -24,6 +24,7 @@
@@ -172,7 +173,78 @@ index 4a350757..9ca3a88e 100644
  #include "agos/intern.h"
  
  #include "graphics/surface.h"
-@@ -3029,6 +3030,97 @@ void AGOSEngine::windowDrawChar(WindowBlock *window, uint x, uint y, byte chr) {
+@@ -1299,6 +1300,70 @@ void AGOSEngine::renderString(uint vgaSpriteId, uint color, uint width, uint hei
+ 	}
+ }
+ 
++// Non-upstream: Simon 1 CJK subtitle rendering to VGA sprite buffer.
++// Renders Big5 text using the DCJK font into the same buffer format used by renderString.
++void AGOSEngine_Simon1::renderStringCJK(uint vgaSpriteId, uint color, uint width, uint height, const char *txt) {
++	if (!_cjkFontData) return;
++
++	VgaPointersEntry *vpe = &_vgaBufferPointers[2];
++	byte *dst, *p;
++	uint count;
++
++	if (vgaSpriteId >= 100) {
++		vgaSpriteId -= 100;
++		vpe++;
++	}
++
++	dst = vpe->vgaFile2;
++	count = 4000;
++	if (vgaSpriteId == 1) count *= 2;
++
++	p = dst + vgaSpriteId * 8;
++	WRITE_BE_UINT16(p + 4, height);
++	WRITE_BE_UINT16(p + 6, width);
++	dst += readUint32Wrapper(p);
++
++	memset(dst, 0, count);
++
++	uint fw = _cjkFontW;   // e.g. 12
++	uint fh = _cjkFontH;   // e.g. 12
++	uint fbpr = _cjkFontBpr;
++	byte *dst_org = dst;
++	byte chr;
++
++	while ((chr = (byte)*txt++) != 0) {
++		if (chr == 10) {
++			// Newline: move to next line
++			dst_org += width * fh;
++			dst = dst_org;
++		} else if (chr == ' ') {
++			// Space: advance half-width
++			dst += fw / 2;
++		} else if (chr >= 0x81) {
++			// Big5 double-byte character
++			byte trail = (byte)*txt++;
++			if (trail == 0) break;
++
++			int glyphIdx = CHT::big5LinearIndex(chr, trail);
++			if (glyphIdx < 0) continue;
++
++			const byte *glyph = _cjkFontData + (uint32)glyphIdx * fbpr * fh;
++			for (uint row = 0; row < fh; row++) {
++				byte *cur_dst = dst + row * width;
++				const byte *src = glyph + row * fbpr;
++				for (uint ci = 0; ci < fw; ci++) {
++					if (src[ci >> 3] & (0x80 >> (ci & 7)))
++						cur_dst[ci] = (byte)color;
++				}
++			}
++			dst += fw - 1;
++		} else {
++			// Single-byte char: skip (shouldn't happen in CJK mode)
++			dst += fw;
++		}
++	}
++}
++
+ static const byte czech_simonFont[] = {
+ 	0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,
+ 	0x20, 0x70, 0x70, 0x20, 0x20, 0x00, 0x20, 0x00,
+@@ -3029,6 +3094,97 @@ void AGOSEngine::windowDrawChar(WindowBlock *window, uint x, uint y, byte chr) {
  	_videoLockOut &= ~0x8000;
  }
  
@@ -308,7 +380,7 @@ index 163898e4..3a1db616 100644
  	cursor.o \
  	debug.o \
 diff --git a/engines/agos/string.cpp b/engines/agos/string.cpp
-index 02d8c379..cf877031 100644
+index 02d8c379..a8f1bfec 100644
 --- a/engines/agos/string.cpp
 +++ b/engines/agos/string.cpp
 @@ -27,6 +27,7 @@
@@ -331,3 +403,28 @@ index 02d8c379..cf877031 100644
  	// WORKAROUND bug #2780: The French version of Simon 1 and the
  	// Polish version of Simon 2 used excess spaces, at the end of many
  	// messages, so we strip off those excess spaces.
+@@ -495,7 +501,12 @@ void AGOSEngine::printScreenText(uint vgaSpriteId, uint color, const char *strin
+ 	const int textHeight = 10;
+ 
+ 	height = textHeight;
+-	lettersPerRow = width / 6;
++	// Non-upstream: CJK mode uses wider characters (12px vs 6px)
++	if (_chtCJKMode && getGameType() == GType_SIMON1)
++		lettersPerRow = width / 12;
++	else
++		lettersPerRow = width / 6;
++	if (lettersPerRow < 1) lettersPerRow = 1;
+ 	lettersPerRowJustified = stringLength / (stringLength / lettersPerRow + 1) + 1;
+ 
+ 	talkDelay = (stringLength + 3) / 3;
+@@ -556,6 +567,10 @@ void AGOSEngine::printScreenText(uint vgaSpriteId, uint color, const char *strin
+ 	if (getPlatform() == Common::kPlatformAmiga  && getGameType() != GType_SIMON2) {
+ 		color = color * 3 + 1;
+ 		renderStringAmiga(vgaSpriteId, color, width, height, convertedString);
++	// Non-upstream: CJK mode rendering for Simon 1
++	} else if (_chtCJKMode && getGameType() == GType_SIMON1) {
++		color = color * 3 + 192;
++		static_cast<AGOSEngine_Simon1 *>(this)->renderStringCJK(vgaSpriteId, color, width, height, convertedString);
+ 	} else {
+ 		color = color * 3 + 192;
+ 		renderString(vgaSpriteId, color, width, height, convertedString);
