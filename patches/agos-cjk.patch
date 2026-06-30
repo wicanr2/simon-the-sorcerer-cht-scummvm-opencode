@@ -1,5 +1,5 @@
 diff --git a/engines/agos/agos.cpp b/engines/agos/agos.cpp
-index d837368b..3341f449 100644
+index d837368b..6354fb4d 100644
 --- a/engines/agos/agos.cpp
 +++ b/engines/agos/agos.cpp
 @@ -31,6 +31,7 @@
@@ -30,18 +30,20 @@ index d837368b..3341f449 100644
  	_useSimon2LanguageOverlay = false;
  
  	_vc10BasePtrOld = nullptr;
-@@ -862,6 +867,10 @@ void AGOSEngine_Simon1::setupGame() {
- 	_numZone = 164;
+@@ -746,6 +751,12 @@ Common::Error AGOSEngine::init() {
+ 	// Setup mixer
+ 	syncSoundSettings();
  
- 	AGOSEngine::setupGame();
++	// Non-upstream: Simon 1 Chinese CJK auto-detect (after language is set)
++	if (getGameType() == GType_SIMON1) {
++		static_cast<AGOSEngine_Simon1 *>(this)->loadCJKFont();
++		static_cast<AGOSEngine_Simon1 *>(this)->loadCHTTable();
++	}
 +
-+	// Non-upstream: load CJK font and translation table if available
-+	loadCJKFont();
-+	loadCHTTable();
+ 	return Common::kNoError;
  }
  
- void AGOSEngine_Waxworks::setupGame() {
-@@ -1416,4 +1425,81 @@ Common::String AGOSEngine::translateLanguageOverlay(const Common::String &englis
+@@ -1416,4 +1427,84 @@ Common::String AGOSEngine::translateLanguageOverlay(const Common::String &englis
  	return _simon2LanguageOverlay.getValOrDefault(english);
  }
  
@@ -88,10 +90,12 @@ index d837368b..3341f449 100644
 +	f.close();
 +
 +	_chtCJKMode = true;
++	_subtitles = true;
++	_speech = false;
 +	ConfMan.setBool("subtitles", true);
 +	ConfMan.setBool("speech_mute", false);
 +
-+	debug("Simon CJK font loaded: %dx%d, %u glyphs", _cjkFontW, _cjkFontH, numGlyphs);
++	warning("Simon CHT: CJK font loaded (%dx%d, %u glyphs)", _cjkFontW, _cjkFontH, numGlyphs);
 +}
 +
 +// Non-upstream: Simon 1 Traditional Chinese translation table loading.
@@ -108,7 +112,8 @@ index d837368b..3341f449 100644
 +		return;
 +
 +	byte *buf = new byte[size + 1];
-+	if (f.read(buf, size) != size) {
++	uint32 readSize = f.read(buf, (uint32)size);
++	if ((int32)readSize != size) {
 +		delete[] buf;
 +		return;
 +	}
