@@ -367,6 +367,23 @@ index de1ccee1..1f12f27b 100644
  				if (c == 'i' || c == 'l')
  					window->textColumnOffset -= 2;
  			}
+diff --git a/engines/agos/event.cpp b/engines/agos/event.cpp
+index 785c692e..e7d31128 100644
+--- a/engines/agos/event.cpp
++++ b/engines/agos/event.cpp
+@@ -555,6 +555,12 @@ void AGOSEngine::delay(uint amount) {
+ 					}
+ 				}
+ 
++				// Non-upstream: F8 toggles Chinese/English text in Simon 1
++				if (getGameType() == GType_SIMON1 && _chtCJKMode
++					&& event.kbd.keycode == Common::KEYCODE_F8) {
++					_chtTextOn = !_chtTextOn;
++				}
++
+ 				if (getGameType() == GType_PP) {
+ 					if (event.kbd.hasFlags(Common::KBD_SHIFT))
+ 						_variableArray[41] = 0;
 diff --git a/engines/agos/module.mk b/engines/agos/module.mk
 index 163898e4..3a1db616 100644
 --- a/engines/agos/module.mk
@@ -380,7 +397,7 @@ index 163898e4..3a1db616 100644
  	cursor.o \
  	debug.o \
 diff --git a/engines/agos/string.cpp b/engines/agos/string.cpp
-index 02d8c379..a8f1bfec 100644
+index 02d8c379..a4083ae7 100644
 --- a/engines/agos/string.cpp
 +++ b/engines/agos/string.cpp
 @@ -27,6 +27,7 @@
@@ -409,7 +426,7 @@ index 02d8c379..a8f1bfec 100644
  	height = textHeight;
 -	lettersPerRow = width / 6;
 +	// Non-upstream: CJK mode uses wider characters (12px vs 6px)
-+	if (_chtCJKMode && getGameType() == GType_SIMON1)
++	if (_chtCJKMode && _chtTextOn && getGameType() == GType_SIMON1)
 +		lettersPerRow = width / 12;
 +	else
 +		lettersPerRow = width / 6;
@@ -422,7 +439,7 @@ index 02d8c379..a8f1bfec 100644
  		color = color * 3 + 1;
  		renderStringAmiga(vgaSpriteId, color, width, height, convertedString);
 +	// Non-upstream: CJK mode rendering for Simon 1
-+	} else if (_chtCJKMode && getGameType() == GType_SIMON1) {
++	} else if (_chtCJKMode && _chtTextOn && getGameType() == GType_SIMON1) {
 +		color = color * 3 + 192;
 +		static_cast<AGOSEngine_Simon1 *>(this)->renderStringCJK(vgaSpriteId, color, width, height, convertedString);
  	} else {
