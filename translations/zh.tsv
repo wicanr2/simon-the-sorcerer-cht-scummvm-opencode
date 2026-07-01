@@ -15,361 +15,1230 @@ Look at	查看
 Pull	拉動
 
 # ── 系統訊息 ──
-Use it to Save, Load or Quit.	用來存檔、讀檔或離開。
-Use this to speed around the game.	用來在遊戲中快速移動。
-You can up it or down it.	可以調高或調低。
-Abracadabra!	阿布拉卡達布拉！
-Alakazam!	阿拉卡贊！
-Hocus Pocus!	霍克斯波克斯！
-Hello.	你好。
-No thanks.	不了，謝謝。
-Yes please.	好的，麻煩你。
-Why not?	有何不可？
-I wanna be a wizard.	我想成為巫師。
-No more magical stuff.	不要再來魔法玩意了。
-Mix me a Wet Wizard, barkeep.	酒保，幫我調一杯溼巫師。
-How about a Warlock Surprise?	來杯術士驚喜怎麼樣？
-Er... Beer?	呃……啤酒？
-Can you do me a Cool Red Witch?	幫我來一杯酷紅女巫？
-I've changed my mind about magical stuff.	我對魔法玩意改變主意了。
-I've finally got my spell book back.	我終於拿回我的魔法書了。
-
-# ── 常用對話 ──
-What do you want?	你想要什麼？
-Where's the door?	門在哪裡？
-Can I see something else?	可以讓我看點別的東西嗎？
-Please accept my deepest apologies.	請接受我最深的歉意。
-I wonder where the rest of the rat is ?	我在想老鼠的其它部分去哪了？
-I can't imagine what use I'll have for it.	我想不出這東西能有什麼用處。
-I could make it worth your while.	我不會讓你吃虧的。
-I love Wagon Wheels.	我愛吃車輪巧克力餅。
-I wonder if I should ask for a refund.	我在想是不是該要求退費。
-I got them from the oaf in the forest.	我從森林裡那個呆子那裡拿到的。
-I pounded it out of some seeds.	我從一些種子裡搗出來的。
-I can turn people into stone with this.	我可以用這個把人變成石頭。
-I hope it's not like the one up the stairs...	希望不要跟樓上那個一樣……
-What do you know about Sordid?	你對索迪德知道多少？
-Sorry, I thought you were someone else.	抱歉，我以為你是別人。
-Something tells me they don't welcome visitors.	感覺上他們不歡迎訪客。
-Yes please.	好的。
-I'm sure we can come to some arrangement.	我相信我們可以達成某種協議。
-
-# ── 地點名稱 ──
-Witch's Cottage	女巫小屋
-In front of Cottage	小屋前面
-Inside Cottage	小屋內部
-Behind Cottage	小屋後面
-Cross Roads	十字路口
-Center of the Forest	森林中心
-Cave Entrance	洞穴入口
-Dragon's Cave	龍之洞穴
-Tower of Doom	末日之塔
-Outside Tower	塔外
-Near the tap	水龍頭附近
-Towards tap	往水龍頭
-Dwarf Mine	矮人礦坑
-Troll Bridge	巨怪之橋
-Shore	岸邊
-Village	村莊
-Mouse Hole	老鼠洞
-Owl Tree	貓頭鷹樹
-Cave	洞穴
-Gorge	峽谷
-Mountain	山
-Steps	階梯
-Forest	森林
-Swamp	沼澤
-
-# ── 物品名稱 ──
-Beard	鬍子
-Feather	羽毛
-Catapult	彈弓
-Ring	戒指
-Leaf	葉子
-Sock	襪子
-Nail	釘子
-Wedge	楔子
-Broom	掃帚
-Pouch	小袋
-Pebble	鵝卵石
-Seeds	種子
-Bottle	瓶子
-Cake	蛋糕
-Ladder	梯子
-Boulder	巨石
-Clock	時鐘
-Wizard	巫師
-Dwarf	矮人
-Giant	巨人
-Guard	守衛
-Druid	德魯伊
-Bard	吟遊詩人
-Barbarian	野蠻人
-Oaf	呆子
-Troll	巨怪
-Golum	咕魯
-Mouse	老鼠
-Frog	青蛙
-Goat	山羊
-Doggie	小狗
-Black cat	黑貓
-Dragon	龍
-Demons	惡魔
-Goblins	哥布林
-Bell	鐘
-Hat	帽子
-Rope	繩子
-Hook	鉤子
-Magnet	磁鐵
-Lever	槓桿
-Hammer	錘子
-Hacksaw	鋼鋸
-Axe head	斧頭頭
-Clapper	鐘舌
-Bucket	桶子
-Chest	箱子
-Drawer	抽屜
-Box	盒子
-Table	桌子
-Chair	椅子
-Door	門
-Doors	門
-Key	鑰匙
-Lock	鎖
-Bars	柵欄
-Trapdoor	活板門
-Skylight	天窗
-Anvil	鐵砧
-Fridge	冰箱
-Cauldron	大鍋
-Fireplace	壁爐
-Stove	爐子
-Barrel	酒桶
-Beer barrel	啤酒桶
-Corn	玉米
-Beans	豆子
-Mushroom	蘑菇
-Frogsbane	滅蛙草
-Sweeties	糖果
-Flour	麵粉
-Water	水
-Oil	油
-Beer	啤酒
-Stew	燉菜
-Stew pot	燉鍋
-Wax	蠟
-Floor wax	地板蠟
-Potions	藥水
-Potion	藥水
-Strength potion	力量藥水
-Cold remedy	感冒藥
-Chemicals	化學藥品
-White spirit	白精油
-Cosmetics	化妝品
-Tissues	衛生紙
-Bandages	繃帶
-Loose bandage	鬆脫的繃帶
-Candles	蠟燭
-Sausages	香腸
-Staff	法杖
-Magic wand	魔法棒
-Magic amulet	魔法護身符
-Spell book	魔法書
-WizKid wallet	巫師小子錢包
-Map	地圖
-Postcard	明信片
-Shopping list	購物清單
-Brochures	手冊
-Placard	告示牌
-Sign	標誌
-Book	書
-Mirror	鏡子
-Gem	寶石
-Gems	寶石們
-Fossil	化石
-Skull	頭骨
-Bone	骨頭
-Rat bone	鼠骨
-Gold coins	金幣
-Gold pieces	金幣
-
-# ── 物品描述 ──
-A maple leaf.	一片楓葉。
-A carbon dioxide fire extinguisher.	一支二氧化碳滅火器。
-A fine example of its kind.	同類中的典範。
-A fine example of a bucket of water.	一桶水的典範。
-A wood nail.	一根木釘。
-A small pebble.	一顆小鵝卵石。
-A pile of small pebbles.	一堆小鵝卵石。
-A metal slops bucket. There is a hole in the side of it.	一個金屬餿水桶。側面有個洞。
-A heavy gold encrusted door.	一扇鍍金沉重的門。
-A sturdy wooden door.	一扇結實的木門。
-A hook attached to a length of rope.	一根綁著繩子的鉤子。
-A lump of metal bearing rock.	一塊含金屬的岩石。
-A makeshift catapult.	一個臨時湊合的彈弓。
-A metal bar from inside a bell.	一根從鐘裡取出的金屬棒。
-A piece of wood with a burnt end.	一塊尾端燒焦的木頭。
-A powerful looking wizard's staff.	一根看起來威力強大的巫師法杖。
-A roll of Super XXXXX Strong mints.	一捲超強超強超強超強超強薄荷糖。
-A single strand of white dog hair.	一根白色的狗毛。
-A small forked sapling.	一根分叉的小樹苗。
-A smelly liquid in a jar.	一罐臭臭的液體。
-A special, super-hard, axe head.	一個特別堅硬的斧頭頭。
-A specimen collecting jar for invertebrates.	一個無脊椎動物採集罐。
-A statue of a really ugly barbarian.	一座醜到不行的野蠻人雕像。
-A stone table used for the sacrificing of shaved lions.	一張用來獻祭剃毛獅子的石桌。
-A strong elastic band.	一條強力橡皮筋。
-A super strong hacksaw.	一把超強鋼鋸。
-A suspiciously smelling pouch.	一個味道可疑的小袋。
-A triangular piece of wood.	一塊三角木片。
-A voucher for a free glass of beer at the Drunken Druid.	一張可在醉德魯伊酒館兌換免費啤酒的禮券。
-An extremely shiny shield.	一面極度閃亮的盾牌。
+4 gold pieces! That's a quality gemstone that is.	四枚金幣！這可是塊上等寶石啊。
+A STARTER pack?	入門包？
 A Tungsten-Carbide lightweight claw hammer.	一把輕量碳化鎢羊角錘。
 A beekeeper's hat and fashion accessory.	一頂兼具時尚配件功能的養蜂帽。
 A block of valuable wood.	一塊價值不斐的木頭。
 A book of souvenir matches.	一本紀念火柴冊。
+A box of groceries for the Goblins.	一箱給哥布林的雜貨。
 A box of safety matches.	一盒安全火柴。
 A bucket of floor wax.	一桶地板蠟。
-It doesn't work. I don't know why I bought it.	這沒用。我不知道當初為什麼買它。
-It has a fossil in the middle of it.	中間有一塊化石。
-It has the words 'DRINK ME' on the bottle.	瓶子上寫著「喝我」。
-It looks like a lump of kryptonite.	看起來像是一塊氪石。
-It looks really upset.	看起來非常沮喪。
-It says 'Equal rights for Trolls' on it.	上面寫著「巨怪平權」。
-It smells of hundred year old Gorgonzola.	聞起來像百年陳釀的戈貢佐拉起司。
-It tells you all about magic wands.	裡面都在講魔法棒的事。
-It's a door set into an old tree.	這是一扇嵌在老樹裡的門。
-It's a magic mushroom with 'EAT ME' written on it.	這是一朵寫著「吃我」的魔法蘑菇。
-It's a rock.	這是一塊石頭。
-It's a shopping list addressed to the storekeeper in town.	這是一張寫給鎮上店主的購物清單。
-It's a tree branch.	這是一根樹枝。
-It's an empty, wooden bucket.	這是一個空的木桶。
-It's covered in scribblings.	上面塗滿了潦草的字跡。
-It's got something stuck in the end of it.	尾端卡了什麼東西。
-It's long and hard with a pointy end.	又長又硬，尾端尖尖的。
-It's made from real dwarf hair.	是用真正的矮人毛製成的。
-It's not a Yale.	這不是耶魯鎖。
-It's set to milrith finding mode.	設定在尋找米爾里斯礦的模式。
-It's the oldest thing in the entire game.	這是整個遊戲中最古老的東西。
-The Great Ring. It has strange symbols on it.	至尊之戒。上面有奇怪的符號。
-The complex arrangement of valves and metal tubes.	複雜排列的閥門和金屬管。
-The equivalent of a giant joint for bees.	對蜜蜂來說等於一根巨大的大麻菸。
-The magnet with the rope tied to it.	綁著繩子的磁鐵。
-There's 8 of them.	有八個。
-There's a piece of paper under this rock.	這塊石頭下面有一張紙。
-They look like hairdressing scissors.	看起來像理髮剪刀。
-They're fine examples of their kind.	是它們同類中的佼佼者。
-Big, green and fruity.	又大、又綠、又多汁。
-Enough beer for a really good night.	足夠讓今晚喝得盡興的啤酒。
-Brochures for the Fiery Pits of Rondor.	朗多火坑的宣傳手冊。
-My Wizkid club wallet. It's full of useless junk.	我的巫師小子俱樂部錢包。裡面裝滿了沒用的垃圾。
-My mahogany has been munched by a horde of woodworm.	我的桃花心木被一群蛀蟲啃了。
-Its lucky my hat is fireproofed.	還好我的帽子有防火處理。
-
-# ── 新增翻譯 ──
+A cake covered in pink icing.	一個覆著粉紅糖霜的蛋糕。
+A carbon dioxide fire extinguisher.	一支二氧化碳滅火器。
+A collection of hot, metal spikes.	一批滾燙的金屬尖刺。
+A few blocks of cedar.	幾塊雪松木。
+A few sit-ups would do you the world of good.	做幾下仰臥起坐對你大有裨益。
+A fine example of a bucket of water.	一桶水的典範。
 A fine example of it's kind.	同類中的典範。
+A fine example of its kind.	同類中的典範。
+A fire alarm bell with a push button center.	一個中央有按鈕的火警警鈴。
+A fishing net.	一張漁網。
+A garden rake.	一把園藝耙。
+A garden tap which is caked with rust.	一個鏽跡斑斑的庭院水龍頭。
+A gnarled old tree.	一棵扭曲的老樹。
 A goblin key made from two teeth and a pencil.	一把用兩顆牙齒和一支鉛筆做的哥布林鑰匙。
+A heap of highly magical - and smelly - compost.	一堆魔力高強——而且臭氣熏天的堆肥。
+A heavy gold encrusted door.	一扇鍍金沉重的門。
+A hole in the ceiling to let light in.	天花板上用來採光的洞。
+A hook attached to a length of rope.	一根綁著繩子的鉤子。
+A hook used for hanging a pot over the fire.	一個用來在火上掛鍋的鉤子。
+A huge pile of sparkling gems.	一大堆閃閃發光的寶石。
+A jolly looking barman.	一個看起來很開朗的酒保。
+A large Goblin guard is blocking the passage.	一個高大的哥布林守衛擋住了通道。
+A large cardboard box.	一個大紙箱。
+A long plait of blonde hair tied on securely.	一條牢牢繫住的金色長辮子。
+A lump of metal bearing rock.	一塊含金屬的岩石。
+A makeshift boat.	一艘臨時拼湊的船。
+A makeshift catapult.	一個臨時湊合的彈弓。
+A maple leaf.	一片楓葉。
+A metal bar from inside a bell.	一根從鐘裡取出的金屬棒。
+A metal slops bucket. There is a hole in the side of it.	一個金屬餿水桶。側面有個洞。
+A mouse hole.	一個老鼠洞。
+A piece of wood with a burnt end.	一塊尾端燒焦的木頭。
+A pile of dirt excavated by Dr Von Jones.	Von Jones 博士挖出的一堆泥土。
+A pile of dust and bandages.	一堆灰塵和繃帶。
+A pile of ebony blocks.	一堆烏木塊。
+A pile of empty beer bottles.	一堆空啤酒瓶。
+A pile of oak logs.	一堆橡木圓木。
+A pile of rosewood.	一堆花梨木。
+A pile of small pebbles.	一堆小鵝卵石。
+A pile of teak.	一堆柚木。
 A pin used as a foothold for climbing across a rockface.	一根用來攀爬岩壁當腳踏的岩釘。
+A pinnacle of rock.	一座岩峰。
+A pool of bubbling lava.	一池冒泡的岩漿。
+A powerful looking wizard's staff.	一根看起來威力強大的巫師法杖。
+A roll of Super XXXXX Strong mints.	一捲超強超強超強超強超強薄荷糖。
+A set of ladders leading down to the workface.	一副通往工作面的梯子。
+A set of ladders leading out the back of the Swampling's house.	一副通往 Swampling 家後方的梯子。
+A set of wooden ladders.	一副木梯。
+A shallow drawer in the Wizard's writing desk.	巫師書桌裡的一個淺抽屜。
+A shifty looking bloke selling bric-a-brac.	一個鬼鬼祟祟賣舊貨的傢伙。
+A shiny lever just waiting to be moved.	一根閃亮、正等著被拉動的操縱桿。
+A shiny metal bell.	一個閃亮的金屬鈴。
+A single strand of white dog hair.	一根白色的狗毛。
+A small bucket.	一個小水桶。
+A small crack in the door.	門上的一條小裂縫。
+A small forked sapling.	一根分叉的小樹苗。
+A small hook to hang things on.	一個用來掛東西的小鉤子。
+A small mouse hole in the skirting board.	踢腳板裡的一個小老鼠洞。
+A small pebble.	一顆小鵝卵石。
 A small squeaky thing that likes cheese.	一個吱吱叫又愛吃起司的小東西。
+A smelly liquid in a jar.	一罐臭臭的液體。
+A solid metal door.	一扇堅固的金屬門。
+A solid stone block.	一塊堅固的石塊。
+A solid stone statue of a wizard.	一尊堅固的石製巫師雕像。
 A special herb with strange properties.	一種有奇特功效的藥草。
+A special, super-hard, axe head.	一個特別堅硬的斧頭頭。
+A specimen collecting jar for invertebrates.	一個無脊椎動物採集罐。
+A splodge of pink spray paint.	一灘粉紅色噴漆。
+A standard instrument of torture.	一件標準刑具。
+A standard teleporter.	一台標準傳送器。
+A statue of a pygmy warrior woman.	一尊矮人女戰士的雕像。
+A statue of a really ugly barbarian.	一座醜到不行的野蠻人雕像。
+A stone table used for the sacrificing of shaved lions.	一張用來獻祭剃毛獅子的石桌。
+A storage bin for beans.	一個裝豆子的儲物箱。
+A storage bin for corn.	一個裝玉米的儲物箱。
+A storage bin for flour.	一個裝麵粉的儲物箱。
+A strange picture with strange symbols around it.	一幅周圍環繞奇怪符號的奇怪圖畫。
+A strong elastic band.	一條強力橡皮筋。
+A strong wooden trunk.	一個堅固的木箱。
+A sturdy wooden door.	一扇結實的木門。
+A super strong hacksaw.	一把超強鋼鋸。
+A suspiciously smelling pouch.	一個味道可疑的小袋。
+A temporary miscalculation on your part.	你一時的計算失誤。
+A trapdoor set in the floor.	地板上的一扇活板門。
+A triangular piece of wood.	一塊三角木片。
+A two headed punk.	一個雙頭龐克。
+A very imposing door.	一扇非常氣派的門。
+A very poor specimen. It hasn't even got any ears.	一個很差的標本。連耳朵都沒有。
+A very posh doorbell.	一個非常高級的門鈴。
+A very small lily leaf.	一片很小的百合葉。
+A voucher for a free glass of beer at the Drunken Druid.	一張可在醉德魯伊酒館兌換免費啤酒的禮券。
+A wide variety of cosmetics.	種類繁多的化妝品。
+A wood nail.	一根木釘。
+A-ha! The anticipated fine print.	啊哈！意料之中的附帶細則。
+Aaaaarrrgghhhhh!!!	啊啊啊啊啊啊啊！！！
+Abracadabra!	阿布拉卡達布拉！
+Absolutely. I value my life.	當然。我還想保住小命。
+Actually, I'm having second thoughts about the whole thing.	其實，我對整件事開始有點猶豫了。
+Actually, it's me. Y'know - the prince of darkness.	其實是我。你知道的——黑暗王子。
+Alakazam!	阿拉卡贊！
+All the bees are stoned.	所有的蜜蜂都嗑嗨了。
+An empty beer bottle.	一個空啤酒瓶。
+An engraved stone sarcophagus.	一具刻有花紋的石棺。
+An extremely shiny shield.	一面極度閃亮的盾牌。
+And a fine bridge it is too.	而且確實是座好橋。
+And just where do you two fit into these plans?	那你們倆在這計畫裡算什麼？
+And then I get made a wizard, right?	然後我就會成為巫師了，對吧？
+And what consequences would those be?	那會是什麼後果呢？
+And what makes you think I'm not a wizard, eh?	那你憑什麼覺得我不是巫師，嗯？
+And you reckon you're gonna find it down that hole?	你以為你能在那個洞裡找到它？
+Anvil	鐵砧
+Any idea where I can get a human skull?	知道我哪裡能弄到一顆人頭骨嗎？
+Any idea where it might be?	知道它可能在哪嗎？
+Any ideas where it is?	知道它在哪嗎？
 Apparently its some sort of magical metal polish.	顯然是某種魔法金屬拋光劑。
+Apparently the place is called the Drunken Druid.	顯然那個地方叫「醉鬼德魯伊」。
+Are you a wise owl?	你是隻聰明的貓頭鷹嗎？
+Are you interested in any double glazing?	您對雙層玻璃窗有興趣嗎？
+Are you some sort of Bogieperson?	你是某種鬼怪嗎？
+Are you some sort of sewage worker?	你是某種下水道工人嗎？
+Are you trying to build yourself up again or something?	你是想重新壯大自己還是怎樣？
+As a matter of fact I haven't.	事實上，我確實沒有。
 Attendant	服務員
+Awww. Poor little demonie weemonies.	嗚嗚。可憐的小惡魔寶寶們。
+Awwww. Don't cry. I've come to see you.	乖乖。別哭。我來看你了。
+Axe head	斧頭頭
+Back in a bit. Just got to sort a few details.	馬上回來。先處理幾個細節。
+Bandages	繃帶
+Barbarian	野蠻人
+Bard	吟遊詩人
 Barman	酒保
+Barrel	酒桶
 Barrels	桶子們
+Bars	柵欄
+Be gone, demon! Tell me how to use it or I send you back whence you cameth!	滾吧，惡魔！告訴我怎麼用它，否則我就把你打回你來的地方！
+Beans	豆子
+Beard	鬍子
+Beer	啤酒
+Beer barrel	啤酒桶
+Beer barrels	啤酒桶
+Beer bottles.	啤酒瓶。
 Beer voucher	啤酒禮券
+Behind Cottage	小屋後面
+Bell	鐘
+Beware, evil one, or face my wrath!	當心點，邪惡之徒，否則嘗嘗我的怒火！
+Big, green and fruity.	又大、又綠、又多汁。
+Black cat	黑貓
 Blacksmith	鐵匠
+Bleach, detergent, washing powder and window cleaner.	漂白水、洗衣精、洗衣粉和玻璃清潔劑。
+Blibble Blibble, Fish Wobble. Kerplunk Rivet Mango.	布利布利，魚兒搖搖。咕咚鉚釘芒果。
 Boat	船
 Boeotian cherrywood	比奧提亞櫻桃木
+Bone	骨頭
+Book	書
 Books	書本們
+Bottle	瓶子
 Bottles	瓶子們
+Boulder	巨石
+Box	盒子
 Boxes	盒子們
 Bridge	橋
+Brochures	手冊
+Brochures for the Fiery Pits of Rondor.	朗多火坑的宣傳手冊。
+Broom	掃帚
+Bucket	桶子
+But I'm standing in for Axeface Skullsplitter.	但我是在替 Axeface Skullsplitter 頂班的。
+But, I'M a powerful wizard.	但是，我可是個強大的巫師。
+By the sacred beard of J.R.R.Tolkien, prepare to DIE!!!	以 J.R.R.Tolkien 神聖的鬍鬚起誓，受死吧！！！
+Cake	蛋糕
 Cakes	蛋糕們
+Call me stupid, but I don't find that method completely fair.	就算我笨吧，但我覺得這方法不怎麼公平。
+Calypso told me to look for four wizards disguised as country bumpkins.	Calypso 叫我找四個偽裝成鄉巴佬的巫師。
 Calypso's note	卡呂普索的紙條
+Can I have a last request?	我能有個最後的請求嗎？
+Can I have your er... thingy?	可以給我那個……那個什麼東西嗎？
+Can I see something else?	可以讓我看點別的東西嗎？
+Can you do me a Cool Red Witch?	幫我來一杯酷紅女巫？
+Can't you eat something other than goat?	你就不能吃點羊以外的東西嗎？
+Candles	蠟燭
+Care for a drink, sweet-thing?	來一杯嗎，甜心？
+Catapult	彈弓
+Cauldron	大鍋
+Cave	洞穴
+Cave Entrance	洞穴入口
+Cease your fishing. I am a purveyor of finest Stew de Swamp.	別釣魚了。我可是頂級「沼澤燉菜」的供應商。
 Cedar	雪松木
+Center of the Forest	森林中心
 Chain	鎖鏈
+Chair	椅子
+Chemicals	化學藥品
+Chest	箱子
 Chocolate truffle door	巧克力松露門
+Clapper	鐘舌
 Climbing pin	攀岩釘
+Clock	時鐘
+Cold remedy	感冒藥
 Compost	堆肥
+Corn	玉米
+Cosmetics	化妝品
+Cower, demon! I'm a powerful wizard.	發抖吧，惡魔！我可是個強大的巫師。
 Crack	裂縫
+Cross Roads	十字路口
 Cupboard	櫥櫃
+D'ya think he's around these parts?	你覺得他會在這附近嗎？
+D'ya wanna make something of it?	你想怎樣，想打架嗎？
+D'you know anything about the evil wizard, Sordid?	你知道那個邪惡巫師 Sordid 的事嗎？
+D'you know where I can find the key to it?	你知道我哪裡能找到它的鑰匙嗎？
+Damn. I've forgotten what they were now.	該死。我現在忘了它們是什麼了。
+Days pass....	日子一天天過去……
+Deary me. Who forgot their sunscreen then?	哎呀呀。是誰忘了擦防曬啊？
+Demons	惡魔
+Did he think up the fishing rod, as well?	釣竿也是他發明的嗎？
+Did it do any good?	有什麼幫助嗎？
+Do I get a Young Wizards check book and pen?	我能拿到一本「青年巫師」支票簿和筆嗎？
+Do you accept bribes?	你們收賄嗎？
+Do you do requests?	你接受點歌嗎？
+Do you do special rates for mighty wizards?	你們對強大巫師有特價嗎？
+Do you dye your hair?	你染頭髮嗎？
+Do you know any magic?	你會什麼魔法嗎？
+Do you know anything about this 'Sordid' geezer?	你知道這個叫 Sordid 的老傢伙的事嗎？
+Do you know where Calypso has got to?	你知道 Calypso 去哪了嗎？
+Do you think there may be some around here?	你覺得這附近會有嗎？
 Dodgy Geezer	可疑老頭
+Doggie	小狗
 Domestic cleaners	家用清潔劑
+Don't make me laugh. I want at least 40.	別搞笑了。我至少要 40 個。
+Don't really see as there's any alternative.	實在看不出有什麼別的辦法。
+Don't waste it. I quite fancy a bowl now.	別浪費。我現在還挺想吃一碗的。
+Don't you call me precious, mate.	別叫我寶貝，老兄。
+Don't you get a little cold during the winter?	你冬天不會有點冷嗎？
+Door	門
+Doors	門
 Doorway	門口
 Down	下方
+Down on your luck, mate?	走霉運了，老兄？
+Dr Von Jones searching for fossils.	Von Jones 博士在尋找化石。
+Dragon	龍
+Dragon's Cave	龍之洞穴
+Drawer	抽屜
 Dressing screen	屏風
+Druid	德魯伊
+Dwarf	矮人
+Dwarf Mine	矮人礦坑
 Ebony	黑檀木
+Enough beer for a really good night.	足夠讓今晚喝得盡興的啤酒。
+Er... Abacus?	呃... 阿巴卡斯？
+Er... Abbey?	呃... 阿比？
+Er... Abbot?	呃... 阿伯特？
+Er... Abdomen?	呃... 阿布多門？
+Er... Academy?	呃... 阿卡迪米？
+Er... Accent?	呃... 阿森特？
+Er... Ace?	呃... 艾斯？
+Er... Acetic?	呃... 阿西提克？
+Er... Acid?	呃... 阿西德？
+Er... Acne?	呃... 阿克妮？
+Er... Acorn?	呃... 阿康？
+Er... Acrobat?	呃... 阿克羅巴特？
+Er... Additive?	呃... 阿迪提夫？
+Er... Adrenalin?	呃... 阿德瑞納林？
+Er... Adverb?	呃... 阿德佛布？
+Er... Advert?	呃... 阿德佛特？
+Er... Agenda?	呃... 阿珍達？
+Er... Alarm?	呃... 阿拉姆？
+Er... Albumen?	呃... 阿布門？
+Er... Algebra?	呃... 阿吉布拉？
+Er... Alkali?	呃... 阿爾卡利？
+Er... Allergy?	呃... 阿勒吉？
+Er... Alligator?	呃... 阿利蓋特？
+Er... Alloy?	呃... 阿洛伊？
+Er... Altar?	呃... 阿爾塔？
+Er... Ambrosia?	呃... 安布羅西亞？
+Er... Ammonia?	呃... 阿摩尼亞？
+Er... Amphibian?	呃... 安菲比恩？
+Er... Ample?	呃... 安普？
+Er... Amulet?	呃... 阿穆雷特？
+Er... Anagram?	呃... 阿納格拉姆？
+Er... Annelid?	呃... 阿尼利德？
+Er... Anode?	呃... 阿諾德？
+Er... Anorexic?	呃... 阿諾雷克西克？
+Er... Antifreeze?	呃... 安提弗里茲？
+Er... Antimony?	呃... 安提莫尼？
+Er... Antiseptic?	呃... 安提塞普提克？
+Er... Antler?	呃... 安特勒？
+Er... Aphid?	呃... 阿菲德？
+Er... Apple?	呃... 阿普？
+Er... Apricot?	呃... 阿普里科特？
+Er... Arachnid?	呃... 阿拉克尼德？
+Er... Archer?	呃... 阿徹？
+Er... Armor?	呃... 阿默？
+Er... Array?	呃... 阿雷？
+Er... Arsenic?	呃... 亞森尼克?
+Er... Asparagus?	呃... 阿斯帕拉格斯?
+Er... Asphalt?	呃... 阿斯法特?
+Er... Assassin?	呃... 阿薩辛?
+Er... Astral?	呃... 阿斯特拉?
+Er... Asylum?	呃... 阿賽倫?
+Er... Atom?	呃... 阿托姆?
+Er... Atropine?	呃... 阿特洛平?
+Er... Attic?	呃... 阿提克?
+Er... Attorney?	呃... 阿托尼?
+Er... Aura?	呃... 奧拉?
+Er... Author?	呃... 奧瑟?
+Er... Autumn?	呃... 奧坦?
+Er... Average?	呃... 艾佛瑞吉?
+Er... Avocado?	呃... 阿伏卡多?
+Er... Axial?	呃... 阿克西爾?
+Er... Baby?	呃... 貝比?
+Er... Bacteria?	呃... 巴克泰里亞?
+Er... Bailiff?	呃... 貝利夫?
+Er... Bakelite?	呃... 貝克萊特?
+Er... Baldric?	呃... 鮑德里克?
+Er... Ballast?	呃... 巴拉斯特?
+Er... Bamboo?	呃... 班布?
+Er... Bandicoot?	呃... 班迪庫特?
+Er... Bannister?	呃... 巴尼斯特?
+Er... Banquet?	呃... 班克特?
+Er... Baptism?	呃... 巴普提森?
+Er... Bard?	呃... 巴德?
+Er... Baritone?	呃... 巴利通?
+Er... Barium?	呃... 貝瑞姆?
+Er... Baroque?	呃... 巴洛克?
+Er... Barrow?	呃... 巴羅?
+Er... Basilisk?	呃... 巴西利斯克?
+Er... Bass?	呃... 貝斯?
+Er... Batman?	呃... 巴特曼?
+Er... Batter?	呃... 巴特?
+Er... Bead?	呃... 畢德?
+Er... Beak?	呃... 畢克?
+Er... Bear?	呃... 貝爾?
+Er... Bedroom?	呃... 貝德魯姆?
+Er... Beer?	呃……啤酒？
+Er... Have you heard the one about the vicar and the mongoose.	呃... 你聽過那個關於牧師和貓鼬的笑話嗎。
+Er... I was hoping you might know.	呃... 我本來希望你可能知道。
+Er... No.	呃... 不。
+Er... Sorry I left yours at home.	呃... 抱歉我把你的留在家裡了。
+Excuse me but you've spelt 'rites' wrong on your placard.	打擾一下,但你牌子上的 'rites' 拼錯了。
+Excuse me, sir. Do you have a license to fish here?	打擾一下,先生。你在這裡釣魚有許可證嗎?
+Excuse me. I'm off to talk to some saner people.	失陪了。我要去找一些比較正常的人說話。
+Excuse me. I've got a train to catch.	失陪了。我要趕火車。
+Extremely heavy, bronze plated doors.	極沉重的青銅鍍層大門。
+Fear not, sweet virgin, I SHALL save you!	別怕,純潔的少女,我「一定」會救妳!
+Feather	羽毛
+Fighting is totally against my principles.	打架完全違背我的原則。
+Fine, I'll find another way across then.	好吧,那我自己找別的路過去。
+Fine, I'll go get some goat for you, OK?	好吧,我去幫你弄點山羊肉來,行吧?
+Fine, I'll just go and get some.	好吧,我就去弄一些來。
+Fine. Anything to help a woodworm in distress.	好吧。幫助遇難的蛀蟲嘛,義不容辭。
+Fine. I know when I'm not wanted.	好吧。我知道我什麼時候不受歡迎。
+Fine. When the world ends, on your head be it.	好吧。世界末日時,後果自負。
 Fire extinguisher	滅火器
+Fireplace	壁爐
 Flaming brand	火焰烙印
+Floor wax	地板蠟
 Floorboards	地板
+Flour	麵粉
+Forest	森林
 Forge door	鍛造廠門
+Forgive me, fair one, I'm not worthy to stand here.	原諒我,美人,我不配站在這裡。
+Fossil	化石
+Fridge	冰箱
+Frog	青蛙
+Frogsbane	滅蛙草
 Fruit machine	吃角子老虎機
+Gandalf.	Gandalf。
+Geeze, what's the world coming to, eh?	天哪,這世界變成什麼樣了,嗯?
+Gem	寶石
+Gems	寶石們
+Giant	巨人
+Give me the metal detector and I'll have a look around.	把金屬探測器給我,我來四處看看。
+Go on then, what's my future?	那就說吧,我的未來如何?
+Goat	山羊
+Goats can't talk, you know.	你知道的,山羊不會說話。
+Goblins	哥布林
+Gold coins	金幣
+Gold pieces	金幣
+Golum	咕魯
+Good day, barkeep.	日安,酒保。
+Gorge	峽谷
+Got any free samples?	有免費樣品嗎?
 Gruesome statue	恐怖雕像
+Guard	守衛
+Ha, foolish creatures. I'm traveling in disguise.	哈,愚蠢的生物。我正在喬裝旅行。
+Hacksaw	鋼鋸
 Hair	毛髮
+Hammer	錘子
 Handle	把手
+Hang on... Did you say PIGLET?	等一下... 你說 PIGLET?
+Happy birthday. I've got you a new axe head!	生日快樂。我給你弄了個新斧頭!
+Happy hunting then. See ya.	那就祝你好運了。再見。
+Hard information. Got any?	硬情報。有嗎?
+Hat	帽子
+Have you always wanted to be barbarians?	你們一直都想當野蠻人嗎?
+Have you got a permit for this, sir?	先生,你有這個的許可證嗎?
+Have you got any dodgy salesman repellent?	你有那種驅逐可疑推銷員的噴霧嗎?
+Have you got any hint books for this game?	你有這遊戲的攻略本嗎?
+Have you got any hints for me?	你有給我的提示嗎?
+Have you remembered what it was you wanted yet?	你想起你想要什麼了嗎?
+Have you tried the dwarves?	你試過找矮人了嗎?
+He appears to be asleep.	他好像睡著了。
+He appears to be in charge.	他好像是一夥人的頭。
+He doesn't look very friendly.	他看起來不太友善。
+He doesn't look very intelligent.	他看起來不太聰明。
+He looks bored.	他看起來很無聊。
+He looks completely out of it.	他看起來完全神志不清。
+He looks miserable.	他看起來很悲慘。
+He looks very drunk.	他看起來醉得很厲害。
+He must have turned Calypso into one!	他一定把 Calypso 也變成了一個!
+He seems to be in a drunken stupor.	他似乎醉得不省人事。
+He was caught short I'm afraid.	恐怕他一時內急憋不住了。
+He's assaying the gems from the mine.	他正在檢驗礦坑裡的寶石。
+He's crying because he's got a thorn stuck in the bottom of his foot.	他在哭,因為腳底紮了一根刺。
+He's dazed from his fall.	他摔得暈頭轉向。
+He's doesn't look very wise.	他看起來不太有智慧。
+He's got a bucket over his head.	他頭上套著一個水桶。
+He's guarding a huge pile of gems.	他在守著一大堆寶石。
+He's in a deep sleep.	他睡得很沉。
+He's making an awful noise with his sousaphone.	他用蘇沙號製造出可怕的噪音。
+He's manacled to the rack.	他被鐐銬鎖在刑架上。
+He's polymorphed back into a frog.	他又變形回了青蛙。
+He's resting after the shock of having the thorn pulled out of his foot.	拔出腳底的刺後驚魂未定,他正在休息。
+He's shovelling loose rock.	他在剷鬆動的岩石。
+He's stopping anyone crossing the bridge.	他阻止任何人過橋。
+He's trying to cast a spell to kill me!	他想施法殺我!
+He's trying to relight the pit.	他正試圖重新點燃坑洞。
+He's using a drill to mine further into the rock.	他用鑽子往岩石裡挖得更深。
+He's very muscular.	他非常健壯。
+He's waiting for me to repair his sousaphone.	他在等我幫他修好蘇沙號。
+Heard any interesting gossip lately.	最近聽到什麼有趣的八卦嗎。
+Heavy metal!	重金屬!
+Hello again.	又見面了。
+Hello.	你好。
+Help, mommy!	救命啊,媽咪!
+Hi. I'm doing a survey for Warrior Weekly. Would you care to take part?	嗨。我在為《戰士週報》做問卷調查。你想參加嗎?
+Hiya, frogman.	嗨,蛙人。
+Hobbitses? What the hell are they?	哈比人們? 那到底是什麼東西?
+Hocus Pocus!	霍克斯波克斯！
 Hole	洞
+Hook	鉤子
+How about a Warlock Surprise?	來杯術士驚喜怎麼樣？
+How are you planning on getting into the Tower?	你打算怎麼進入塔裡?
+How can I prove I'm innocent?	我怎麼證明我是無辜的?
+How can I prove I'm not a demon?	我怎麼證明我不是惡魔?
+How can a tree be a problem?	一棵樹怎麼會是問題?
+How come a tree has speech apparatus?	一棵樹怎麼會有發聲器官?
+How come you can sell priceless antiques for so little?	你怎麼能以這麼低的價錢賣無價的古董?
+How come you woodworm are talking anyway?	話說回來,你們蛀蟲怎麼會說話?
+How come you're not talking olde worlde anymore?	你怎麼不再用古腔古調說話了?
+How come you've got a fruit machine in here then?	那你這裡怎麼會有吃角子老虎?
+How did I know this was coming...	我就知道會這樣...
+How did you know my name?	你怎麼知道我的名字?
+How do you survive with such a near fatal wound?	你受了這麼近乎致命的傷怎麼還活著?
+How does he intend to do that?	他打算怎麼做?
+How is Sordid helping to boost business?	Sordid 怎麼幫忙促進生意?
+How long haven't you been playing it for?	你有多久沒玩了?
+How mighty is mighty?	多強才算強?
+How picturesque.	真如詩如畫。
+How would you like your goat?	你的山羊肉要怎麼處理?
+How's the bartending trade then?	酒保這行生意如何?
+Howdo boys. What's new?	嗨,小子們。有什麼新鮮事?
+I AM a duty dwarf.	我「是」一個值班矮人。
+I am your Prince Charming - come to sweep you up in my arms.	我是你的白馬王子——來把妳擁入懷中。
+I bet they don't use this for drying clothes.	我敢打賭他們不會用這個來晾衣服。
+I bet you feel a proper fool.	我敢打賭你覺得自己像個十足的傻瓜。
+I can see my reflection in it.	我能看到自己的倒影。
+I can see the dragon's treasure down there.	我能看到下面有龍的寶藏。
+I can see your magical auras, man.	我看得到你的魔力光環,老兄。
+I can turn people into stone with this.	我可以用這個把人變成石頭。
+I can't eat that. I'll die.	我不能吃那個。我會死。
+I can't help - I'm pedophobic.	我幫不上忙——我對小孩有恐懼症。
+I can't imagine what use I'll have for it.	我想不出這東西能有什麼用處。
+I can't see any way of getting a full moon in here.	我想不出辦法把滿月弄進這裡。
+I can't see much down there but it smells really awful.	下面看不到什麼,但氣味真的很糟。
+I come from another dimension!	我來自另一個次元!
+I come from another dimension.	我來自另一個次元。
+I could make it worth your while.	我不會讓你吃虧的。
+I didn't expect talking woodworm if that's what you mean.	如果你的意思是這個,我可沒料到會遇到會說話的蛀蟲。
+I didn't mean to.	我不是故意的。
+I don't have any money.	我沒有錢。
+I don't have that kinda money.	我沒那種錢。
+I don't know what you mean.	我不懂你的意思。
+I don't like the sound of this witch person.	我不喜歡這個女巫聽起來的樣子。
+I don't need help from an overrated hippy!	我不需要一個被高估的嬉皮來幫忙!
+I don't particularly want to see anywhere.	我沒特別想去什麼地方。
+I don't really care for the forgiveness of a woodworm.	我不太在乎蛀蟲的原諒。
+I don't really care. Goodbye.	我不太在乎。再見。
+I don't take orders from common farmyard animals.	我不接受普通農場動物的命令。
+I don't think a man on a rack is in any position to make threats.	我不認為被綁在刑架上的人有資格威脅別人。
+I don't think we see eye to eye on this, pal.	我不覺得我們在這件事上達成共識了,老兄。
+I doubt it.	我倒不這麼認為。
+I dunno. Got any bright ideas?	我不知道。有什麼好主意嗎?
+I dunno. I hoped a relevant question would appear.	我不知道。我期望會出現一個相關的問題。
+I dunno. I'm just obeying orders.	我不知道。我只是奉命行事。
+I found some but it's still buried in the mountains.	我找到一些,但還埋在山裡。
+I got them from the oaf in the forest.	我從森林裡那個呆子那裡拿到的。
+I had no idea this place was a tourist attraction.	我不知道這地方是個旅遊景點。
+I have a fear of spiral staircases.	我害怕螺旋樓梯。
+I have some fine examples of it in my pocket.	我口袋裡有些上等的樣品。
+I have this strange desire to stay alive.	我有個奇怪的念頭,就是想活著。
+I have to stall you until the rescue posse come along.	我得拖住你,直到救援隊趕來。
+I haven't got a clue.	我一點頭緒也沒有。
+I haven't seen any either.	我也沒見過。
+I having second thoughts about this whole idea. Farewell.	我對這整個主意重新考慮了。告辭。
+I hope it's not like the one up the stairs...	希望不要跟樓上那個一樣……
+I hope this isn't an infringement of copyright.	我希望這沒有侵犯版權。
+I hope your bad luck's not catching.	希望你的壞運氣不會傳染。
+I just happen to have one right here.	我剛好這裡就有一個。
+I just happen to have some right here.	我剛好這裡就有一些。
+I just wanted to ask you some questions.	我只是想問你一些問題。
+I know a bargain when I see one. I'll take it.	我懂什麼是划算的。我要了。
+I know what you mean.	我懂你的意思。
+I love Wagon Wheels.	我愛吃車輪巧克力餅。
+I only just ate. Sorry.	我才剛吃過。抱歉。
+I overheard your conversations earlier.	我剛才無意間聽到你們的對話。
+I pounded it out of some seeds.	我從一些種子裡搗出來的。
+I pride myself on not talking to tree stumps OR woodworm.	我以不跟樹樁「或」蠹蟲說話為榮。
+I quite fancy a drink now. Make mine a wet wizard.	我現在想來一杯。給我一杯「濕潤巫師」。
+I really NEED to know your true names.	我真的「需要」知道你們的本名。
+I really think I'm wasting my time here.	我真的覺得我在這裡浪費時間。
+I refuse utterly to acknowledge that I am talking to a tree stump!	我斷然拒絕承認我在跟一個樹樁說話!
+I shall not be stopped by a lump of water and a carrot!	一灘水和一根胡蘿蔔擋不住我的!
+I suppose so. Would you like me to get you some wood?	我想是吧。你要我幫你拿些木頭嗎?
+I tell my mommy on you.	我要跟我媽媽告狀。
+I think I'd better take it elsewhere.	我想我最好到別的地方去。
+I think I'll just put my ring back on and march out!	我想我還是把戒指戴回去直接走出去!
+I think I'm going insane.	我覺得我快瘋了。
+I think I'm in some sort of torture chamber.	我覺得我好像在某種刑房裡。
+I think it could be time for a strategic withdrawal. Where's the way out?	我想該是策略性撤退的時候了。出口在哪?
+I think it was a wrong number.	我想是打錯電話了。
+I think we're playing in different baseball leagues.	我覺得我們根本不是在同一個聯盟打球的。
+I think you've been conned, mate.	我覺得你被騙了,老兄。
+I thought demons were huge, red monsters that breath fire and fly.	我以為惡魔是會噴火又會飛的巨大紅色怪獸。
+I thought woodcutters were problems for trees?	我以為伐木工才是樹的麻煩?
+I used to make these things when I was younger.	我小時候也做過這些東西。
+I wanna be a wizard.	我想成為巫師。
+I want to be a wizard.	我想成為巫師。
+I want to spy on Gerald and Max.	我想偷窺 Gerald 和 Max。
+I was just taking you out of my will.	我只是要把你從我的遺囑裡刪掉。
+I was only borrowing it.	我只是借用一下。
+I was talking to the player, not you!	我是在跟玩家說話,不是你!
+I was wondering if you'd like any real estate?	我在想你要不要一些房地產?
+I wonder if I should ask for a refund.	我在想是不是該要求退費。
+I wonder if it's the one from Sleeping Beauty.	不知道是不是睡美人裡的那個。
+I wonder what this is doing here?	這東西放在這裡做什麼?
+I wonder where the rest of the rat is ?	我在想老鼠的其它部分去哪了？
+I wonder why there's no graffiti on it?	為什麼上面沒有塗鴉呢?
+I wouldn't want to take your money.	我不想拿你的錢。
+I'M a wizard, actually.	其實我「才」是巫師。
+I'M no boy! I'm a master of magic. Cower, flower person.	我「才」不是小鬼!我是魔法大師。顫抖吧,花人。
+I'd give you wood if I could, but I can't so I won't.	要是能給你木頭我會給,但我不能所以我不會。
+I'd just like to have a look around.	我只是想四處看看。
+I'd like a Cool Red Witch, please.	請給我一杯「冰鎮紅女巫」。
+I'd like a Warlock Surprise, please.	請給我一杯「妖術師驚喜」。
+I'd like a Wet Wizard, please.	請給我一杯「濕潤巫師」。
+I'd like to look around.	我想四處看看。
+I'd love to stay and chat, but I'm on an important quest.	我很想留下來聊聊,但我正在進行一項重要任務。
+I'll be fifteen in 2 months and 3 days!	我再過兩個月又三天就十五歲了!
+I'll be on my way then.	那我走了。
+I'll do anything to be a wizard.	為了成為巫師我什麼都願意做。
+I'll have some of that worthless junk, please.	請給我一點那個沒用的垃圾。
+I'll hold my breath.	我會憋氣。
+I'll just draw a quick magic square on the floor.	我就在地上畫個快速魔法陣。
+I'll just go and get some then.	那我去拿一些來。
+I'll keep an eye open for Little Bo Peep for you.	我會幫你留意 Little Bo Peep。
+I'll keep an eye out for some for you.	我會幫你留意一些的。
+I'm a health inspector and I'm putting your Stew in quarantine.	我是衛生稽查員,我要把你的燉菜隔離。
+I'm a powerful sorcerer, Mr. Goat, so watch it!	我是強大的術士,山羊先生,你給我小心點!
+I'm a powerful user of mystic magic!	我是神秘魔法的強大施法者!
+I'm a wizard. I steal from who I want!	我是巫師。我想偷誰的就偷誰的!
+I'm afraid not.	恐怕不是。
+I'm an inspector from head office.	我是總公司的稽查員。
+I'm from the Tourist Board and I'm running a routine inspection.	我來自觀光局,正在進行例行檢查。
+I'm looking for some wizards. Know where I can find some?	我在找一些巫師。知道哪裡找得到嗎?
+I'm looking! I'm looking!	我在找了!我在找了!
+I'm no child. I'm a mighty wizard.	我才不是小孩子。我是強大的巫師。
+I'm not coming near you. You look dangerous.	我不要靠近你。你看起來很危險。
+I'm not going too close.	我不要太靠近。
+I'm not really interested. Bye.	我不太感興趣。再見。
+I'm not really interested. I've got enough problems.	我不太感興趣。我的麻煩已經夠多了。
+I'm not scared of you, old crone. Put 'em up.	我不怕你,老太婆。來打架啊。
+I'm not surprised. I'd rather visit a warm cess pit.	我不意外。我寧可去一個溫暖的糞坑。
+I'm not y'know...	你知道的,我才不是...
+I'm off to talk to something interesting instead.	我去找個有趣的東西說話了。
+I'm on a real important quest. Can you help?	我正在進行一項非常重要的任務。你能幫忙嗎?
+I'm only trying to be friendly.	我只是想友善一點。
+I'm quite febuddled I'll have you know.	告訴你,我可是相當糊塗的。
+I'm really sorry. Can we call it quits?	我真的很抱歉。我們能算了吧?
+I'm sorry I left. I had important business.	抱歉我離開了。我有要事。
+I'm sorry I spoke, OK? Good-bye.	我為我說的話道歉,行了吧?再見。
+I'm sorry but your whingeing is boring me to death. Bye.	抱歉,但你的抱怨無聊到讓我想死。再見。
+I'm sorry, OK? How can I make it up to you?	對不起,好嗎?我要怎麼補償你?
+I'm sorry, but woodworm just don't talk where I come from.	抱歉,但在我來的地方,蠹蟲是不會說話的。
+I'm standing behind you.	我站在你後面。
+I'm sure I could tell you.	我確定我能告訴你。
+I'm sure we can come to some arrangement.	我相信我們可以達成某種協議。
+I'm tempted.	我有點心動。
+I'm undefeated in magical combat.	我在魔法對戰中未嘗敗績。
+I'm walking in the air....	我在空中漫步....
+I'm wearing a ring of invisibility.	我戴著隱形戒指。
+I'm working on it.	我正在想辦法。
+I've changed my mind about magical stuff.	我對魔法玩意改變主意了。
+I've come dressed as that wizard bloke.	我打扮成那個巫師老兄的樣子來的。
+I've come to make YOU an offer.	我是來給「你」一個提議的。
+I've come to relieve you.	我是來接替你的。
+I've come to rescue you, sweet lady.	我來救你了,甜美的小姐。
+I've finally got my spell book back.	我終於拿回我的魔法書了。
+I've forgotten where I want to go.	我忘了我要去哪。
+I've got a shopping list from the goblins.	我有哥布林給的購物清單。
+I've got nine legs, green hair and four ears.	我有九條腿、綠頭髮和四個耳朵。
+I've got something in my inventory that you want.	我身上有你想要的東西。
+I've got the shopping list from the goblins.	我拿到哥布林給的購物清單了。
+I've killed for less than that!	為了比這更小的事我都殺過人!
+I've read that book - all I need is a talking lion!	我讀過那本書 — 我只缺一隻會說話的獅子!
+I... I love you!	我...我愛你!
 Icy ledge	冰崖
+If I could find a way to knock it over I could get across the chasm.	要是能找到辦法弄倒它,我就能越過裂隙。
+If I said you had a beautiful body would you hold it against me?	如果我說你有一副美麗的身材,你會把它貼在我身上嗎?
+If it makes you any happier I'll eat your Stew.	如果這能讓你高興一點,我就吃你的燉菜。
+If it's that rare then I doubt I could find any.	如果那麼稀有的話,我恐怕找不到。
+If you're a druid - where's your sickle, eh?	如果你是德魯伊 — 那你的鐮刀呢,嗯?
+In front of Cottage	小屋前面
+Incidentally, it's a fine establishment you have here.	順帶一提,你這裡是個不錯的店。
 Inside	裡面
+Inside Cottage	小屋內部
 Instruments of Death	死亡刑具
 Iron maiden	鐵處女
+Is it true that you can tell the age of a tree by counting its rings?	數樹的年輪就能知道樹齡,這是真的嗎?
+Is it... Beer!	是不是...啤酒!
+Is that the time? Must dash. Bye.	已經這個時間了?得趕快走了。再見。
+Is there any way to restore them?	有什麼辦法能恢復它們嗎?
+Is there anything I can do to help?	有什麼我能幫忙的嗎?
+Is this some sort of freak show?	這是什麼怪胎秀嗎?
+Isn't there a slightly less painful trial?	難道沒有不那麼痛苦的試煉嗎?
+It doesn't work. I don't know why I bought it.	這沒用。我不知道當初為什麼買它。
+It don't half pong in here.	這裡臭得要命。
+It forms the mast of a boat.	它可以當船的桅杆。
+It has a fossil in the middle of it.	中間有一塊化石。
+It has the words 'DRINK ME' on the bottle.	瓶子上寫著「喝我」。
+It looks absolutely awful to me anyway.	反正我看起來就是糟透了。
+It looks like a giant nutcracker.	看起來像個巨大的胡桃鉗。
+It looks like a lump of kryptonite.	看起來像是一塊氪石。
 It looks like the sort of thing a Witch might fly on.	看起來像是女巫會騎著飛的那種東西。
+It looks really upset.	看起來非常沮喪。
+It looks smaller from the outside.	從外面看起來比較小。
+It looks stable enough.	看起來夠穩固。
+It looks very vicious.	看起來很凶猛。
+It must be Calypso's junk.	一定是 Calypso 的垃圾。
+It says 'Caution. Paleontological Dig in Progress.'	上面寫著「小心。古生物挖掘進行中。」
+It says 'Equal rights for Trolls' on it.	上面寫著「巨怪平權」。
+It says 'Warning. Spontaneously combustible substance.'	上面寫著「警告。易自燃物質。」
+It smells of hundred year old Gorgonzola.	聞起來像百年陳釀的戈貢佐拉起司。
+It tells you all about magic wands.	裡面都在講魔法棒的事。
+It was delicious but I really have to go now.	很好吃但我真的得走了。
 It's Sordid's spellbook. It looks just like mine.	這是索迪德的魔法書。看起來跟我的長得一樣。
+It's a cupboard door.	是櫥櫃的門。
+It's a door set into an old tree.	這是一扇嵌在老樹裡的門。
 It's a feather.	這是一根羽毛。
+It's a filthy habit, you really should give up.	這是個骯髒的習慣,你真的該戒掉。
+It's a hunch.	是直覺。
+It's a loose piece of planking.	是一塊鬆動的木板。
+It's a magic mushroom with 'EAT ME' written on it.	這是一朵寫著「吃我」的魔法蘑菇。
+It's a magic whistle.	是一個魔法哨子。
+It's a papier-mache moose head.	是一個紙糊的麋鹿頭。
+It's a rock.	這是一塊石頭。
+It's a rusty old bucket.	是一個生鏽的舊水桶。
+It's a shopping list addressed to the storekeeper in town.	這是一張寫給鎮上店主的購物清單。
+It's a small tadpole swimming around.	是一隻游來游去的小蝌蚪。
+It's a tree branch.	這是一根樹枝。
+It's a very deep well.	是一口很深的井。
+It's all in hand. Wait here.	一切都在掌握中。在這裡等。
+It's all laid and ready for tea.	都擺好了,可以準備喝下午茶了。
+It's amazing! I'll take it.	太棒了!我要了。
+It's an antique, wooden, cuckoo clock.	是一個古董木製布穀鐘。
+It's an empty wooden chest.	是一個空的木箱。
+It's an empty, wooden bucket.	這是一個空的木桶。
+It's an improvement... but still daylight robbery!	算是有改善...但還是明搶啊!
+It's covered in scribblings.	上面塗滿了潦草的字跡。
+It's full of smelly, green stuff.	裝滿了臭臭的綠色東西。
+It's got a big hole in it.	上面有個大洞。
+It's got something stuck in the end of it.	尾端卡了什麼東西。
+It's got the branch stuck in it's mouth.	牠嘴裡卡著樹枝。
+It's in the Craggy Peaks. I left my metal detector there.	在峻嶺峰那裡。我把金屬探測器忘在那了。
+It's large, wooden and completely locked.	又大又是木頭做的,還鎖得死死的。
+It's long and hard with a pointy end.	又長又硬，尾端尖尖的。
+It's made from real dwarf hair.	是用真正的矮人毛製成的。
+It's mine. You can't touch it.	是我的。你不能碰。
+It's my little dog - Chippy.	是我的小狗 — Chippy。
+It's not a Yale.	這不是耶魯鎖。
+It's not big and it's not clever, you know!	這既不厲害也不聰明,你知道吧!
+It's now empty.	現在空了。
+It's peroxide blonde.	是漂染的金髮。
+It's quite a good likeness...	還挺像的...
+It's set to milrith finding mode.	設定在尋找米爾里斯礦的模式。
+It's stuck to the beehive.	黏在蜂巢上了。
+It's the oldest thing in the entire game.	這是整個遊戲中最古老的東西。
+It's warm swamp mud	是溫熱的沼澤泥
+It's your BIRTHDAY?	今天是你「生日」?
+Its lucky my hat is fireproofed.	還好我的帽子有防火處理。
+Just like granny used to have.	就像奶奶以前的那個。
+Just my little joke.	只是我的小玩笑。
+Just thought I'd pop in.	只是想進來看看。
+Just to tell me my life policy is canceled.	只是來告訴我我的壽險被取消了。
+Just who is this wicked witch?	這個邪惡女巫到底是誰?
+Key	鑰匙
+Ladder	梯子
 Ladders	梯子們
+Ladders leading up to the Swampling's house.	通到 Swampling 家的梯子。
+Lah-de-dah. A talking mirror.	哎哎呀。一面會說話的鏡子。
 Lantern	燈籠
 Lava	岩漿
+Leaf	葉子
+Let's have a look at it then.	那我們來看看吧。
+Let's have a look then.	那來看看吧。
+Lets call it a nice even 20 and be done with it.	就算個整數二十吧,別再算了。
+Lever	槓桿
+Life ain't a bed of roses, y'know.	人生可不是玫瑰花床,你知道的。
+Life, liberty and the pursuit of happiness.	生命、自由與追求幸福。
+Like when I open a bank account?	像我開銀行帳戶的時候?
 Lily leaf	睡蓮葉
+Loads of empty cardboard boxes.	一大堆空的紙箱。
+Lock	鎖
+Look - I didn't mean to offend anyone.	聽著 — 我無意冒犯任何人。
+Look no further! I, Simon the Sorcerer, will save you!	別再找了!我,魔法師 Simon,來救你了!
+Look, I need to know your true demonic names.	聽著,我需要知道你們真正的惡魔之名。
+Look, OK. I.. AM.. NOT.. A.. DEMON. Got that?	聽著,好嗎。我..不..是..惡..魔。聽懂了嗎?
+Look... Let's be reasonable for a moment.	聽著...我們理智一下好嗎。
+Looks like he changed back to normal.	看來他變回正常了。
+Looks like you're up the creek without a paddle.	看來你陷入困境了。
+Looks very comfortable.	看起來很舒適。
+Loose bandage	鬆脫的繃帶
+Luckily I happen to have some top quality, highly nutritious, Swamp stew with me.	幸好我剛好隨身帶了一些頂級、高營養的沼澤燉菜。
+Luckily for you, I'm a traveling satisfaction salesman.	你運氣好,我是個巡迴滿意度推銷員。
+Mad... You're all completely mad.	瘋了...你們全都徹底瘋了。
+Magic amulet	魔法護身符
+Magic wand	魔法棒
+Magnet	磁鐵
 Mahogany	桃花心木
+Make me a wizard or I'll cry.	把我變成魔法師，不然我要哭了。
 Man-mangler	人肉攪碎器
 Manacles	手銬
+Manacles. How kinky.	鐐銬。真變態。
+Map	地圖
 Matches	火柴
 Matchstick	火柴棒
+Maybe I wasn't the first but I sure am the best!	也許我不是第一個，但我絕對是最棒的！
+Maybe I've got something that would interest you.	也許我有些東西你會感興趣。
+Maybe some other time...	也許改天吧……
+Maybe they're dud beans?	也許這些是壞掉的豆子？
+Maybe you should water them?	也許你該澆澆水？
+Me? Chickening out? I think not. Lets go!	我？臨陣脫逃？才不呢。走吧！
+Meat pate? Yuk!	肉醬？噁心！
+Merlin.	Merlin。
 Metal detector	金屬探測器
 Milrith ore	米爾里斯礦石
 Miniature statue	迷你雕像
 Mints	薄荷糖
+Mirror	鏡子
+Mix me a Wet Wizard, barkeep.	酒保，幫我調一杯溼巫師。
+Mountain	山
+Mouse	老鼠
+Mouse Hole	老鼠洞
+Mushroom	蘑菇
+Must be off. You know how it is.	得走了。你懂的。
+Must dash, I forgot to feed my wombat.	得跑了，我忘了餵我的袋熊。
+My Wizkid club wallet. It's full of useless junk.	我的巫師小子俱樂部錢包。裡面裝滿了沒用的垃圾。
+My big brother will beat you up.	我哥會揍你。
+My mahogany has been munched by a horde of woodworm.	我的桃花心木被一群蛀蟲啃了。
+My mommy says I mustn't talk to strangers.	我媽媽說不可以跟陌生人說話。
+My name's Simon - not Philip Stein.	我叫 Simon——不是 Philip Stein。
+My spell book's in this box.	我的魔法書在這箱子裡。
+My tutor is always calling ME a fool.	我老師老是叫我是傻瓜。
+My! How you've grown since I last saw you!	哎呀！自從上次見到你，你長好大了！
+My, my! Whose got a chip on THEIR shoulder, then?	哎呀哎呀！是誰在那邊耍脾氣啊？
 Mystic tapestry	神秘掛毯
+Naff off yourself.	你才滾開。
+Nah. It's out of fashion to be fat and old these days.	算了。這年頭又胖又老可不流行了。
+Nail	釘子
+Nature takes time to work its wondrous magic.	大自然需要時間來施展它奇妙的魔法。
+Near the tap	水龍頭附近
+Need any help?	需要幫忙嗎？
 Net	網子
+Never fear, I - Simon - intend to stop him!	別怕，我——Simon——打算阻止他！
+Never mind.	算了。
+Never mind. You'd make a lovely support beam.	算了。你倒是根不錯的支撐梁。
+Nice beard... Very original.	鬍子不錯……真有創意。
+Nice day for it. Oh well, must be off.	今天天氣不錯。喔好吧，得走了。
+Nice pile of gems you got there.	你那堆寶石不錯嘛。
+Nice talking to you. So long.	跟你聊得真愉快。再見。
+No I haven't got any. What d'you want it for anyway?	沒有，我沒有。你到底要它幹嘛？
+No further questions, m'lud.	沒有其他問題了，法官大人。
+No more for me thanks - I'm stuffed.	不用了謝謝——我撐死了。
+No more magical stuff.	不要再來魔法玩意了。
+No more questions, ladies. See ya.	沒問題了，女士們。再見。
+No problem, sir. How would you like your goat?	沒問題，先生。你的山羊要怎麼處理？
+No problem.	沒問題。
+No thanks, I'm spent out.	不用了謝謝，我累垮了。
+No thanks.	不了，謝謝。
+No thanks. I'm on a tight budget this month.	不用謝謝。我這個月預算很緊。
+No, I don't.	不，我沒有。
+No, I haven't seen a talking mirror before.	不，我以前沒見過會說話的鏡子。
+No, I'll keep looking.	不，我繼續找。
+No, all the rest is junk. Goodbye.	不，其他全是垃圾。再見。
+No, but I've got something that might take yours.	沒有，但我有東西可能能換你的。
+No, miss. Sorry, miss.	沒有，小姐。對不起，小姐。
+No, no, no. Just popped in to say Hi.	不不不。只是順道來打個招呼。
+No, of course not.	不，當然不是。
+No. But I may have something you want.	沒有。但我可能有你想要的東西。
+No. But if you want rescuing you'd better stop giving attitude.	沒有。但如果你想被救，最好別再擺架子了。
+No. I just fancied a good laugh.	沒有。我只是想好好笑一場。
+No. I just wanted to drop some more cheap insults.	沒有。我只是想再丟幾句廉價的侮辱。
+No. Of course not.	沒有。當然不是。
+No. See you around.	沒有。回頭見。
+No. You must be mistaken.	不。你一定搞錯了。
+Non-stick Teflon cooking implements.	不沾鍋的鐵氟龍廚具。
+None of your business.	不關你的事。
+None whatsoever.	一點也沒有。
+Nonsense. It's never too late to be of good cheer.	胡說。保持愉快永遠不嫌遲。
+Nope.	沒有。
+Not a sausage.	一丁點兒也沒有。
+Not really. Bye.	並非如此。再見。
+Not really. Have you got any magical stuff?	並非如此。你有什麼魔法玩意兒嗎？
+Not yet but I'm hot on the trail.	還沒，但我緊追在後。
+Nothing much. Excuse me, doll.	沒什麼。借過，小姐。
 Nubile Valkyrie	妙齡女武神
+OK - lets do it!	好——動手吧！
+OK, I'm scared. Show me the door.	好了，我害怕了。告訴我門在哪。
+OK, I'm scared. Which way is out?	好了，我害怕了。出口在哪邊？
+OK, be like that. See if I care.	好，隨你。看我在不在乎。
+OK, we're all set. Let's ROCK!	好，都準備好了。咱們來搖滾吧！
+OK. Hand it over.	好。拿來吧。
+OK. Here you are.	好。給你。
+OK. I can take a hint.	好。我懂暗示。
+OK. I'm game.	好。我奉陪。
+OK. I'm sorry. How can I make it up to you.	好。對不起。我要怎麼補償你。
+OK. Just one more bowl full.	好。再來一碗就好。
+OK. Sounds fair to me.	好。聽起來公平。
+Oaf	呆子
 Oak	橡木
+Of course... That renowned digger of deep holes!	當然……那位大名鼎鼎的挖洞專家！
+Oh Lawks - I've left me silver dagger at home.	哎呀天老爺——我把銀匕首忘在家裡了。
+Oh yeah!	喔對！
+Oh, I'd better go and find one then.	喔，那我最好去找一個。
+Oh, go to hell!	喔，去死吧！
+Oh. Sorry to trouble you.	喔。抱歉打擾了。
+Oh... Please.	喔……拜託。
+Oil	油
+Ok. I'll give it a whirl.	好。我試試看。
+Ok. So long for now.	好。暫時再見。
+One good turn deserves another.	善有善報。
+Only to advise better personal and culinary hygiene.	只是建議你改善一下個人和烹飪衛生。
+Ooo heck... Rumbled!	喔糟……被發現了！
+Orders from the King. Give me all the gems.	國王的命令。把所有寶石交出來。
+Out of the way or the tadpole gets it!	讓開，不然蝌蚪就倒大楣了！
 Outside	外面
+Outside Tower	塔外
+Owl Tree	貓頭鷹樹
+Pah! A piffling 30 gold pieces!	哼！區區三十金幣！
+Pah! Think nothing of it.	哼！別放在心上。
+Panic ye not. I've come to rescue you!	別慌。我是來救你的！
+Password?	密碼？
+Paul Daniels.	Paul Daniels。
+Peace, man.	和平，兄弟。
+Pebble	鵝卵石
 Pink splodge	粉紅色斑點
 Pits	坑洞
+Placard	告示牌
+Please accept my deepest apologies.	請接受我最深的歉意。
+Please, please, please, please, please let me in.	拜託、拜託、拜託、拜託、拜託讓我進去。
+Please... Have mercy!	求求你……大發慈悲！
+Postcard	明信片
+Potion	藥水
+Potions	藥水
+Pouch	小袋
+Pretty please.	拜託拜託嘛。
 Puddle	水坑
 Puddle's center	水坑中心
+Pwaaaaack. Pwak, pwak, pwak. Pwaaaaaaack.	嘎啊啊啊。嘎、嘎、嘎。嘎啊啊啊啊。
+Racism? Against woodworm?	種族歧視？對付蛀蟲？
+Rare? What like uncooked meat?	稀有？是說像沒煮熟的肉那樣？
+Rat bone	鼠骨
+Reminds me of when I was a lad.	讓我想起我小時候。
 Repulser	排斥器
+Ribbet, ribbet.	呱呱。
+Right then, I'll just go and get prepared.	那好，我去準備一下。
+Right you are.	好的。
+Ring	戒指
 Rockface	岩壁
+Rope	繩子
 Rosewood	玫瑰木
+Sacks full of rice.	裝滿米的麻袋。
+Satisfac'tion, n. Satisfying or being satisfied in regard to desire or want or doubt.	Satisfac'tion，名詞。關於欲望、需求或疑惑之滿足或被滿足。
+Satisfaction are small, furry, rodents with a nasty disposition.	Satisfaction 是一種小型、毛茸茸、脾氣惡劣的齧齒動物。
+Sausages	香腸
 Sausages!	香腸！
+See you around.	回頭見。
+See, I told you I wasn't evil.	看吧，我說過我不邪惡。
+Seeds	種子
 Sharp things	尖銳物品
+She's asleep on the floor.	她在地板上睡著了。
 Shield	盾牌
+Shoo, froggy.	去去，小青蛙。
 Shopkeeper	店主
+Shopping list	購物清單
+Shore	岸邊
+Show me the lab on the top floor, there's a good chap.	帶我看頂樓的實驗室，乖。
+Show me the laboratory on the top floor, please.	請帶我到頂樓的實驗室。
+Sign	標誌
+Simon and Son's embalming company at your service.	Simon 父子防腐公司為您服務。
+Simon.	Simon。
+Skull	頭骨
+Skull Island	骷髏島
 Skullcrusher	碎顱器
+Skylight	天窗
 Sleeping Giant	沉睡巨人
 Small statue	小雕像
 Smokebox	煙箱
 Snowman	雪人
+So how many heroic deeds have you done then?	那你做了多少英雄事蹟啦？
+So. What advice have you got?	所以。你有什麼建議？
+So... D'you come here often?	所以……你常來這裡嗎？
+So... How long have you been a dwarf.	所以……你當矮人多久啦。
+So... Why are YOU dressed up like a limpet?	所以……為什麼你打扮得像個帽貝？
+So... You're a magical talking mirror, then?	所以……你就是一面會說話的魔法鏡子？
+Sock	襪子
+Sod off then.	那就滾吧。
+Soft, strong and thoroughly absorbent.	柔軟、結實，而且吸水性一流。
+Solid looking wooden floorboards.	看起來很堅固的木地板。
+Solid metal bars.	堅固的金屬欄杆。
+Some famous hero or another ready for battle.	某位準備好上陣的知名英雄。
+Some sort of virus. It's really terrible.	某種病毒。真是可怕。
+Some trolls mistook him for a chair.	有些食人妖把他誤認成椅子。
+Somehow I don't think this one's lucky.	我總覺得這個不太幸運。
+Something tells me they don't welcome visitors.	感覺上他們不歡迎訪客。
+Sometime later.....	過了些時候……
+Sorry I can't join in the fun. Toodle-pip.	抱歉我不能一起玩。再見啦。
+Sorry, I thought you were someone else.	抱歉，我以為你是別人。
+Sorry, but it's just that I've never seen a talking stump before.	抱歉，只是我以前沒見過會說話的樹樁。
+Sorry. I didn't realize you were woodworm.	抱歉。我不知道你是蛀蟲。
+Sorry. I promised my associates I would get at least 20.	抱歉。我答應夥伴至少要拿二十個。
+Sorry. I'm really not interested.	抱歉。我真的沒興趣。
+Sorry. I've got enough problems of my own.	抱歉。我自己的麻煩就夠多了。
+Sorry. Thought you were someone else. Bye.	抱歉。以為你是別人。再見。
+Sounds like a reasonable life to me.	聽起來是挺合理的人生。
+Sounds like they must be rubber trees to me.	聽起來它們一定是橡膠樹。
 Sousaphone	低音號
 Souvenir matches	紀念火柴
+Speaking of which. I'm a powerful sorcerer.	說起來。我是個強大的巫師。
 Spear	矛
+Spell book	魔法書
 Spinning wheel	紡車
+Squares of chocolate cake.	一塊塊的巧克力蛋糕。
+Staff	法杖
 Statue	雕像
+Steps	階梯
+Stew	燉菜
+Stew pot	燉鍋
 Sticky, yellow wax from the beehive.	從蜂窩取出的黏黏黃蠟。
+Still... It's a wonderful world we live in, eh?	不過……我們住的世界還是很美好的，對吧？
 Stone table	石桌
+Stove	爐子
+Strength potion	力量藥水
+Stuff you. Why should I help a pair of low life demons?	去你的。我幹嘛幫你們這對下三濫惡魔？
 Super Powered Elephant Cold Remedy.	超強大象感冒藥。
+Sure do. You were lucky last time.	當然有。你上次算幸運的。
+Surely YOU would prefer it that way.	想必你也比較喜歡那樣吧。
 Suspicious herbs	可疑藥草
+Swamp	沼澤
+Sweeties	糖果
+Table	桌子
+Tact prevents me from passing comment.	出於禮貌，我不予置評。
 Tadpole	蝌蚪
 Teak	柚木
 Teleporter	傳送器
+Tell Uncle Simon all about it.	全部告訴 Simon 叔叔吧。
+Tell me of what ails you, woodcutting person.	告訴我你苦惱些什麼，伐木的人啊。
+Tell me them! Tell me them!	告訴我！告訴我！
+That cough medicine has knocked him out like a light.	那咳嗽藥讓他立刻昏睡過去。
+That would be nice, yes.	那樣挺好，是的。
+That's OK, I'm not a dwarf.	沒關係，我不是矮人。
+That's amazing!	太神奇了！
+That's extortion. Forget it.	那是勒索。免談。
+That's some body hair problem you got there.	你那體毛問題可真嚴重啊。
+That's terrible.	太慘了。
+The Fiery Pits of Rondor please.	請給我 Rondor 的烈焰深淵。
+The Great Ring. It has strange symbols on it.	至尊之戒。上面有奇怪的符號。
+The bard's sousaphone.	吟遊詩人的蘇沙號。
+The beer barrels which the barman is serving beer from.	酒保用來盛啤酒的啤酒桶。
+The billy goat is trying to reason with the Troll.	公山羊正試著跟食人妖講理。
+The complex arrangement of valves and metal tubes.	複雜排列的閥門和金屬管。
+The devil made me do it.	是魔鬼逼我這麼做的。
+The dragon's hoard. A pile of gold coins.	龍的寶藏。一堆金幣。
+The empty Stew pot that the Swampling cooks his Stew in.	Swampling 用來燉他的燉菜的空燉鍋。
+The equivalent of a giant joint for bees.	對蜜蜂來說等於一根巨大的大麻菸。
+The famous who?	大名鼎鼎的誰？
+The fiery pits put out by the sprinkler system.	被灑水系統澆熄的烈焰深淵。
+The fire has been extinguished.	火已經熄滅了。
+The handle to wind the rope up.	用來捲繩子的把手。
+The hole the woodworm made for me.	蛀蟲為我挖的洞。
+The magnet with the rope tied to it.	綁著繩子的磁鐵。
+The mine's on fire. Run for your life.	礦坑起火了。快逃命。
+The puddle of water I poured onto the beans.	我倒在豆子上的那灘水。
+The sun has got his hat on. Hip, hip, hip, HOORAY!	太陽公公戴上帽子了。嘻、嘻、嘻，萬歲！
+The tree stump containing the woodworm.	裡頭有蛀蟲的樹樁。
+There appears to be much merriment going on in there.	那裡頭似乎正熱鬧得很。
+There are still some beans left in the puddle.	水灘裡還剩一些豆子。
+There isn't any mouse blood lying about is there?	這裡應該沒有老鼠血到處都是吧?
+There must be something you can do.	你一定有什麼辦法可以做的。
+There's 8 of them.	有八個。
+There's a big pile of invisible diamonds on it.	上面有一大堆隱形鑽石。
+There's a little tadpole swimming in it.	裡面有一隻小蝌蚪在游來游去。
+There's a piece of paper under this rock.	這塊石頭下面有一張紙。
+There's a pin missing here.	這裡少了一根針。
+There's a strange man digging down there.	下面有個奇怪的人在挖東西。
+There's a very hot fire burning in it.	裡面燒著非常熱的火。
+There's no call for bad language.	沒必要說髒話。
+There's no need to be rude.	不必這麼粗魯。
+There's no way I can get back through them.	我沒辦法從它們中間穿回去。
+There's nothing I want from a talking mirror!	我才不想要會說話的鏡子給我什麼東西!
+There's someone fishing down there.	下面有人在釣魚。
+These gems are all fakes. I'll have them disposed of for you.	這些寶石全是贗品。我會幫你把它們處理掉。
+They lead down into the gorge.	它們通往下面的峽谷。
+They look just like the ones my brother grows.	它們看起來跟我哥哥種的一模一樣。
+They look like hairdressing scissors.	看起來像理髮剪刀。
+They think they're disguised as yokels.	他們以為自己偽裝成鄉巴佬了。
+They're all mushy, romantic novels.	全都是些肉麻的羅曼史小說。
+They're big, heavy, and magically enchanted.	它們又大又重,還被施了魔法。
+They're fine examples of their kind.	是它們同類中的佼佼者。
+They're used as footholds for climbing across the rockface.	它們用來當作攀爬岩壁的踏腳點。
+Thin slivers of boeotian cherrywood.	薄薄的維奧蒂亞櫻桃木片。
+This conversation is insane. Goodbye.	這對話太瘋狂了。再見。
+This is a stick up. Gimme the gems, stunty.	這是搶劫。把寶石交出來,矮冬瓜。
+This isn't going to hurt is it?	這不會痛吧?
+This must be an extremely low budget candy house.	這一定是間預算超低的糖果屋。
+Those statues were once... People!	那些雕像曾經是...人!
+Tissues	衛生紙
+To be perfectly honest... I am just a tad.	老實說...我是有一點點。
 Tomb	墳墓
+Top o'the morning to ya, Mr. Troll. May I cross the bridge, please?	晨安啊,食人妖先生。請問我可以過橋嗎?
+Towards tap	往水龍頭
+Tower of Doom	末日之塔
+Trapdoor	活板門
 Tree stump	樹樁
+Troll	巨怪
+Troll Bridge	巨怪之橋
 Trunk	樹幹
+Two small demons playing dice.	兩個小惡魔在擲骰子。
+Uh... There are loads of mushy novels and underwear all around here!	呃...這附近到處都是肉麻小說跟內褲!
+Unless of course you can use some flower power to help?	除非當然你能用什麼花的力量來幫忙?
 Up	上方
+Use it to Save, Load or Quit.	用來存檔、讀檔或離開。
+Use this to speed around the game.	用來在遊戲中快速移動。
+Village	村莊
 Vines	藤蔓
+Vines hanging down from the ledge above.	從上方岩架垂下來的藤蔓。
 Wagon wheel	車輪巧克力餅
+Water	水
 Water-melon	西瓜
+Wax	蠟
+We'll see about that.	走著瞧。
+Wedge	楔子
 Well	水井
+Well actually... I think I've got the wrong house.	其實嘛...我想我找錯房子了。
+Well there you are then - problem solved!	好啦,這不就結了 - 問題解決!
+Well, you look like demons! Ha Ha.. Ha?	嘛,你看起來像惡魔!哈哈..哈?
+Well, you've got me sussed then.	好吧,你算是把我看透了。
+Well. Have you got any magical stuff?	嗯。你有什麼魔法之類的東西嗎?
+Well. Now you come to mention it...	嗯。既然你提起...
+Well... I can't tell you at the moment.	這個嘛...我目前沒辦法告訴你。
+Well... I did manage to find this.	這個嘛...我倒是找到了這個。
+Well... I'll be seeing you.	嗯...後會有期。
+Were you holding the axe the right way round?	你拿斧頭的方向拿對了嗎?
+What - so you're a bunch of werewolves then?	什麼 - 所以你們是一群狼人嘍?
+What I don't know about magic ain't worth knowin'.	關於魔法我不懂的事,根本不值得懂。
+What a bizarre creature.	真是個奇怪的生物。
+What appears to be the problem here.	這裡是有什麼問題。
+What appears to be the problem?	有什麼問題嗎?
+What are the stakes again?	再說一次賭注是什麼?
+What are the stakes?	賭注是什麼?
+What are they?	它們是什麼?
+What are you doing down there?	你在下面做什麼?
+What are your ambitions in life?	你人生有什麼抱負?
+What are your hobbies?	你有什麼嗜好?
+What are your measurements?	你的三圍是多少?
+What astrological advice can you give me?	你能給我什麼占星方面的建議?
+What beans?	什麼豆子?
+What d'YOU do when the sun goes down, babe?	太陽下山後你都在幹嘛,寶貝?
+What d'you want me to do about it?	你要我怎麼處理?
+What did you have for breakfast this morning?	你今天早餐吃了什麼?
+What did you say it looked like again?	你剛說它看起來像什麼來著?
+What disguise?	什麼偽裝?
+What do I get out of it?	我能從中得到什麼?
+What do you do at these meetings?	你們在這些聚會上都做什麼?
+What do you know about Calypso?	你對 Calypso 了解多少?
+What do you know about Sordid?	你對索迪德知道多少？
+What do you want?	你想要什麼？
+What do you wear in bed?	你睡覺時穿什麼?
+What does this staff look like?	這根法杖看起來像什麼?
+What exactly does it do?	它到底有什麼用?
+What exactly is the problem?	到底有什麼問題?
+What happened to Calypso?	Calypso 發生了什麼事?
+What have I ever done to you?	我到底對你做過什麼?
+What makes you think that?	你怎麼會這麼想?
+What rules did he break?	他破了什麼規矩?
+What sort of fool d'you take me for?	你把我當成哪種傻瓜?
+What sort of magic?	什麼樣的魔法?
+What the hell am I supposed to do?	我到底該怎麼辦?
+What the hell is that thing.	那到底是什麼鬼東西。
+What was it that you're doing here?	你在這裡做什麼來著?
+What was your special druid power again?	再說一次你的德魯伊特殊能力是什麼?
+What's a metal detector doing in this dimension?	這個次元裡怎麼會有金屬探測器?
+What's goat into you?	你是被羊附身了嗎?
+What's in this stuff?	這東西裡面有什麼?
+What's it like being a mirror?	當鏡子是什麼感覺?
+What's it worth?	這值多少?
+What's rattled your cage?	什麼事惹你發火了?
+What's so special about it?	它有什麼特別的?
+What's so special about these trees?	這些樹有什麼特別的?
+What's the square root of 1369?	1369 的平方根是多少?
+What's this game you're playing?	你在玩什麼把戲?
+What's with the fishing rod?	這釣魚竿是怎麼回事?
+What's with this Sordid guy anyway?	這個 Sordid 傢伙到底是怎麼回事?
+What's wrong with the trees?	這些樹怎麼了?
+What's wrong? Wood shares gone up, have they?	怎麼了?木材股漲價了是吧?
+What... Harder than diamond?	什麼...比鑽石還硬?
+When I get back to my normal size, you're history.	等我恢復正常大小,你就完蛋了。
+When I move my mouse pointer over you it says 'Wizards.'	當我把滑鼠游標移到你上面,它顯示「法師」。
+Where do you get your armor?	你的盔甲從哪弄來的?
+Where does this door go?	這扇門通往哪裡?
+Where might I find Calypso?	我可以在哪裡找到 Calypso?
+Where's the door?	門在哪裡？
+Where's the rest of them then?	其他那些呢?
+Which animal can you change into?	你能變成哪種動物?
+Which wicked witch would that be?	那會是哪個壞女巫?
+Which witch would that be?	那會是哪個女巫?
+White spirit	白精油
+Who is 'Sordid'?	「Sordid」是誰?
+Who the hell is Carmen Miranda?	Carmen Miranda 到底是誰?
+Who were you talking to?	你剛在跟誰說話?
+Who would magically protect a tree?	誰會用魔法保護一棵樹?
+Who's Tolkien?	Tolkien 是誰?
 Whoever he was, he had an enormous nose.	不管他是誰，他有個巨大的鼻子。
+Why are you irritated?	你為什麼不耐煩?
+Why are you unhappy?	你為什麼不高興?
+Why do you stay here if you're dissatisfied?	既然你不滿意,為什麼還待在這裡?
+Why doesn't someone stop him?	為什麼沒人阻止他?
+Why don't you have a go and find out?	你何不自己試試看?
+Why don't you have a wild ca.. demon strike?	你何不來個野貓..惡魔突襲?
+Why don't you just Dial-A-Pizza?	你何不直接打電話訂披薩?
+Why don't you just buy a magical axe?	你何不直接買把魔法斧頭?
+Why don't you just eat these two now?	你何不現在就把這兩個吃掉?
+Why don't you just escape using the teleporter?	你何不直接用傳送器逃走?
+Why don't you just go back to a normal forest?	你何不直接回普通的森林去?
+Why have you dug a hole in the middle of the forest?	你為什麼在森林中間挖個洞?
+Why have you given me this useless rubbish?	你為什麼給我這些沒用的垃圾?
+Why is the witch keeping you in here?	女巫為什麼把你關在這裡?
+Why is this less reliable?	為什麼這個比較不可靠?
+Why is this more convenient?	為什麼這個比較方便?
+Why not?	有何不可？
+Why won't you tell me?	你為什麼不肯告訴我?
+Why would he WANT you two around?	他憑什麼想要你們倆在身邊?
+Why? Has he cast some sort of spell over the people?	為什麼?他是不是對那些人施了什麼法?
 Wise owl	智者貓頭鷹
+Witch's Cottage	女巫小屋
+WizKid wallet	巫師小子錢包
+Wizard	巫師
+Woe is me.	悲慘啊。
 Woodcutter	樵夫
+Wooden barrels.	木桶。
 Woodworm	蛀蟲
+Would you care to step outside.	要不要到外面去。
+Would you excuse me, please. I need to get past.	抱歉借過一下。我需要過去。
+Would you like to barter for a ticket?	你想用物物交換換張票嗎?
+Would you like to barter for it?	想用物物交換來換它嗎?
+Would you like to slip into something more comfortable?	要不要換件舒服點的衣服?
+Wouldn't YOU be if a lunatic druid wanted to stick a silver dagger through YOUR heart?	如果一個瘋狂德魯伊想把銀匕首插進你的心臟,你難道不會嗎?
+Yep - but I've come back.	對 - 不過我回來了。
+Yes please.	好的。
+Yes, OK then.	好吧,行。
+Yes, Ok then.	好吧,行。
+You can up it or down it.	可以調高或調低。
+You can't fool me - you're a paleontologist aren't you?	你騙不了我 - 你是古生物學家對吧?
+You can't. I'm just passing through.	不行。我只是路過。
+You could do with some meat on your bones.	你身上該多長點肉。
+You could start by never breathing again.	你可以從再也不呼吸開始。
+You don't scare me! I'm on a mission from god.	你嚇不了我!我是奉上帝之命行事。
+You have absolutely feeble accents, fellas.	你們的口音簡直弱斃了,伙計們。
+You have awful accents.	你們的口音真糟。
+You have to let me in. The fate of the world depends on it.	你必須讓我進去。世界的命運全靠它了。
+You just gotta take the rough with the smooth.	你就是得把好壞一起吞。
+You look like YOU need cheering up!	看起來需要打氣的是你吧!
+You look like wizards.	你們看起來像法師。
+You may have already won 1,000,000 gold pieces!	您可能已經贏得 1,000,000 金幣!
+You mean Dan Quayle?	你是說 Dan Quayle?
+You need a key to open it.	需要鑰匙才能打開它。
+You really are an old miseryguts.	你還真是個老愛發牢騷的傢伙。
+You really are useless aren't you?	你還真是沒用,不是嗎?
+You really do see some strange things around these parts.	在這一帶還真是會看到些奇怪的東西。
+You really worship Him, don't you?	你真的很崇拜祂,不是嗎?
+You should keep a more civil tongue in your head.	你說話應該放尊重點。
+You should make your axe out of me. I'm well hard.	你應該用我來做斧頭。我可硬了。
+You still look damn stunning to me.	你在我眼裡還是美呆了。
+You sure you're not wizards?	你確定你們不是法師?
+You talk a lot, don't you?	你話真多,不是嗎?
+You two would look great in my next movie!	你們倆在我下一部電影裡一定很上鏡!
+You wouldn't expect to see one of those here.	你不會料到在這裡看到那種東西。
+You wouldn't want to be rescued by the Prince of Evil, surely?	你總不想被邪惡王子給救走吧?
+You're a pirate looking for buried treasure?	你是個在找埋藏寶藏的海盜?
+You're a very rude person, Mr. Goat.	你真是個非常無禮的人,羊先生。
+You're adding to your interesting rock collection?	你在增添你那有趣的石頭收藏?
+You're fixing a gas leak?	你在修瓦斯漏氣?
+You're making a big mistake you know.	你正在犯下大錯,你知道的。
+You're not here to ask questions. Get on with it!	你不是來問問題的。動手吧!
+You're not listening to me, are you?	你沒在聽我說話,對吧?
+You're not married are you?	你沒結婚吧?
+You're scared of a billy goat???	你居然怕一頭公羊???
+You're some kind of spying device?	你是某種間諜裝置?
+You. I want you.	你。我要你。
+Your converation bores me. I bid you farewell.	你的對話讓我無聊死了。告辭。
+Your mother was a sheep.	你老媽是隻綿羊。
