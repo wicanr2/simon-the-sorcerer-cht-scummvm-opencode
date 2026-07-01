@@ -300,6 +300,7 @@ index 4a350757..a8f77205 100644
 +	int sx = (int)x;
 +	int sy = (int)y;
 +	if (sx < 0 || sy < 0 || sx + (int)fw > screen->w || sy + (int)fh > screen->h) {
++		updateBackendSurface();
 +		_videoLockOut &= ~0x8000;
 +		return;
 +	}
