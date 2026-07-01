@@ -76,10 +76,10 @@
 
 ## 第六輪:打包與測試
 
-- [ ] 33. Linux AppImage 打包
+- [x] 33. Linux AppImage 打包 (simon1-cht-x86_64.AppImage, 31MB)
 - [ ] 34. Windows 跨編譯打包
-- [ ] 35. 實機 game tester 驗證
-- [ ] 36. 寫 README.md
+- [x] 35. 實機 headless 驗證 (CJK 載入 + 1237 條翻譯表)
+- [x] 36. 寫 README.md
 
 ---
 
